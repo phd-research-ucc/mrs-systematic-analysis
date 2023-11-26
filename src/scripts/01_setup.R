@@ -11,6 +11,10 @@
 
 library(tidyverse)
 library(bib2df)
+library(writexl)
+library(stringi)
+library(glue)
+
 
 
 
@@ -32,7 +36,18 @@ ref_important_df <- references_df |>
     DATE.MODIFIED,
     DOI,
     URL,
-    KEYWORDS
+    KEYWORDS,
+    # ISSN,
+    # EISSN,
+    # JT,
+    # JID,
+    # JOURNAL1,
+    # JOURNAL2,
+    # BOOKTITLE,
+    # EDITOR,
+    # INSTITUTION,
+    # ORGANISATION,
+    # PUBLISHER
   )
 
 names(ref_important_df) <- tolower(names(ref_important_df))
@@ -100,6 +115,7 @@ ref_clear_dois_df <- ref_restored_urls_df |>
 #                   "phone", "orcid", "researcher_domain"
 
 authors_df <- ref_clear_dois_df |>
+  mutate(author = stri_unescape_unicode(ref_clear_dois_df$author)) |>
   mutate(author = strsplit(as.character(author), '\", \"')) |>
   select(bibtex_key, author) |>
   unnest(author) |>
@@ -147,12 +163,68 @@ authors_df$author <- gsub("\\\"$", "", authors_df$author)
 #     AT -> Alternative Theory works;
 #     AA -> Alternative Administration related works;
 #     HP -> Healthcare policies and rules;
-#     ND -> Not Defined;
+#     ND -> Undefined;
 #     NA -> Other.
 #
 #   3. Add column "group" to manually alter the group based on the review.
 #
 #   4. Also group by the year of publication: 2020+, 2015-2019, 2010-2014,
 #      2005-2009, 2000-2004, before 2000.
+
+literature_df <- ref_clear_dois_df |>
+  mutate(
+    research_methodology = ifelse(
+      ( grepl('review', title, ignore.case = TRUE) |
+        grepl('review', abstract, ignore.case = TRUE) |
+        grepl('review', keywords, ignore.case = TRUE) ),
+      'review',
+      'undefined'
+    ),
+    spaciality = ifelse(
+        ( grepl('operating', title, ignore.case = TRUE) |
+          grepl('operating', abstract, ignore.case = TRUE) |
+          grepl('operating', keywords, ignore.case = TRUE) ),
+      'specialised',
+      'undefined'
+    ),
+    category = tolower(category),
+    iso2 = 'undefined',
+    direction = as.factor('undefined'),
+    relevance = NA,
+    review_url = 'undefined',
+    comment = '',
+    status = as.factor('unprocessed'),
+    objectives = '',
+    objectives_reached = as.logical(NA),
+    conflict_of_interests = '',
+    resource_status = as.factor('undefined'),
+    environment = as.factor('undefined'),
+    provider = as.factor('undefined'),
+    unsertainty = as.logical(NA),
+    covid19 = as.logical(NA),
+    comprehension = 0.00,
+    last_access_date = as.Date("2023-11-16"),
+    update_date = as.Date("2023-11-16")
+  )
+
+# Write the literature data frame to an Excel file
+write_xlsx(literature_df, glue('src/data/edit/{Sys.Date()}_literature.xlsx'))
+
+# Separate Keywords -------------------------------------------------------
+
+
+keywords_df <- ref_clear_dois_df |>
+  mutate(keyword = strsplit(as.character(keywords), ',')) |>
+  unnest(keyword) |>
+  mutate(keyword = strsplit(as.character(keyword), ';')) |>
+  unnest(keyword) |>
+  select(bibtex_key, keyword) |>
+  mutate(
+    keyword = trimws(keyword),
+    keyword_type = 'undefined'
+  )
+
+# Write the keywords data frame to an Excel file
+write_xlsx(keywords_df, glue('src/data/edit/{Sys.Date()}_keywords.xlsx'))
 
 
