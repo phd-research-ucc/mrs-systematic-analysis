@@ -1,0 +1,26 @@
+% These settings are partly from:
+%  http://mintaka.sdsu.edu/GF/bibliog/latex/floats.html
+
+%   General parameters, for ALL pages:
+\renewcommand{\topfraction}{0.9}	% max fraction of floats at top
+\renewcommand{\bottomfraction}{0.8}	% max fraction of floats at bottom
+
+%   Parameters for TEXT pages (not float pages):
+\setcounter{topnumber}{2}
+\setcounter{bottomnumber}{2}
+\setcounter{totalnumber}{4}     % 2 may work better
+\setcounter{dbltopnumber}{2}    % for 2-column pages
+\renewcommand{\dbltopfraction}{0.9}	% fit big float above 2-col. text
+\renewcommand{\textfraction}{0.2}	% page must be at least 20% text, 
+%                                  less than that and we get a floatpage
+
+%   Parameters for FLOAT pages (not text pages):
+\renewcommand{\floatpagefraction}{0.7}	% require fuller float pages
+% N.B.: floatpagefraction MUST be less than topfraction !!
+\renewcommand{\dblfloatpagefraction}{0.7}	% require fuller float pages
+
+% remember to use [htp] or [htpb] for placement,
+% e.g. 
+%  \begin{figure}[htp]
+%   ...
+%  \end{figure}
