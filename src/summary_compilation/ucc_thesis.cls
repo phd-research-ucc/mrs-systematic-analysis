@@ -244,8 +244,7 @@
     % \fancyhead[L]{\rightmark}
     \renewcommand{\headrulewidth}{0pt}
     \fancyfoot[L]{\footnotesize \textit 
-        {Advanced Computational Approaches for\\ 
-         Medical Resource Scheduling}
+        {Medical Resource Scheduling}
     }
     \fancyfoot[C]{\thepage}
     \fancyfoot[R]{\footnotesize Oleksii Dovhaniuk }
@@ -294,7 +293,7 @@
     \pagestyle{fancy}
     \fancyhf{} % Clear header and footer
     % \fancyhead[L]{\rightmark}
-    \fancyhead[L]{\footnotesize Summary Compilation}
+    \fancyhead[L]{\footnotesize Systematic Review}
     \fancyhead[R]{
         \footnotesize \textit{
             Workflow records
@@ -418,7 +417,7 @@
 
     \pagestyle{fancy}
     \fancyhf{} % Clear header and footer
-    \fancyhead[L]{\footnotesize Summary Compilation}
+    \fancyhead[L]{\footnotesize Systematic Review}
     \fancyhead[R]{
         \footnotesize \textit{
             Workflow records
@@ -427,8 +426,7 @@
     % \fancyhead[L]{\rightmark}
     \renewcommand{\headrulewidth}{0pt}
     \fancyfoot[L]{\footnotesize \textit 
-        {Advanced Computational Approaches for\\ 
-         Medical Resource Scheduling}
+        {Medical Resource Scheduling}
     }
     \fancyfoot[C]{\thepage}
     \fancyfoot[R]{\footnotesize Oleksii Dovhaniuk }
