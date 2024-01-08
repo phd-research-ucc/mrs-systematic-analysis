@@ -1,0 +1,261 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Systematic Review of Medical Resource Scheduling: Draft",
+    "section": "",
+    "text": "Preface\nThis is a general draft of the review article. The purpose of this document is comfortable…"
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "2  Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee (123?) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "3  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "section/02_introduction.html#rationale",
+    "href": "section/02_introduction.html#rationale",
+    "title": "1  Introduction",
+    "section": "1.1 Rationale",
+    "text": "1.1 Rationale\nThis is a book created from markdown and executable code."
+  },
+  {
+    "objectID": "section/02_introduction.html#objectives",
+    "href": "section/02_introduction.html#objectives",
+    "title": "1  Introduction",
+    "section": "1.2 Objectives",
+    "text": "1.2 Objectives\nSee @123 for additional discussion of literate programming."
+  },
+  {
+    "objectID": "section/01_introduction.html#rationale",
+    "href": "section/01_introduction.html#rationale",
+    "title": "1  Introduction",
+    "section": "1.1 Rationale",
+    "text": "1.1 Rationale\nThis is a book created from markdown and executable code."
+  },
+  {
+    "objectID": "section/01_introduction.html#objectives",
+    "href": "section/01_introduction.html#objectives",
+    "title": "1  Introduction",
+    "section": "1.2 Objectives",
+    "text": "1.2 Objectives\nSee [@011TWHybridGA2020] for additional discussion of literate programming."
+  },
+  {
+    "objectID": "section/02_methods.html#eligibility-criteria",
+    "href": "section/02_methods.html#eligibility-criteria",
+    "title": "2  Methods",
+    "section": "2.1 Eligibility Criteria",
+    "text": "2.1 Eligibility Criteria"
+  },
+  {
+    "objectID": "section/02_methods.html#information-sources",
+    "href": "section/02_methods.html#information-sources",
+    "title": "2  Methods",
+    "section": "2.2 Information Sources",
+    "text": "2.2 Information Sources"
+  },
+  {
+    "objectID": "section/02_methods.html#search-strategy",
+    "href": "section/02_methods.html#search-strategy",
+    "title": "2  Methods",
+    "section": "2.3 Search Strategy",
+    "text": "2.3 Search Strategy"
+  },
+  {
+    "objectID": "section/02_methods.html#selection-process",
+    "href": "section/02_methods.html#selection-process",
+    "title": "2  Methods",
+    "section": "2.4 Selection Process",
+    "text": "2.4 Selection Process"
+  },
+  {
+    "objectID": "section/02_methods.html#data-collection-process",
+    "href": "section/02_methods.html#data-collection-process",
+    "title": "2  Methods",
+    "section": "2.5 Data Collection Process",
+    "text": "2.5 Data Collection Process"
+  },
+  {
+    "objectID": "section/02_methods.html#data-items",
+    "href": "section/02_methods.html#data-items",
+    "title": "2  Methods",
+    "section": "2.6 Data Items",
+    "text": "2.6 Data Items\n\n2.6.1 Outcomes\n\n\n2.6.2 Other Variables"
+  },
+  {
+    "objectID": "section/02_methods.html#study-risk-of-bias-assessment",
+    "href": "section/02_methods.html#study-risk-of-bias-assessment",
+    "title": "2  Methods",
+    "section": "2.7 Study Risk of Bias Assessment",
+    "text": "2.7 Study Risk of Bias Assessment"
+  },
+  {
+    "objectID": "section/02_methods.html#effect-measures",
+    "href": "section/02_methods.html#effect-measures",
+    "title": "2  Methods",
+    "section": "2.8 Effect Measures",
+    "text": "2.8 Effect Measures"
+  },
+  {
+    "objectID": "section/02_methods.html#synthesis-methods",
+    "href": "section/02_methods.html#synthesis-methods",
+    "title": "2  Methods",
+    "section": "2.9 Synthesis Methods",
+    "text": "2.9 Synthesis Methods\n\n2.9.1 Eligibility for Synthesis\n\n\n2.9.2 Preparing for Synthesis\n\n\n2.9.3 Tabulation and Graphical Methods\n\n\n2.9.4 Statistical Synthesis Methods\n\n\n2.9.5 Methods to Explore Heterogeneity\n\n\n2.9.6 Sensitivity Analyses"
+  },
+  {
+    "objectID": "section/02_methods.html#reporting-bias-assessment",
+    "href": "section/02_methods.html#reporting-bias-assessment",
+    "title": "2  Methods",
+    "section": "2.10 Reporting Bias Assessment",
+    "text": "2.10 Reporting Bias Assessment"
+  },
+  {
+    "objectID": "section/02_methods.html#certainty-assessment",
+    "href": "section/02_methods.html#certainty-assessment",
+    "title": "2  Methods",
+    "section": "2.11 Certainty Assessment",
+    "text": "2.11 Certainty Assessment"
+  },
+  {
+    "objectID": "section/03_results.html#study-selection",
+    "href": "section/03_results.html#study-selection",
+    "title": "3  Results",
+    "section": "3.1 Study Selection",
+    "text": "3.1 Study Selection\n\n3.1.1 Flow of Studies\n\n\n3.1.2 Excluded Studies"
+  },
+  {
+    "objectID": "section/03_results.html#study-characteristics",
+    "href": "section/03_results.html#study-characteristics",
+    "title": "3  Results",
+    "section": "3.2 Study Characteristics",
+    "text": "3.2 Study Characteristics"
+  },
+  {
+    "objectID": "section/03_results.html#risk-of-bias-in-studies",
+    "href": "section/03_results.html#risk-of-bias-in-studies",
+    "title": "3  Results",
+    "section": "3.3 Risk of Bias in Studies",
+    "text": "3.3 Risk of Bias in Studies"
+  },
+  {
+    "objectID": "section/03_results.html#results-of-individual-studies",
+    "href": "section/03_results.html#results-of-individual-studies",
+    "title": "3  Results",
+    "section": "3.4 Results of Individual Studies",
+    "text": "3.4 Results of Individual Studies"
+  },
+  {
+    "objectID": "section/03_results.html#results-of-syntheses",
+    "href": "section/03_results.html#results-of-syntheses",
+    "title": "3  Results",
+    "section": "3.5 Results of Syntheses",
+    "text": "3.5 Results of Syntheses\n\n3.5.1 Characteristics of Contributing Studies\n\n\n3.5.2 Results of Statistical Syntheses\n\n\n3.5.3 Results of Investigation of Heterogeneity\n\n\n3.5.4 Results of Sensitivity Analyses"
+  },
+  {
+    "objectID": "section/03_results.html#reporting-biases",
+    "href": "section/03_results.html#reporting-biases",
+    "title": "3  Results",
+    "section": "3.6 Reporting Biases",
+    "text": "3.6 Reporting Biases"
+  },
+  {
+    "objectID": "section/03_results.html#certainty-of-evidence",
+    "href": "section/03_results.html#certainty-of-evidence",
+    "title": "3  Results",
+    "section": "3.7 Certainty of Evidence",
+    "text": "3.7 Certainty of Evidence"
+  },
+  {
+    "objectID": "section/04_discussion.html#interpretation",
+    "href": "section/04_discussion.html#interpretation",
+    "title": "4  Discussion",
+    "section": "4.1 Interpretation",
+    "text": "4.1 Interpretation"
+  },
+  {
+    "objectID": "section/04_discussion.html#limitations-of-evidence",
+    "href": "section/04_discussion.html#limitations-of-evidence",
+    "title": "4  Discussion",
+    "section": "4.2 Limitations of Evidence",
+    "text": "4.2 Limitations of Evidence"
+  },
+  {
+    "objectID": "section/04_discussion.html#limitations-of-review-processes",
+    "href": "section/04_discussion.html#limitations-of-review-processes",
+    "title": "4  Discussion",
+    "section": "4.3 Limitations of Review Processes",
+    "text": "4.3 Limitations of Review Processes"
+  },
+  {
+    "objectID": "section/04_discussion.html#implications",
+    "href": "section/04_discussion.html#implications",
+    "title": "4  Discussion",
+    "section": "4.4 Implications",
+    "text": "4.4 Implications\n\n4.4.1 Sharing the Knowledge\nAs it was seen from the results even thought the number of the published papers grown drastically for the last three years, the precental of the studies which offer reproducebility of the research even worthen. Here could be multiple resons for such behaviour. First, the practical medical resource scheduling requires access to some medical recorts to make proper validation of the proposed solution. A medical record is sensitive data. To be able to share it, the data should be properly anonymised and the research on the data should be approved by data provider and local laws regarding data review, collection, and sharing. Getting all ligal documents consums a lot of time and effords. Lieading, for most cases, to not bothering with reproducibility of the research in the first place. Second probable reason for lack of reproducible research is deliberate or unvoluntary neglaction of this aspect of the research conduct by the authrors. Finnaly, lack of knowledge to create a reproducible study.\nThere is a viable set of actions to address the problem with medical records. The data administrators in hospitals or researchers, who already has access to medical records, can preprocess the data to “unlink” the personal data from the datasets and preserve the optimsal structure for further development of the research. Since most of the hospitals even in the same country has different policies and regulations regarding the volume of the data and the recording process, the more different datasets will become available in open-source, the easier it will be to create new robust, optimsal scheduling solutions\nFor the second and the third resons of not conducting proper research, the best approach is to increase awareness of the research teams in their institutions by providing sufficient training. Probably, increase appealing learning resources in the pablic area such as social media, television, etc. Particularly, regarding the researchers who deliberetly misconduct their works, the consiquences of such behaviour can be discussed in public media.\n\n\n4.4.2 No optimal solutions"
+  },
+  {
+    "objectID": "section/05_other_information.html#registration",
+    "href": "section/05_other_information.html#registration",
+    "title": "5  Other Information",
+    "section": "5.1 Registration",
+    "text": "5.1 Registration\nThis systematic review is not registered in any database."
+  },
+  {
+    "objectID": "section/05_other_information.html#protocol",
+    "href": "section/05_other_information.html#protocol",
+    "title": "5  Other Information",
+    "section": "5.2 Protocol",
+    "text": "5.2 Protocol\nThe current work follows the guidance from established template for systematic literature review in medicine —LINK/ CITATION/ ETC.—."
+  },
+  {
+    "objectID": "section/05_other_information.html#amendments",
+    "href": "section/05_other_information.html#amendments",
+    "title": "5  Other Information",
+    "section": "5.3 Amendments",
+    "text": "5.3 Amendments\nSo far it is only a draft of the study. It is expected to be numerouse changes before the print ready version of the article."
+  },
+  {
+    "objectID": "section/05_other_information.html#support",
+    "href": "section/05_other_information.html#support",
+    "title": "5  Other Information",
+    "section": "5.4 Support",
+    "text": "5.4 Support\nThis literature review was produced with the financial support of the Science Foundation Ireland Centre for Research Training in Artificial Intelligence under Grant No.18/CRT/6223. This literature review has emanated from research conducted with the financial support of Science Foundation Ireland under Grant number 18/CRT/6223. For Open Access, the author has applied a CC BY public copyright license to any Author Accepted Manuscript version arising from this submission."
+  },
+  {
+    "objectID": "section/05_other_information.html#competing-interests",
+    "href": "section/05_other_information.html#competing-interests",
+    "title": "5  Other Information",
+    "section": "5.5 Competing Interests",
+    "text": "5.5 Competing Interests\nOleksii Dovhaniuk is a PhD researcher at the University College Cork in the School of Computer Science and Information Technology. Dr Sabin Tabirca is a senior lector of the University College Cork in the same department. It is only natural that automated computational methods will get more attention than classical approaches to medical resource scheduling. Furthermore, the Science Foundation Ireland Centre for Research Training in Artificial Intelligence requires progress in advanced computational methods, which narrows the interest even more in the direction of machine learning, neural networks, and meta-heuristics. The authors who represent the medical area of the research are either former workers of the Transformation Theatre Team in Ireland or closely related to this initiative. This aspect makes the research orient into operating theatre as the central aspect of medical resource scheduling. The weaker the connection of medical resources to the surgery operations, the less attention they get during the literature analysis."
+  },
+  {
+    "objectID": "section/05_other_information.html#availability-of-data-code-and-other-materials",
+    "href": "section/05_other_information.html#availability-of-data-code-and-other-materials",
+    "title": "5  Other Information",
+    "section": "5.6 Availability of Data, Code, and Other Materials",
+    "text": "5.6 Availability of Data, Code, and Other Materials\nList of studies which were read, analysed but rejected in the final manuscript can be accessed by link to the GitHub repository. In the same repository the R code for automatic mining the metadate from the BibTex references is available. The suplimentary materials such as preliminary tables, charts as well as final results are published on the separate web page."
+  },
+  {
+    "objectID": "section/05_other_information.html#author-contribution-statements",
+    "href": "section/05_other_information.html#author-contribution-statements",
+    "title": "5  Other Information",
+    "section": "5.7 Author Contribution Statements",
+    "text": "5.7 Author Contribution Statements\nOleksii Dovhaniuk scanned, structured, and analysed literature and rendered the draft. Grace Reidy, Charlie Dineen, and Mark Corrigan problem formulation and advisory. Sabin Tabirca, mid-project and final assessments. All authors discussed the results and contributed to the final manuscript."
+  }
+]

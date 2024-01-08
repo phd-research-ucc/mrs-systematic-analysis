@@ -1,0 +1,38 @@
+project:
+  type: book
+
+book:
+  title: "Systematic Review of Medical Resource Scheduling: Draft"
+  author:
+  - name: Oleksii Dovhaniuk
+    orcid: 0009-0003-2247-9323
+    email: 122119242@umail.ucc.ie
+    affiliations:
+      - name: University College Cork
+        department: School of Computer Science and Technology
+        address: Western Gateway Building, Western Road
+        city: Cork
+        postal-code: T12 YN60
+  abstract: "Here is the place for the abstract of this systematic literature review."
+  date: today
+  chapters:
+    - index.qmd
+    - section/01_introduction.qmd
+    - section/02_methods.qmd
+    - section/03_results.qmd
+    - section/04_discussion.qmd
+    - section/05_other_information.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: 
+      light: litera
+      dark: darkly
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+

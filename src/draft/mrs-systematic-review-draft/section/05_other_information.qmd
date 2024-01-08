@@ -1,0 +1,35 @@
+# Other Information
+
+## Registration
+    
+This systematic review is not registered in any database.
+
+
+## Protocol
+
+The current work follows the guidance from established template for systematic literature review in medicine ---LINK/ CITATION/ ETC.---.
+
+
+## Amendments
+
+So far it is only a draft of the study. It is expected to be numerouse changes before the print ready version of the article.
+
+
+## Support
+
+This literature review was produced with the financial support of the Science Foundation Ireland Centre for Research Training in Artificial Intelligence under Grant No.18/CRT/6223. This literature review has emanated from research conducted with the financial support of Science Foundation Ireland under Grant number 18/CRT/6223. For Open Access, the author has applied a CC BY public copyright license to any Author Accepted Manuscript version arising from this submission.
+
+
+## Competing Interests
+
+Oleksii Dovhaniuk is a PhD researcher at the University College Cork in the School of Computer Science and Information Technology. Dr Sabin Tabirca is a senior lector of the University College Cork in the same department. It is only natural that automated computational methods will get more attention than classical approaches to medical resource scheduling. Furthermore, the Science Foundation Ireland Centre for Research Training in Artificial Intelligence requires progress in advanced computational methods, which narrows the interest even more in the direction of machine learning, neural networks, and meta-heuristics. The authors who represent the medical area of the research are either former workers of the Transformation Theatre Team in Ireland or closely related to this initiative. This aspect makes the research orient into operating theatre as the central aspect of medical resource scheduling. The weaker the connection of medical resources to the surgery operations, the less attention they get during the literature analysis.
+
+
+## Availability of Data, Code, and Other Materials
+
+List of studies which were read, analysed but rejected in the final manuscript can be accessed by link to the GitHub repository. In the same repository the R code for automatic mining the metadate from the BibTex references is available. The suplimentary materials such as preliminary tables, charts as well as final results are published on the separate web page.
+
+
+## Author Contribution Statements
+
+Oleksii Dovhaniuk scanned, structured, and analysed literature and rendered the draft. Grace Reidy, Charlie Dineen, and Mark Corrigan problem formulation and advisory. Sabin Tabirca, mid-project and final assessments. All authors discussed the results and contributed to the final manuscript.

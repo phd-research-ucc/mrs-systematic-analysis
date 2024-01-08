@@ -1,0 +1,33 @@
+# Results
+
+## Study Selection
+
+### Flow of Studies
+
+### Excluded Studies
+    
+
+## Study Characteristics
+
+
+## Risk of Bias in Studies
+
+
+## Results of Individual Studies
+
+
+## Results of Syntheses
+
+### Characteristics of Contributing Studies
+
+### Results of Statistical Syntheses
+
+### Results of Investigation of Heterogeneity
+
+### Results of Sensitivity Analyses
+
+
+## Reporting Biases
+
+
+## Certainty of Evidence

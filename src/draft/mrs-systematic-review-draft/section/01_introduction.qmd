@@ -1,0 +1,13 @@
+# Introduction
+
+## Rationale
+
+```         
+This is a book created from markdown and executable code.
+```
+
+## Objectives
+
+```         
+See [@011TWHybridGA2020] for additional discussion of literate programming.
+```
