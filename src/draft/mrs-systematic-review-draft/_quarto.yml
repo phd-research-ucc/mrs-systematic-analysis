@@ -28,9 +28,21 @@ bibliography: references.bib
 
 format:
   html:
+    toc: true
+    toc_float: true
+    smooth-scroll: true
+    toc-location: left
+    comments:
+      hypothesis: true
+    citations-hover: true
+    crossref-hover: true
     theme: 
       light: litera
       dark: darkly
+    mermaid:
+      theme: neutral
+  docx:
+    toc: true
   pdf:
     documentclass: scrreprt
 

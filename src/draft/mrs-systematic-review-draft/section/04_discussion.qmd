@@ -2,21 +2,43 @@
 
 ## Interpretation
 
-### Stategy Desicion Levels
+### Stategy Decision Levels
+
+The understanding of the decision levels important to understand what computational solutions will bring the most benefits on what decision level. The higher the level of desicion-making the more distant it is to actual human interaction and more matter of structuring numbers and deriving reasonable solutions from there. The lover levels, on the other hand, requires more human-like response and bieng present "in the field" to make optimal decisions for the moment. Nevertheless, the understanding of the personnel actions from the strategic level is critical to produce realistic policies, regulations, and strutegies for the caregivers in-action.
+
+From the analysis of the available literature, it seams that the more computational approaches consentraited on the lower tactical and operational levels, where the efficient desicions from a computational system requires high efforts in ensuring the accurat, relevant, complete, and timely data. For higher tactical and stratagic levels there is more "room" for data to stay accurat, releven, and timely. Hense, it is high possibilities that if these scientific effords will be focused on the higher levels of decision-making, the value of these studies will drastically increase. 
 
 
 
 
 ### Integration of the Scheduling Problem
 
+The nature of research requires to ignore some variables regarding the investigated phenomena, but the medical resource scheduling is an NP-hard problem with numerous critaria. There is no study which will clearly define prorities of the different parts of medical resource scheduling. The reason for this, is that the scheduling problems in hospitals differ by funding, level of staff profissiancy, policies and regulations, and available data for analysis. The first issue which is need to be addressed is the medical records. Without medical records there is not idea where the hospital administration is trying to improve and what is realy important. But even here different hospitals may persuit different paths depending on what metrics should be measured: revenue, utilisation time, patient waiting time or patient and staff satisfaction... ???
 
-### Downstream and Upstream Capacities
-
-
-### Types of Pationts
+The literature proposes for the most cases narrow approach to the scheduling problem. With the growth of the constrains the problem becomes more complex to find sufficient solutions and therefore the number of publications plummets down. It is not a rational to try to put as many as possible constraints in the scheduling models. Therefore, it is need to develop an approach of definning the most valuable aspects of the problem to the liest valuable. Desiding what parameters are more valuable than the other can be multi-objective task itself. For example, the hospital administration may consider gains form the improving sertain critaria, required resources to measure the critaria, complexity of the analysation of the measured data, what other critarias may be influance by increase of the chosen parameter, and finaly needed components to improve the certain parameters of the healthcare services in this hospital. Because this is an over-complicated task for itself, most of the hospitals either go with the simplest critatia to track and work with whatever data theu will gain in the process, or copy the paths of hospitals with the well established criterias. Both of the choises are valid practical approaches. 
 
 
-### Who Did Get All the Brains?
+
+
+### Upstream and Downstream Capacities
+
+The management of capacities related to the operating theatres is crucial to avoid blocking the opearing theatre even though the surgery is over, but new case cannot be allowed in the theatre by numerouse possible reasons. Here the computational systems can be usefull in keeping track of available beds, nurses, and anaesthegiologists in preoperative and postoperative units. It involves the suffisticated records system which allow to undertand occupancy of the available resources. Without it a planning of the operation cases and other healthcare services is "going blind in a maze", but with the habits of recording the state of the upstream and downstream capacities the computational approaches can bring analysis of the demands and therefore propose strategies for planning of the needed capacities. However, the on-the-fly desicions cannot be supported by the automated advisory systems. The best method dealing with the critical unavailability of the resources is to have policies of prioritisations of these resources prepared beforehand. To ensure that the policies are working the medical stuff should be trained to follow the policies in critical situations. ??? 
+
+
+
+
+### Types of Patients
+
+There is significant inbalance in research dedicated to elective and non-elective patients. The non-elective patients are not considered for the most cases. The reason for this that most authors asumen that the hospitals would have dedicated capacity for emergent cases, which is not always the case. The dedicated emergency theatre is capacity which is consumes a lot of resources to maintain and for the most time stands idel. That makes the separate non-elective patients care suboptimal in terms of efficient medical resource utilisation. This itself raises the importance of the research for non-elective surgery cases to the same level as the elective cases if not makes even more crusial to investigate. The managing of emergent cases is a challenge for medical resource scheduling system for its unpredictability. Newertheless, with sufficient datasets of medical records it will be or even is possible to predict using modern machine learning techniques. 
+
+The studies which focuse on emergent cases there is clear understanding that there are veriaty of protocols regarding how to identify urgency level of the surgery and what actions should be made. Difference in hospitals' policies and regulations is the main reason why there is still no unified, correct approach of managing non-elective cases. The evailability of hospital records as well as generalisation protocols will drastically increase the efficiency in how hospitals administration prepares and allocates emergency cases. 
+
+Shifting to the classification of the patients by hospitalisation. The inpatients and outpatiens for the most studies are treated the same. However, the ambulatory and surgery outpatients are differ from the inpatients because they can just not come to the appointed event. In the literature these aspect is studied separatly for general surgery scheduling and for most of the cases is resulved by prediction models and overbooking the resources required for the event (consultation, ambulatory analysis, and surgery) for the events with high risk of no-show. From the perspective of the hospitals there is also possibility of cancellations with reasons unrelated to a particular appointment event. With this in mind, the study which will consider the uncertainty of cancellation of the events while focusing on the medical resource planning and allocation would bring additional insights on the possible improvement in the healthcare management.
+
+
+
+
+### Who Got All the Brains?
 
 The United States of America lieding in the number of publications and the number of implemented solutions. The US shows desire and finantial and technical cababilities to progress in the more efficient healthcare management. It is hard to compare a quality of the proposed solutions due to diversity of approaches but tomorrow's statistics will show the results of the efficiency of the menegement systems implemented today. The second by quantity of the produces research in the medical scheduling is China. There have been found no research from numerous of countries. The majority of these countries have small- or midle-size economies. Since the implementation requires money to build infrastructure for effective medical recording system and on top of that the advance healthcare management is possible. However, money is just a half of the recepie: the efficient implementations of innovations from the operations research requires high-level of profficiency from caregivers and hospital administration staff.
 
@@ -41,6 +63,10 @@ This study covers only five most known databases in medicine, computer science, 
 
 The publications between 2020 and 2023 got the most attention. By trasting the earlier literature reviews and systematically analysing the resent works the core tandency of the medical resource scheduling was outline in this systematic review. There is still a small possibility of the valuable work in the set of unread articles and even not popular poblucations have valuable aspects in them. Therefore, the scoped literature represent general idea of the situation, but by no meens it is the full picture of the current situation in the industry. 
 
+With focus on operating theatre scheduling in mind, the elements of healthcare which has little to no influance to the patient flow in surgery departments have been filtered out on the scanning process. This excludes research in areas of drag supply chain optimisation, ambulance decision making, home healthcare, ambulatory results analysis, and prescription analysis.
+
+The scanning, reviewving, and analysis of the studies was done by one person which indicated high chance of biased conclusions. In order to minimise the one-side view on the reviews works the summaries and the notes of reviewing author together with the estimation of the level of comprehension are available for review and comments. The authors highly uncorage not blibdly believe the conucted work but look into origins of the results to build more deep undestanding unbised from the proposed conlusions. 
+
 
 
 
@@ -55,7 +81,7 @@ There is a viable set of actions to address the problem with medical records. Th
 For the second and the third resons of not conducting proper research, the best approach is to increase awareness of the research teams in their institutions by providing sufficient training. Probably, increase appealing learning resources in the pablic area such as social media, television, etc. Particularly, regarding the researchers who deliberetly misconduct their works, the consiquences of such behaviour can be discussed in public media.
 
 
-### No optimal solutions
+### No ultimate solutions
 What is meant by not optimal solutions? There are either generalisable but not applicable studies or vise-versa. The main reason for this is discussed in the previous subsection, but enother issue is in nerrow foucus on the scheduling problem of one specific resource. The operating theatre planning and scheduling is integrated problem as well as nurse rostering and patient appointment allocation. These problems are interconnected and by ignoring this fact the designed automated soltions become unscalable or unapplicable. Ensuring thet the scheduling system can propose a sufficient solutiont withouth bank of medical records and enhance the scheduling slowely and steadally as the more and more medical records become available to the system is the approach which will produce reproducible, generalised results for multiple departments and hospitals worldwide. 
 
 The raise of the machine learning in health industry brought critical questions regarding desicions made by machines. There are to sides to these concerns: responsibility of the developers of the schedulig system and responsobility by healthcare proffesionals who use the software. As it is right now, the best approach is to consider any automated desicion-macking tools as advisors not a final instance for the choice. In this way the machine learning systems will guide proffesionals to reach better healthcare performance and reduce risk and concequences of a mistake for interns.
