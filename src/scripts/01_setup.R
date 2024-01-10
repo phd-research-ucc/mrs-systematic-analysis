@@ -11,6 +11,7 @@
 
 library(tidyverse)
 library(bib2df)
+library(readxl)
 library(writexl)
 library(stringi)
 library(glue)
@@ -21,7 +22,11 @@ library(glue)
 
 # Read File ---------------------------------------------------------------
 
-references_df <- bib2df("src/data/raw/references.bib")
+references_df <- bib2df("data/raw/references.bib")
+read_review_papers_df <- read_excel(
+  "data/raw/2024-01-03_review_papers.xlsx", 
+  sheet = "papers"
+)
 
 ref_important_df <- references_df |>
   select(
@@ -171,6 +176,8 @@ authors_df$author <- gsub("\\\"$", "", authors_df$author)
 #   4. Also group by the year of publication: 2020+, 2015-2019, 2010-2014,
 #      2005-2009, 2000-2004, before 2000.
 
+names_to_filter <- c("Alice", "Charlie")
+
 literature_df <- ref_clear_dois_df |>
   mutate(
     research_methodology = ifelse(
@@ -205,10 +212,15 @@ literature_df <- ref_clear_dois_df |>
     comprehension = 0.00,
     last_access_date = as.Date("2023-11-16"),
     update_date = as.Date("2023-11-16")
+  ) |>
+  
+  filter(
+    research_methodology == 'review',
+    !( bibtex_key %in% read_review_papers_df$old_pk )
   )
 
 # Write the literature data frame to an Excel file
-write_xlsx(literature_df, glue('src/data/edit/{Sys.Date()}_literature.xlsx'))
+write_xlsx(literature_df, glue('data/edit/{Sys.Date()}_reviews_to_read.xlsx'))
 
 # Separate Keywords -------------------------------------------------------
 

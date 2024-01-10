@@ -1,22 +1,46 @@
 # Discussion
 
 ## Interpretation
-    
 
-    
+### Stategy Desicion Levels
+
+
+
+
+### Integration of the Scheduling Problem
+
+
+### Downstream and Upstream Capacities
+
+
+### Types of Pationts
+
+
+### Who Did Get All the Brains?
+
+The United States of America lieding in the number of publications and the number of implemented solutions. The US shows desire and finantial and technical cababilities to progress in the more efficient healthcare management. It is hard to compare a quality of the proposed solutions due to diversity of approaches but tomorrow's statistics will show the results of the efficiency of the menegement systems implemented today. The second by quantity of the produces research in the medical scheduling is China. There have been found no research from numerous of countries. The majority of these countries have small- or midle-size economies. Since the implementation requires money to build infrastructure for effective medical recording system and on top of that the advance healthcare management is possible. However, money is just a half of the recepie: the efficient implementations of innovations from the operations research requires high-level of profficiency from caregivers and hospital administration staff.
+
+
+### Quality of Research
+
+The results yiel a high percentage of misconduct and unresponsible research practicies. The reviewed papers are for the most part quantitative analysis of the produced scheduling or analysing approaches. Therefore, the outputs are models and comparisons to the existed prior solutions. Newertheless, part of the publications do not state the objectives of the research, do not present comparative analysis, and some even forgot to evaluate own models. Additionaly, hardships on getting medical records published for the open-access makes it impossible to replicate the published study to prove its valuability oe highlight mistakes. The absents of the key components of the research shows need in training of qualified scientists.
+
+
+
 
 ## Limitations of Evidence
+
+There is critical situation with prooving the performance results and achievements of the developed scheduling solutions, since most of the papers do not give access to the research data to be able to reproduce the gained results. The reasons for the studies with implementation of the solutions in real hospitals are known and related to policies and regulations regarding sharing sensitive medical information publically. To the publications which use artificial datasets for tests and evaluation the responsibility for pure research practice is on the researchers. The lack of the replicable studies is one of the main reasons for exponantial growth of the publications but inability to build robast and applicable scheduling models. 
 
 
 
 
 ## Limitations of Review Processes
 
-This study covers only five most known databases in medicine, computer science, and general research...
+This study covers only five most known databases in medicine, computer science, and general research. There are numerous less known datasets from academic and commersial domains which are not included into the survey. Furthermore, the software solutions which is already offers services to hospitals may cover some or even all the functionality discussed in the research, but nothing even remotly similar was found duren the analysis of the business articles on the medical innovations. Therefore this matter requires separate dedicated investigation with in depth communication with the users and the developers of the softwere solutions. 
 
-The publications between 2020 and 2023 got the most attention...
+The publications between 2020 and 2023 got the most attention. By trasting the earlier literature reviews and systematically analysing the resent works the core tandency of the medical resource scheduling was outline in this systematic review. There is still a small possibility of the valuable work in the set of unread articles and even not popular poblucations have valuable aspects in them. Therefore, the scoped literature represent general idea of the situation, but by no meens it is the full picture of the current situation in the industry. 
 
-Language and localisation limitations...
 
 
 

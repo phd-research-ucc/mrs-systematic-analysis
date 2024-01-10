@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Summary Compilation: Advanced Computational Approaches for Medical Resource Scheduling",
+    "section": "",
+    "text": "Preface\nThis summary compilation is created to track the read literature materials in scope of advanced computational medical resource scheduling approaches."
+  },
+  {
+    "objectID": "summary/AR0027IR20/01_index.html",
+    "href": "summary/AR0027IR20/01_index.html",
+    "title": "AR0027IR20",
+    "section": "",
+    "text": "source(\"03_metadata.R\")\n    title &lt;- metadata[['title']]\n\n\nA state of the art review of intelligent scheduling"
+  },
+  {
+    "objectID": "summary/AR0027IR20/01_index.html#section",
+    "href": "summary/AR0027IR20/01_index.html#section",
+    "title": "AR0027IR20",
+    "section": "",
+    "text": "title\n\n[1] \"A state of the art review of intelligent scheduling\""
+  },
+  {
+    "objectID": "summary/AR0027IR20/01_index.html#r-title",
+    "href": "summary/AR0027IR20/01_index.html#r-title",
+    "title": "AR0027IR20",
+    "section": "{r} title",
+    "text": "{r} title"
+  },
+  {
+    "objectID": "summary/AR0027IR20/01_index.html#a-state-of-the-art-review-of-intelligent-scheduling",
+    "href": "summary/AR0027IR20/01_index.html#a-state-of-the-art-review-of-intelligent-scheduling",
+    "title": "AR0027IR20",
+    "section": "A state of the art review of intelligent scheduling",
+    "text": "A state of the art review of intelligent scheduling"
+  }
+]

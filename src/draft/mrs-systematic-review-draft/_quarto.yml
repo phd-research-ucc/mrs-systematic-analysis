@@ -14,7 +14,7 @@ book:
         city: Cork
         postal-code: T12 YN60
   abstract: "Here is the place for the abstract of this systematic literature review."
-  date: today
+  date: last-modified
   chapters:
     - index.qmd
     - section/01_introduction.qmd

@@ -1,0 +1,74 @@
+project:
+  type: book
+
+book:
+  title: "Summary Compilation: Advanced Computational Approaches for Medical Resource Scheduling"
+  author: 
+    - name: "Oleksii Dovhaniuk"
+      orcid: "0009-0003-2247-9323"
+      email: "122119242@umail.ucc.ie"
+      affiliations:
+        - name: "University College Cork"
+          department: "School of Computer Science and Technology"
+          address: "Western Gateway Building, Western Road"
+          city: "Cork"
+          postal-code: "T12 YN60"
+    - name: "Grace Reidy"
+      email: "Grace.Reidy1@hse.ie" 
+      affiliations:
+        - name: "South South West Hospital Group Ireland"
+          department: "Transforming Theatre Programme"
+          city: "Cork"
+    - name: "Charlie Dineen"
+      email: "charliedineen@rcsi.ie" 
+      affiliations:
+        - name: "Royal College of Surgeons in Ireland"
+          department: "Transforming Theatre Programme"
+          city: Dublin
+    - name: "Mark Corrigan"
+      orcid: "0000-0002-9615-6450"
+      email: "mark.corrigan@ucc.ie" 
+      affiliations:
+        - name: "University College Cork"
+          department: "School of Computer Science and Technology"
+          address: "Western Gateway Building, Western Road"
+          city: Cork
+          postal-code: "T12 YN60"
+    - name: "Sabin Tabirca"
+      orcid: "0000-0003-0743-8227"
+      email: "s.tabirca@ucc.ie "
+      affiliations:
+        - name: "University College Cork"
+          department: "Department of Surgery (Academic)Máinliacht"
+          address: "Cork University Hospital, Wilton"
+          city: Cork
+          postal-code: "T12 YN60"
+  date: last-modified
+  chapters:
+    - index.qmd
+    - summary/AR0027IR20/01_index.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    toc: true
+    toc_float: true
+    smooth-scroll: true
+    toc-location: left
+    comments:
+      hypothesis: true
+    citations-hover: true
+    crossref-hover: true
+    theme: 
+      light: litera
+      dark: darkly
+    mermaid:
+      theme: neutral
+  docx:
+    toc: true
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
