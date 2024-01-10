@@ -1,6 +1,7 @@
+
 ```{r, echo=FALSE, eval=TRUE}
 
-    source('02_script/01_gather_data.R')
+    source('script/01_gather_data.R')
     
 ```
 

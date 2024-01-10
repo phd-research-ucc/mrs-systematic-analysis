@@ -1,7 +1,7 @@
 
 
-search_dbs <- data.frame(
-    local_ref = c(
+source_refs <- data.frame(
+    local_source_ref = c(
         ''
     ),
     ref_url = c(

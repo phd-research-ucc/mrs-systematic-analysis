@@ -4,16 +4,16 @@ research_methods <- data.frame(
     method = c(
         ''
     ),
-    description = c(
+    method_desc = c(
         ''
     ),
     method_ref = c(
         ''
-    )
-    origin = c(
+    ),
+    method_origin = c(
         ''
-    )
-    url = c(
+    ),
+    method_url = c(
         ''
     )
 )

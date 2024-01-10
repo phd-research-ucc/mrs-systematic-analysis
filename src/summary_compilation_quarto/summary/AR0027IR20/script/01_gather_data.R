@@ -2,7 +2,7 @@
 
 # Get a list of R script files in the 03_data folder
 script_files <- list.files(
-    path = '03_data', 
+    path = 'data', 
     pattern = '\\.R$', 
     full.names = TRUE
 )

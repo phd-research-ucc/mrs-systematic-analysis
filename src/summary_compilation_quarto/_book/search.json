@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Summary Compilation: Advanced Computational Approaches for Medical Resource Scheduling",
     "section": "",
-    "text": "Preface\nThis summary compilation is created to track the read literature materials in scope of advanced computational medical resource scheduling approaches."
+    "text": "Preface\nThis summary compilation is created to track the overviewed and analysed literature materials in scope of advanced computational approaches for medical resource scheduling."
   },
   {
     "objectID": "summary/AR0027IR20/01_index.html",
@@ -30,6 +30,48 @@
   {
     "objectID": "summary/AR0027IR20/01_index.html#a-state-of-the-art-review-of-intelligent-scheduling",
     "href": "summary/AR0027IR20/01_index.html#a-state-of-the-art-review-of-intelligent-scheduling",
+    "title": "AR0027IR20",
+    "section": "A state of the art review of intelligent scheduling",
+    "text": "A state of the art review of intelligent scheduling"
+  },
+  {
+    "objectID": "legend.html#literature-groups",
+    "href": "legend.html#literature-groups",
+    "title": "1  Legend",
+    "section": "1.1 Literature Groups",
+    "text": "1.1 Literature Groups\n\nSR - Specialised Review\nThis group of studies represent literature reviews in the scope of medical resource scheduling problem related to focusing to operating theatres and related to this subject areas.\n\n\nSO - Specialised Online Materials\nSpecialised Online posts, ads, commercial articles related to the medical resource scheduling problem, analytics of the healthcare for businesses, healthcare administrators, and technicians.\n\n\nSC - Specialised Case Study\nSpecialised Case and application of the previous theory on practice;\n\n\nSM - Specialised Idealised Model\nSpecialised Models developed specially for MRS problems;\n\n\nSF - Specialised Full Study\nSpecialised Full work of developing model and implementing it;\n\n\nST - Specialised Theoretical Work\nSpecialised Theory works;\n\n\nSS - Strategies for Healthcare Administrators\nSpecialised Administration related works;\n\n\nAR - Review on the Alternatice Approaches out of Healthcare\nAlternative Reviews of methods applicable to MRS;\n\n\nAO - Alternative Online Resources\nAlternative Online resources;\n\n\nAC - Alternative Case Studies\nAlternative Case which applied in a similar field or somehow related to MRS problems;\n\n\nAF - Alternative Full Studies\nAlternative Full work of developing model and implementing it;\n\n\nAM - Developments of Alternative Models\nAlternative Models for scheduling resources;\n\n\nAT - Alternative Theory Works\nAlternative Theory works;\n\n\nAS - Strategies for Other Resource Management\nAlternative Administration related works;\n\n\nHP - Healthcare Policies, Regulations, and Protocols\nHealthcare policies and rules;\n\n\nOM - Other Materials\nOther.\n\n\nNA - Undefined\nUndefined;"
+  },
+  {
+    "objectID": "legend.html#groups-of-reviewed-literature-materials",
+    "href": "legend.html#groups-of-reviewed-literature-materials",
+    "title": "1  Legend",
+    "section": "1.1 Groups of Reviewed Literature Materials",
+    "text": "1.1 Groups of Reviewed Literature Materials\n\nSR - Specialised Review\nThis group of studies represent literature reviews in the scope of medical resource scheduling problem related to focusing to operating theatres and related to this subject areas.\n\n\nSO - Specialised Online Materials\nSpecialised Online posts, ads, commercial articles related to the medical resource scheduling problem, analytics of the healthcare for businesses, healthcare administrators, and technicians.\n\n\nSC - Specialised Case Study\nSpecialised Case and application of the previous theory on practice;\n\n\nSM - Specialised Idealised Model\nSpecialised Models developed specially for MRS problems;\n\n\nSF - Specialised Full Study\nSpecialised Full work of developing model and implementing it;\n\n\nST - Specialised Theoretical Work\nSpecialised Theory works;\n\n\nSS - Strategies for Healthcare Administrators\nSpecialised Administration related works;\n\n\nAR - Review on the Alternatice Approaches out of Healthcare\nAlternative Reviews of methods applicable to MRS;\n\n\nAO - Alternative Online Resources\nAlternative Online resources;\n\n\nAC - Alternative Case Studies\nAlternative Case which applied in a similar field or somehow related to MRS problems;\n\n\nAF - Alternative Full Studies\nAlternative Full work of developing model and implementing it;\n\n\nAM - Developments of Alternative Models\nAlternative Models for scheduling resources;\n\n\nAT - Alternative Theory Works\nAlternative Theory works;\n\n\nAS - Strategies for Other Resource Management\nAlternative Administration related works;\n\n\nHP - Healthcare Policies, Regulations, and Protocols\nHealthcare policies and rules;\n\n\nOM - Other Materials\nOther.\n\n\nNA - Undefined\nUndefined;"
+  },
+  {
+    "objectID": "legend.html#literature-material-group",
+    "href": "legend.html#literature-material-group",
+    "title": "1  Legend",
+    "section": "1.1 Literature Material Group",
+    "text": "1.1 Literature Material Group\n\nSR - Specialised Review\nThis group of studies represent literature reviews in the scope of medical resource scheduling problem related to focusing to operating theatres and related to this subject areas.\n\n\nSO - Specialised Online Materials\nSpecialised Online posts, ads, commercial articles related to the medical resource scheduling problem, analytics of the healthcare for businesses, healthcare administrators, and technicians.\n\n\nSC - Specialised Case Study\nSpecialised Case and application of the previous theory on practice;\n\n\nSM - Specialised Idealised Model\nSpecialised Models developed specially for MRS problems;\n\n\nSF - Specialised Full Study\nSpecialised Full work of developing model and implementing it;\n\n\nST - Specialised Theoretical Work\nSpecialised Theory works;\n\n\nSS - Strategies for Healthcare Administrators\nSpecialised Administration related works;\n\n\nAR - Review on the Alternatice Approaches out of Healthcare\nAlternative Reviews of methods applicable to MRS;\n\n\nAO - Alternative Online Resources\nAlternative Online resources;\n\n\nAC - Alternative Case Studies\nAlternative Case which applied in a similar field or somehow related to MRS problems;\n\n\nAF - Alternative Full Studies\nAlternative Full work of developing model and implementing it;\n\n\nAM - Developments of Alternative Models\nAlternative Models for scheduling resources;\n\n\nAT - Alternative Theory Works\nAlternative Theory works;\n\n\nAS - Strategies for Other Resource Management\nAlternative Administration related works;\n\n\nHP - Healthcare Policies, Regulations, and Protocols\nHealthcare policies and rules;\n\n\nOM - Other Materials\nOther.\n\n\nNA - Undefined\nUndefined;"
+  },
+  {
+    "objectID": "legend.html#literature-material-groups",
+    "href": "legend.html#literature-material-groups",
+    "title": "Legend",
+    "section": "Literature Material Groups",
+    "text": "Literature Material Groups\n\nSR - Specialised Review\nThis group of studies represent literature reviews in the scope of medical resource scheduling problem related to focusing to operating theatres and related to this subject areas.\n\n\nSO - Specialised Online Materials\nSpecialised Online posts, ads, commercial articles related to the medical resource scheduling problem, analytics of the healthcare for businesses, healthcare administrators, and technicians.\n\n\nSC - Specialised Case Study\nSpecialised Case and application of the previous theory on practice;\n\n\nSM - Specialised Idealised Model\nSpecialised Models developed specially for MRS problems;\n\n\nSF - Specialised Full Study\nSpecialised Full work of developing model and implementing it;\n\n\nST - Specialised Theoretical Work\nSpecialised Theory works;\n\n\nSS - Strategies for Healthcare Administrators\nSpecialised Administration related works;\n\n\nAR - Review on the Alternatice Approaches out of Healthcare\nAlternative Reviews of methods applicable to MRS;\n\n\nAO - Alternative Online Resources\nAlternative Online resources;\n\n\nAC - Alternative Case Studies\nAlternative Case which applied in a similar field or somehow related to MRS problems;\n\n\nAF - Alternative Full Studies\nAlternative Full work of developing model and implementing it;\n\n\nAM - Developments of Alternative Models\nAlternative Models for scheduling resources;\n\n\nAT - Alternative Theory Works\nAlternative Theory works;\n\n\nAS - Strategies for Other Resource Management\nThe scheduling approaches which are not related to the healthcare, but can be adapted from other fields of reseach. (This is very similar to AT so possibly redundant)\n\n\nHP - Healthcare Policies, Regulations, and Protocols\nHealthcare policies, regulations, protocols, and rules which can differ from country to country and in some cases even from hospital to hospital.\n\n\nOM - Other Materials\nOther materials like posters, databases, memes, videos, etc.\n\n\nNA - Undefined\nMaterials which are yet to be identified with one of the outlined above groups."
+  },
+  {
+    "objectID": "legend.html#glossary",
+    "href": "legend.html#glossary",
+    "title": "Legend",
+    "section": "Glossary",
+    "text": "Glossary\nOT - Operating Theatre\nOR - Operating Room\nOR&M - Operations Research and Management\nLoS - Length of Stay\nICU - Intensive Care Unit\nPACU - Post Anaesthetic Care Unit"
+  },
+  {
+    "objectID": "summary/AR0027IR20/index.html#a-state-of-the-art-review-of-intelligent-scheduling",
+    "href": "summary/AR0027IR20/index.html#a-state-of-the-art-review-of-intelligent-scheduling",
     "title": "AR0027IR20",
     "section": "A state of the art review of intelligent scheduling",
     "text": "A state of the art review of intelligent scheduling"

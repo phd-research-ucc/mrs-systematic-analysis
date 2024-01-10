@@ -1,10 +1,8 @@
 {
-  "hash": "c11ca5825e0030d6b962e57df63583a6",
+  "hash": "6a4a93a581c9db82c25aab742b522408",
   "result": {
     "markdown": "::: {.cell}\n\n:::\n\n\n# AR0027IR20 {.unnumbered}\n\n## A state of the art review of intelligent scheduling\n",
-    "supporting": [
-      "01_index_files"
-    ],
+    "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],
