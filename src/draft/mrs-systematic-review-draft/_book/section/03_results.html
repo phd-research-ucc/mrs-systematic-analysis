@@ -37,10 +37,12 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -61,6 +63,8 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<style>html{ scroll-behavior: smooth; }</style>
+<script async="" src="https://hypothes.is/embed.js"></script>
 
 
 </head>
@@ -90,6 +94,9 @@ ul.task-list li input[type="checkbox"] {
     <div class="pt-lg-2 mt-2 text-left sidebar-header">
     <div class="sidebar-title mb-0 py-0">
       <a href="../">Systematic Review of Medical Resource Scheduling: Draft</a> 
+        <div class="sidebar-tools-main">
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+</div>
     </div>
       </div>
         <div class="mt-2 flex-shrink-0 align-items-center">
@@ -143,11 +150,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
     </ul>
     </div>
-</nav>
-<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
-<!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
+    <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
@@ -170,6 +173,10 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#certainty-of-evidence" id="toc-certainty-of-evidence" class="nav-link" data-scroll-target="#certainty-of-evidence"><span class="header-section-number">3.7</span> Certainty of Evidence</a></li>
   </ul>
 </nav>
+</nav>
+<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -219,16 +226,48 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="results-of-investigation-of-heterogeneity" class="level3" data-number="3.5.3">
 <h3 data-number="3.5.3" class="anchored" data-anchor-id="results-of-investigation-of-heterogeneity"><span class="header-section-number">3.5.3</span> Results of Investigation of Heterogeneity</h3>
+<p>For the study of this scope the identification of the studies which can be effectively compared and analysed on bias within the sertain borders is not a trivial task. First of all, even the medical resource scheduling problem goes under umbrella of one term, there are numerouse problems which this term contains. And even, for example, if the operating theatre scheduling is considered as a focal point of the research, the problem formulationions for that segment of scheduling problems varies greatly. Therefore, to unify measuring criteria for the reviewed, it was desided to compare the studies based on the three metrices: robustness, applicability, and complexity.</p>
 </section>
 <section id="results-of-sensitivity-analyses" class="level3" data-number="3.5.4">
 <h3 data-number="3.5.4" class="anchored" data-anchor-id="results-of-sensitivity-analyses"><span class="header-section-number">3.5.4</span> Results of Sensitivity Analyses</h3>
+<div style="color: teal;">
+<p>If any sensitivity analyses were conducted:</p>
+<ul>
+<li><p>report the results for each sensitivity analysis.</p></li>
+<li><p>comment on how robust the main analysis was given the results of all corresponding sensitivity analyses.</p></li>
+<li><p>consider presenting results in tables that indicate: (i) the summary effect estimate, a measure of precision (and potentially other relevant statistics, for example, I2 statistic) and contributing studies for the original meta-analysis; (ii) the same information for the sensitivity analysis; and (iii) details of the original and sensitivity analysis assumptions.</p></li>
+<li><p>consider presenting results of sensitivity analyses visually using forest plots.</p></li>
+</ul>
+</div>
 </section>
 </section>
 <section id="reporting-biases" class="level2" data-number="3.6">
 <h2 data-number="3.6" class="anchored" data-anchor-id="reporting-biases"><span class="header-section-number">3.6</span> Reporting Biases</h2>
+<p>There are high interest in the machine learning trends specially in deep learning, which clearly makes the research community favor these approaches over the other existing methods for medical resource scheduling. To investigate the existing biases when commes to synthesysing the advance computational system to support desicions of the healthcare managers the availability and the type of the outcomes of the studies are considered.</p>
+<p>The percentyle of the possitive findings is much higher in research with deep learning approaches then in all other approchers. These results</p>
+<div style="color: teal;">
+<p>Present assessments of risk of bias due to missing results (arising from reporting biases) for each synthesis assessed.</p>
+<p>If a tool was used to assess risk of bias due to missing results in a synthesis, present responses to questions in the tool, judgements about risk of bias and any information used to support such judgements.</p>
+<p>If a funnel plot was generated to evaluate small-study effects (one cause of which is reporting biases), present the plot and specify the effect estimate and measure of precision used in the plot. If a contour-enhanced funnel plot was generated, specify the ‘milestones’ of statistical significance that the plotted contour lines represent (P = 0.01, 0.05, 0.1, etc.)</p>
+<p>If a test for funnel plot asymmetry was used, report the exact P value observed for the test, and potentially other relevant statistics, for example the standardised normal deviate, from which the P value is derived.</p>
+<p>If any sensitivity analyses seeking to explore the potential impact of missing results on the synthesis were conducted, present results of each analysis (see item #20d), compare them with results of the primary analysis, and report results with due consideration of the limitations of the statistical method.</p>
+<p>If studies were assessed for selective non-reporting of results by comparing outcomes and analyses pre-specified in study registers, protocols, and statistical analysis plans with results that were available in study reports, consider presenting a matrix (with rows as studies and columns as syntheses) to present the availability of study results.</p>
+<p>If an assessment of selective non-reporting of results reveals that some studies are missing from the synthesis, consider displaying the studies with missing results underneath a forest plot or including a table with the available study results.</p>
+</div>
 </section>
 <section id="certainty-of-evidence" class="level2" data-number="3.7">
 <h2 data-number="3.7" class="anchored" data-anchor-id="certainty-of-evidence"><span class="header-section-number">3.7</span> Certainty of Evidence</h2>
+<p>The certainty of the evidence in the reviewed studies are rated with five-scale grade. Where are five critarias of certainty, each of the reached criteria gains a point of certainty to the reviewed material. The grading systems is created in the way that for most of the cases the next point of certainty can be gained if the requirements for the previous points are meat:</p>
+<ul>
+<li><p>1st point: The resutls of the research are mentioned in the body of the report paper with explanation how the results were obtained.</p></li>
+<li><p>2nd point: The process of reaching the findings of the study is clearly stated. The results are mention in body of the research and underlined in the conclusions of the work.</p></li>
+<li><p>3rd point: The output of the research is highlighted in the short summaries of the paper (abstract, conclusions, or discussions). The authors of the work presented the data in structured digestible form.</p></li>
+<li><p>4th point: The findings demonstrated with charts or tables, and there is a link to the manuscripts, research data, or additional supplimentary materials. However, the original data is not accessable, or in order to access the data, other researchers need to make a request, fully andertend the architecture of the storage platform, where the data was reserved.</p></li>
+<li><p>5th point: The results are presented in a table and the collected data during the research is fully available and easally accessable for the replication of the results by other investigators. The data in the presented tables is consistant with the values presented in the text and the raw data of the research.</p></li>
+</ul>
+<p>PROVIDE A TABLE OR/AND CHART WITH CERTAINTY GRADES FOR THE REVIEWED WORKS</p>
+<p>The average certainty of the results is belove medium possible level on the certainty scale. The main reason for this is complications to get medical records available as open-source database. However, if researchers gave more attention to the reproducibility of the research, this score would be much higher even with the existing challenges in the healthcare industry.</p>
+<p>PROVIDE A DETAILED TABLE OR/AND CHART WITH CERTAINTY GRADES FOR THE REVIEWED WORKS RELATED TO THE LOCATION OR OTHER CHARACTERISTICS OF THE WORK</p>
 
 
 </section>
@@ -254,6 +293,121 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const disableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'prefetch';
+    }
+  }
+  const enableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'stylesheet';
+    }
+  }
+  const manageTransitions = (selector, allowTransitions) => {
+    const els = window.document.querySelectorAll(selector);
+    for (let i=0; i < els.length; i++) {
+      const el = els[i];
+      if (allowTransitions) {
+        el.classList.remove('notransition');
+      } else {
+        el.classList.add('notransition');
+      }
+    }
+  }
+  const toggleColorMode = (alternate) => {
+    // Switch the stylesheets
+    const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+    manageTransitions('#quarto-margin-sidebar .nav-link', false);
+    if (alternate) {
+      enableStylesheet(alternateStylesheets);
+      for (const sheetNode of alternateStylesheets) {
+        if (sheetNode.id === "quarto-bootstrap") {
+          toggleBodyColorMode(sheetNode);
+        }
+      }
+    } else {
+      disableStylesheet(alternateStylesheets);
+      toggleBodyColorPrimary();
+    }
+    manageTransitions('#quarto-margin-sidebar .nav-link', true);
+    // Switch the toggles
+    const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+    for (let i=0; i < toggles.length; i++) {
+      const toggle = toggles[i];
+      if (toggle) {
+        if (alternate) {
+          toggle.classList.add("alternate");     
+        } else {
+          toggle.classList.remove("alternate");
+        }
+      }
+    }
+    // Hack to workaround the fact that safari doesn't
+    // properly recolor the scrollbar when toggling (#1455)
+    if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+      manageTransitions("body", false);
+      window.scrollTo(0, 1);
+      setTimeout(() => {
+        window.scrollTo(0, 0);
+        manageTransitions("body", true);
+      }, 40);  
+    }
+  }
+  const isFileUrl = () => { 
+    return window.location.protocol === 'file:';
+  }
+  const hasAlternateSentinel = () => {  
+    let styleSentinel = getColorSchemeSentinel();
+    if (styleSentinel !== null) {
+      return styleSentinel === "alternate";
+    } else {
+      return false;
+    }
+  }
+  const setStyleSentinel = (alternate) => {
+    const value = alternate ? "alternate" : "default";
+    if (!isFileUrl()) {
+      window.localStorage.setItem("quarto-color-scheme", value);
+    } else {
+      localAlternateSentinel = value;
+    }
+  }
+  const getColorSchemeSentinel = () => {
+    if (!isFileUrl()) {
+      const storageValue = window.localStorage.getItem("quarto-color-scheme");
+      return storageValue != null ? storageValue : localAlternateSentinel;
+    } else {
+      return localAlternateSentinel;
+    }
+  }
+  let localAlternateSentinel = 'default';
+  // Dark / light mode switch
+  window.quartoToggleColorScheme = () => {
+    // Read the current dark / light value 
+    let toAlternate = !hasAlternateSentinel();
+    toggleColorMode(toAlternate);
+    setStyleSentinel(toAlternate);
+  };
+  // Ensure there is a toggle, if there isn't float one in the top right
+  if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+    const a = window.document.createElement('a');
+    a.classList.add('top-right');
+    a.classList.add('quarto-color-scheme-toggle');
+    a.href = "";
+    a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+    const i = window.document.createElement("i");
+    i.classList.add('bi');
+    a.appendChild(i);
+    window.document.body.appendChild(a);
+  }
+  // Switch to dark mode if need be
+  if (hasAlternateSentinel()) {
+    toggleColorMode(true);
+  } else {
+    toggleColorMode(false);
+  }
   const icon = "";
   const anchorJS = new window.AnchorJS();
   anchorJS.options = {
@@ -483,4 +637,5 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
+<script src="../site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>

@@ -78,6 +78,8 @@ Materials which are yet to be identified with one of the outlined above groups.
 
 ## Glossary
 
+SLR - Systematic Literature Review
+
 OT - Operating Theatre 
 
 OR - Operating Room
