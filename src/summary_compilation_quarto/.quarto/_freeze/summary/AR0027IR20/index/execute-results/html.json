@@ -1,8 +1,10 @@
 {
-  "hash": "6a4a93a581c9db82c25aab742b522408",
+  "hash": "bf4f0e900ed67c060245121b49f46e07",
   "result": {
-    "markdown": "::: {.cell}\n\n:::\n\n\n# AR0027IR20 {.unnumbered}\n\n## A state of the art review of intelligent scheduling\n",
-    "supporting": [],
+    "markdown": "::: {.cell}\n\n:::\n\n\n# Review #0027 {.unnumbered}\n\n## Short Summary\n\n\n**\"A state of the art review of intelligent scheduling\"** is published in **2020**, and in the current study it represents **scheduler** domain. Objectives of the published material are: *Survey intelligent scheduling systems*. The material was **read** and allocated to the **AR** [group](#subsection-material-groups). Subjectivally, after grasping **80%** of the work's content, the summary author graded the reviewed work with **A** ([grading](#subsection-material-groups)). There is **neutral** outcomes of the work, the work **does not consider** COVID-19 pandemic or other pandemic outbreaks, the conflict of interests are **not mentioned**, and the funding is **not mentioned**.\n\n\nLocal reference - **AR0027IR20**\n\nPreviously is mensioned as **032IRSchedulingReview2020** \n\nShort note: *Pros and cons of metaheuristics*\n\nThe original **Article** can be accessed by the following URL: *[https://doi.org/10.1007/s10462-018-9667-6](https://doi.org/10.1007/s10462-018-9667-6)*\n\n\n#### Authors\n\n#### Keywords\n\n#### Research Methods\n\n#### Source References\n\n#### Search Databases\n\n#### Patient Types\n\n#### Decision Levels\n\n#### Constraints\n\n#### Level of Integration\n\n#### Medical Datasets\n\n#### Medical Datasets\n\n## Scan Review\n\n## Focus Review\n\n## Go All-In Review\n\n## Master Review\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

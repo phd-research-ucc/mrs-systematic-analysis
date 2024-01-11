@@ -22,7 +22,7 @@ book:
   date: last-modified
   chapters:
     - index.qmd
-    - summary/AR0027IR20/index.qmd
+    - summary/0027/index.qmd
     - legend.qmd
     - references.qmd
 

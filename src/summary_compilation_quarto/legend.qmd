@@ -1,63 +1,82 @@
 # Legend {.unnumbered}
 
 
-## Literature Material Groups {.unnumbered}
+## Literature Material Groups {#subsection-material-groups}
 
-#### SR - Specialised Review {.unnumbered}
+#### SR - Specialised Review
 This group of studies represent literature reviews in the scope of medical resource scheduling problem related to focusing to operating theatres and related to this subject areas.
 
-#### SO - Specialised Online Materials {.unnumbered}
+#### SO - Specialised Online Materials
 Specialised Online posts, ads, commercial articles related to the medical resource scheduling problem, analytics of the healthcare for businesses, healthcare administrators, and technicians.
 
-#### SC - Specialised Case Study {.unnumbered}
+#### SC - Specialised Case Study
 Specialised Case and application of the previous theory on practice;
 
-#### SM - Specialised Idealised Model {.unnumbered}
+#### SM - Specialised Idealised Model
 Specialised Models developed specially for MRS problems;
 
-#### SF - Specialised Full Study {.unnumbered}
+#### SF - Specialised Full Study
 Specialised Full work of developing model and implementing it;
 
-#### ST - Specialised Theoretical Work {.unnumbered}
+#### ST - Specialised Theoretical Work
 Specialised Theory works;
 
-#### SS - Strategies for Healthcare Administrators {.unnumbered}
+#### SS - Strategies for Healthcare Administrators
 Specialised Administration related works;
 
-#### AR - Review on the Alternatice Approaches out of Healthcare {.unnumbered}
+#### AR - Review on the Alternatice Approaches out of Healthcare
 Alternative Reviews of methods applicable to MRS;
 
-#### AO - Alternative Online Resources {.unnumbered}
+#### AO - Alternative Online Resources
 Alternative Online resources;
 
-#### AC - Alternative Case Studies {.unnumbered}
+#### AC - Alternative Case Studies
 Alternative Case which applied in a similar field or somehow related to MRS problems;
 
-#### AF - Alternative Full Studies {.unnumbered}
+#### AF - Alternative Full Studies
 Alternative Full work of developing model and implementing it;
 
-#### AM - Developments of Alternative Models {.unnumbered}
+#### AM - Developments of Alternative Models
 Alternative Models for scheduling resources;
 
-#### AT - Alternative Theory Works {.unnumbered}
+#### AT - Alternative Theory Works
 Alternative Theory works;
 
-#### AS - Strategies for Other Resource Management {.unnumbered}
+#### AS - Strategies for Other Resource Management
 The scheduling approaches which are not related to the healthcare, but can be adapted from other fields of reseach. (This is very similar to AT so possibly redundant)
 
-#### HP - Healthcare Policies, Regulations, and Protocols {.unnumbered}
+#### HP - Healthcare Policies, Regulations, and Protocols
 Healthcare policies, regulations, protocols, and rules which can differ from country to country and in some cases even from hospital to hospital.
 
-#### OM - Other Materials {.unnumbered}
+#### OM - Other Materials
 Other materials like posters, databases, memes, videos, etc.
 
-#### NA - Undefined {.unnumbered}
+#### NA - Undefined
 Materials which are yet to be identified with one of the outlined above groups.
 
 
+## Local Grading System {#subsection-grading}
+
+#### (A+) - 
+
+#### (A) - 
+
+#### (B+) - 
+
+#### (B) - 
+
+#### (C) - 
+
+#### (D) - 
+
+#### (E) - 
+
+#### (F) - 
+
+#### (F-) - 
 
 
-## Glossary {.unnumbered}
+## Glossary
 
 OT - Operating Theatre 
 
@@ -70,3 +89,5 @@ LoS - Length of Stay
 ICU - Intensive Care Unit
 
 PACU - Post Anaesthetic Care Unit
+
+CoI - Conflict of Interests

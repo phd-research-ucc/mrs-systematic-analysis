@@ -1,0 +1,48 @@
+```{r}
+#| echo: FALSE
+#| eval: TRUE
+
+    source('../../script/_load_libraries.R')
+    source('../../script/01_gather_data.R')
+    
+```
+
+# Review #0027 {.unnumbered}
+
+## Short Summary
+
+```{r}
+#| echo: FALSE
+#| eval: TRUE
+#| output: asis
+
+    source('../../script/02_print_short_summary.R')
+```
+
+#### Authors
+
+#### Keywords
+
+#### Research Methods
+
+#### Source References
+
+#### Search Databases
+
+#### Patient Types
+
+#### Decision Levels
+
+#### Constraints
+
+#### Level of Integration
+
+#### Medical Datasets
+
+## Scan Review
+
+## Focus Review
+
+## All-In Review
+
+## Master Review
