@@ -3,7 +3,7 @@
 # Version:      1.0
 # Author:       Oleksii Dovhaniuk
 # Created on:   2024-01-11
-# Updated on:   2024-01-11
+# Updated on:   2024-01-12
 #
 # Description:  Outputs the short summary 
 #               from the named list of metadata.
@@ -25,15 +25,20 @@ pandemic_mentioned <- ifelse(
     '**does not consider**'
 )
 type <- tolower( metadata[['type']] )
+certainty_points <- ifelse(
+    metadata[['certainty']] == 1,
+    glue("**{metadata[['certainty']]}** [certainty point](#subsection-certainty)"),
+    glue("**{metadata[['certainty']]}** [certainty points](#subsection-certainty)")
+)
 
 
 # Script ----------------------------------------------------------------------
 
 
 cat( glue(
-    "**\"{
+    "_**\"{
         metadata[['title']]
-    }\"** is published in **{
+    }\"**_ is published in **{
         metadata[['year']]
     }**, and in the current study it represents **{
         domain
@@ -43,11 +48,13 @@ cat( glue(
         state
     }** and allocated to the **{
         metadata[['group']]
-    }** [group](#subsection-material-groups). Subjectivally, after grasping **{
+    }** [group](#subsection-material-groups). After grasping **{
         metadata[['grasp']]*100
-    }%** of the work's content, the summary author graded the reviewed work with **{
+    }%** of the work's content, the reviewed work get **{
         metadata[['grade']]
-    }** ([grading](#subsection-grading)). There is **{
+    }** [general grade](#subsection-grading) and {
+        certainty_points
+    }. There is **{
         outcomes
     }** outcomes of the work, the work {
         pandemic_mentioned
@@ -58,13 +65,17 @@ cat( glue(
     }**.
 
 
-    Local reference - **{metadata[['pk']]}**
+    Local reference:<br>**{metadata[['pk']]}**
 
-    Previously mensioned as **{metadata[['old_pk']]}** 
+    Initial reference:<br>**{metadata[['old_pk']]}** 
     
-    Short note: *{metadata[['comment']]}*
+    Short note:<br>_{metadata[['comment']]}_
 
-    The original **{type}** can be accessed by the following URL: *[{metadata[['url']]}]({metadata[['url']]})*"
+    The original **{
+        type
+    }** can be accessed by the following URL:<br>*[{
+        metadata[['url']]
+    }]({metadata[['url']]})*"
     ) 
 )
 

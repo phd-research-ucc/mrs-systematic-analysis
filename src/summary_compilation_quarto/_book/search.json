@@ -67,7 +67,7 @@
     "href": "legend.html#glossary",
     "title": "Legend",
     "section": "Glossary",
-    "text": "Glossary\nOT - Operating Theatre\nOR - Operating Room\nOR&M - Operations Research and Management\nLoS - Length of Stay\nICU - Intensive Care Unit\nPACU - Post Anaesthetic Care Unit\nCoI - Conflict of Interests"
+    "text": "Glossary\nSLR - Systematic Literature Review\nOT - Operating Theatre\nOR - Operating Room\nOR&M - Operations Research and Management\nLoS - Length of Stay\nICU - Intensive Care Unit\nPACU - Post Anaesthetic Care Unit\nCoI - Conflict of Interests"
   },
   {
     "objectID": "summary/AR0027IR20/index.html#a-state-of-the-art-review-of-intelligent-scheduling",
@@ -277,7 +277,7 @@
     "href": "summary/0027/index.html#short-summary",
     "title": "Review #0027",
     "section": "Short Summary",
-    "text": "Short Summary\n“A state of the art review of intelligent scheduling” is published in 2020, and in the current study it represents scheduler domain. Objectives of the published material are: Survey intelligent scheduling systems. The material was read and allocated to the AR group. Subjectivally, after grasping 80% of the work’s content, the summary author graded the reviewed work with A (grading). There is neutral outcomes of the work, the work does not consider COVID-19 pandemic or other pandemic outbreaks, the conflict of interests are not mentioned, and the funding is not mentioned.\nLocal reference - AR0027IR20\nPreviously mensioned as 032IRSchedulingReview2020\nShort note: Pros and cons of metaheuristics\nThe original article can be accessed by the following URL: https://doi.org/10.1007/s10462-018-9667-6\n\nAuthors\n\n\nKeywords\n\n\nResearch Methods\n\n\nSource References\n\n\nSearch Databases\n\n\nPatient Types\n\n\nDecision Levels\n\n\nConstraints\n\n\nLevel of Integration\n\n\nMedical Datasets"
+    "text": "Short Summary\n“A state of the art review of intelligent scheduling” is published in 2020, and in the current study it represents scheduler domain. Objectives of the published material are: Survey intelligent scheduling systems. The material was read and allocated to the AR group. After grasping 80% of the work’s content, the reviewed work get A general grade and 3 certainty points. There is neutral outcomes of the work, the work does not consider COVID-19 pandemic or other pandemic outbreaks, the conflict of interests are not mentioned, and the funding is not mentioned.\nLocal reference:AR0027IR20\nInitial reference:032IRSchedulingReview2020\nShort note:Pros and cons of metaheuristics\nThe original article can be accessed by the following URL:https://doi.org/10.1007/s10462-018-9667-6"
   },
   {
     "objectID": "summary/0027/index.html#scan-review",
@@ -313,5 +313,68 @@
     "title": "Review #0027",
     "section": "All-In Review",
     "text": "All-In Review"
+  },
+  {
+    "objectID": "legend.html#subsection-certainty",
+    "href": "legend.html#subsection-certainty",
+    "title": "Legend",
+    "section": "Certainty of Evidence Grading",
+    "text": "Certainty of Evidence Grading\n\n1st point:\nThe resutls of the research are mentioned in the body of the report paper with explanation how the results were obtained.\n\n\n2nd point:\nThe process of reaching the findings of the study is clearly stated. The results are mention in body of the research and underlined in the conclusions of the work.\n\n\n3rd point:\nThe output of the research is highlighted in the short summaries of the paper (abstract, conclusions, or discussions). The authors of the work presented the data in structured digestible form.\n\n\n4th point:\nThe findings demonstrated with charts or tables, and there is a link to the manuscripts, research data, or additional supplimentary materials. However, the original data is not accessable, or in order to access the data, other researchers need to make a request, fully andertend the architecture of the storage platform, where the data was reserved.\n\n\n5th point:\nThe results are presented in a table and the collected data during the research is fully available and easally accessable for the replication of the results by other investigators. The data in the presented tables is consistant with the values presented in the text and the raw data of the research."
+  },
+  {
+    "objectID": "summary/0027/index.html#bias-assessment",
+    "href": "summary/0027/index.html#bias-assessment",
+    "title": "Review #0027",
+    "section": "Bias Assessment",
+    "text": "Bias Assessment"
+  },
+  {
+    "objectID": "summary/0027/index.html#authors",
+    "href": "summary/0027/index.html#authors",
+    "title": "Review #0027",
+    "section": "Authors",
+    "text": "Authors\nMohammad Hossein Fazel ZarandiDepartment of Industrial Engineering, Amirkabir University of Technology, Tehran, Iran Ali Akbar Sadat AslDepartment of Industrial Engineering, Amirkabir University of Technology, Tehran, Iran Shahabeddin SotudianDivision of Systems Engineering, Boston University, Boston, USA Oscar CastilloTijuana Institute of Technology, Tijuana, Mexico"
+  },
+  {
+    "objectID": "summary/0027/index.html#keywords",
+    "href": "summary/0027/index.html#keywords",
+    "title": "Review #0027",
+    "section": "Keywords",
+    "text": "Keywords\nIntelligent scheduling Fuzzy logic Expert system Machine learning Stochastic local search optimization algorithms Constraint programmingColours explained: Method, Objectives, Subject, Property, Tool"
+  },
+  {
+    "objectID": "summary/0027/index.html#research-methods",
+    "href": "summary/0027/index.html#research-methods",
+    "title": "Review #0027",
+    "section": "Research Methods",
+    "text": "Research Methods"
+  },
+  {
+    "objectID": "summary/0027/index.html#source-references",
+    "href": "summary/0027/index.html#source-references",
+    "title": "Review #0027",
+    "section": "Source References",
+    "text": "Source References"
+  },
+  {
+    "objectID": "summary/0027/index.html#databases",
+    "href": "summary/0027/index.html#databases",
+    "title": "Review #0027",
+    "section": "Databases",
+    "text": "Databases\n\nSearch Databases\n\n\nMedical Datasets"
+  },
+  {
+    "objectID": "summary/0027/index.html#classification",
+    "href": "summary/0027/index.html#classification",
+    "title": "Review #0027",
+    "section": "Classification",
+    "text": "Classification\n\nPatient Types\n\n\nDecision Levels\n\n\nLevel of Integration"
+  },
+  {
+    "objectID": "summary/0027/index.html#constraints",
+    "href": "summary/0027/index.html#constraints",
+    "title": "Review #0027",
+    "section": "Constraints",
+    "text": "Constraints"
   }
 ]

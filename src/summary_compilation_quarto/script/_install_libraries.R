@@ -18,4 +18,6 @@
 # Script ----------------------------------------------------------------------
 
 
-install(simplermarkdown)
+install.packages(simplermarkdown)
+install.packages(rmarkdown)
+install.packages(pander)

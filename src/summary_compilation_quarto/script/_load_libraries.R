@@ -16,5 +16,8 @@
 # Script ----------------------------------------------------------------------
 
 
+library(tidyverse)
 library(simplermarkdown)
+library(rmarkdown)
+library(pander)
 library(glue)

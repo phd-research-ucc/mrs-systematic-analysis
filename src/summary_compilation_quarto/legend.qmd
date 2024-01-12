@@ -76,6 +76,30 @@ Materials which are yet to be identified with one of the outlined above groups.
 #### (F-) - 
 
 
+## Certainty of Evidence Grading {#subsection-certainty}
+
+#### 1st point:
+
+The resutls of the research are mentioned in the body of the report paper with explanation how the results were obtained.
+
+#### 2nd point:
+
+The process of reaching the findings of the study is clearly stated. The results are mention in body of the research and underlined in the conclusions of the work. 
+
+#### 3rd point:
+
+The output of the research is highlighted in the short summaries of the paper (abstract, conclusions, or discussions). The authors of the work presented the data in structured digestible form.
+
+#### 4th point:
+
+The findings demonstrated with charts or tables, and there is a link to the manuscripts, research data, or additional supplimentary materials. However, the original data is not accessable, or in order to access the data, other researchers need to make a request, fully andertend the architecture of the storage platform, where the data was reserved.  
+
+#### 5th point:
+
+The results are presented in a table and the collected data during the research is fully available and easally accessable for the replication of the results by other investigators. The data in the presented tables is consistant with the values presented in the text and the raw data of the research.
+
+
+
 ## Glossary
 
 SLR - Systematic Literature Review
