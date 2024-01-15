@@ -22,6 +22,7 @@ book:
   date: last-modified
   chapters:
     - index.qmd
+    - summary/0001/index.qmd
     - summary/0027/index.qmd
     - legend.qmd
     - references.qmd

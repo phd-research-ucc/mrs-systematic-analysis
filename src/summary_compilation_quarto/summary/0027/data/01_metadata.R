@@ -2,6 +2,7 @@
 
 metadata <- list(
     pk = 'AR0027IR20',
+    relevance = 2,
     state = 'Read',
     grade = 'A',
     certainty = 3,
