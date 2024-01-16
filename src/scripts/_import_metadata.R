@@ -3,7 +3,7 @@
 # Version:      1.0
 # Author:       Oleksii Dovhaniuk
 # Created on:   2024-01-15
-# Updated on:   2024-01-15
+# Updated on:   2024-01-16
 #
 # Description:  Import metadata for reviewed references stored in excel.
 #
@@ -30,6 +30,20 @@ papers_df <- read_excel('data/raw/2024-01-09_review_papers.xlsx') |>
 View(papers_df)
 
 
+# Specify the folder path
+source_path <- "summary_compilation_quarto/templates"
+
+# Get a list of file names in the folder
+file_list <- list.files(
+  source_path, 
+  full.names = TRUE,
+  recursive = TRUE
+)
+
+# Source each file
+for (file in file_list) {
+  source(file)
+}
 
 # Your R code
 metadata_content <- glue(
@@ -94,23 +108,10 @@ metadata <- list(
     '
 )
 
-# TODO: Source all templates for creating data files.
-# # Specify the folder path
-# source_path <- "path/to/your/folder"
-# 
-# # Get a list of file names in the folder
-# file_list <- list.files(source_path, full.names = TRUE, re)
-# 
-# # Source each file
-# for (file in file_list) {
-#   source(file)
-# }
-# 
-# folder_count <- sprintf('%04d', papers_df$count)
+folder_count <- sprintf('%04d', papers_df$count)
 
 # Specify the folder name
 folder_name <- glue('summary_compilation_quarto/import/{folder_count}')
-file_name <- glue('{folder_name}/data/metadata.R')
 
 for ( i in 1:length(folder_count) ) {
     dir.create(folder_name[i])
@@ -119,5 +120,57 @@ for ( i in 1:length(folder_count) ) {
     )
 
     # Write the code to the file
-    writeLines(metadata_content[i], file_name[i])
+    writeLines(
+      index_content,
+      glue('{ folder_name[i] }/index.qmd')
+    )
+    writeLines(
+      metadata_content[i], 
+      glue('{ folder_name[i] }/data/01_metadata.R')
+    )
+    writeLines(
+      research_methods_content,
+      glue('{ folder_name[i] }/data/02_research_methods.R')
+    )
+    writeLines(
+      source_refs_content,
+      glue('{ folder_name[i] }/data/03_source_refs.R')
+    )
+    writeLines(
+      search_dbs_content,
+      glue('{ folder_name[i] }/data/04_search_dbs.R')
+    )
+    writeLines(
+      patient_types_content,
+      glue('{ folder_name[i] }/data/05_patient_types.R')
+    )
+    writeLines(
+      decision_levels_content,
+      glue('{ folder_name[i] }/data/06_decision_levels.R')
+    )
+    writeLines(
+      constraints_content,
+      glue('{ folder_name[i] }/data/07_constraints.R')
+    )
+    writeLines(
+      integration_content,
+      glue('{ folder_name[i] }/data/08_integration.R')
+    )
+    writeLines(
+      medical_datasets_content,
+      glue('{ folder_name[i] }/data/09_medical_datasets.R')
+    )
+    writeLines(
+      affiliations_content,
+      glue('{ folder_name[i] }/data/10_affiliations.R')
+    )
+    writeLines(
+      keywords_content,
+      glue('{ folder_name[i] }/data/11_keywords.R')
+    )
+    writeLines(
+      bias_content,
+      glue('{ folder_name[i] }/data/12_bias.R')
+    )
 }
+

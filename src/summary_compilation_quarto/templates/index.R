@@ -1,5 +1,6 @@
-index_content <- glue(
-    "
+
+
+index_content <- "
 
 ```{r}
 #| eval: TRUE
@@ -80,4 +81,3 @@ index_content <- glue(
 
 ## Master Review
     "
-)

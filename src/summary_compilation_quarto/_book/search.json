@@ -382,21 +382,21 @@
     "href": "summary/0001/index.html#short-summary",
     "title": "Review #0001",
     "section": "Short Summary",
-    "text": "Short Summary\n“Artificial Intelligence for Patient Scheduling in the Real-World Health Care Setting: A Metanarrative Review” is published in 2023, and in the current study it represents both domain. Objectives of the published material are: not specified. The material was all-in reviewed and allocated to the SR group. After grasping 90% of the work’s content, the reviewed work get A general grade and 3 certainty points. There is neutral outcomes of the work, the work considers COVID-19 pandemic or other pandemic outbreaks, the conflict of interests are none declared, and the funding is not funded.\nLocal reference:SR0001US23\nInitial reference:x034\nShort note:RAMESES publication standards\nThe original article can be accessed by the following URL:https://doi.org/10.1016/j.hlpt.2023.100824"
+    "text": "Short Summary\n“Artificial Intelligence for Patient Scheduling in the Real-World Health Care Setting: A Metanarrative Review” is published in 2023, and in the current study it represents both domain. Objectives of the published material are: not specified. The material was analysed and allocated to the 5 group. After grasping 90% of the work’s content, the reviewed work get B+ general grade and -99 certainty points. There is neutral outcomes of the work, the work considers COVID-19 pandemic or other pandemic outbreaks, the conflict of interests are Not mentioned, and the funding is Not mentioned.\nLocal reference:SR0001US23\nInitial reference:x034\nShort note:RAMESES publication standards\nThe original article can be accessed by the following URL:https://doi.org/10.1016/j.hlpt.2023.100824"
   },
   {
     "objectID": "summary/0001/index.html#authors",
     "href": "summary/0001/index.html#authors",
     "title": "Review #0001",
     "section": "Authors",
-    "text": "Authors\nDacre R.T. KnightDivision of General Internal Medicine, Mayo Clinic, Jacksonville, FL, United States Christopher A. AakreDivision of General Internal Medicine, Mayo Clinic, Rochester, MN, United States Christopher V. AnstineDivision of General Internal Medicine, Mayo Clinic, Rochester, MN, United States Bala MunipalliDivision of General Internal Medicine, Mayo Clinic, Jacksonville, FL, United States Parisa BiazarGrand Strand Medical Center, Myrtle Beach, SC, United States Ghada MitriDivision of General Internal Medicine, Mayo Clinic, Jacksonville, FL, United States Jose Raul ValeryDivision of Community Internal Medicine, Mayo Clinic, Jacksonville, FL, United States Tara BrighamMayo Medical Library, United States Shehzad K. NiaziDivision of General Internal Medicine, Mayo Clinic, Jacksonville, FL, United States Adam I. PerlmanDivision of Psychiatry, Mayo Clinic, Jacksonville, FL, United States John D. HalamkaDivision of General Internal Medicine, Mayo Clinic, Jacksonville, FL, United States Abd Moain Abu DabrhMayo Clinic, Rochester, MN, United States"
+    "text": "Authors\n****__"
   },
   {
     "objectID": "summary/0001/index.html#keywords",
     "href": "summary/0001/index.html#keywords",
     "title": "Review #0001",
     "section": "Keywords",
-    "text": "Keywords\nAppointments and schedules Artificial intelligence Decision support systems – clinical Machine learning Patient care Resource allocationColours explained: Method, Objectives, Subject, Property, Tool"
+    "text": "Keywords\nColours explained: Method, Objectives, Subject, Property, Tool"
   },
   {
     "objectID": "summary/0001/index.html#research-methods",
@@ -459,12 +459,3015 @@
     "href": "summary/0001/index.html#all-in-review",
     "title": "Review #0001",
     "section": "All-In Review",
-    "text": "All-In Review\n\nSummary\nDacre Knight et al.  conducted a metanarrative literature review for Artificial Intelligence and Machine Learning technologies implemented in healthcare. The researchers define three types of studies: pre-pilot, pilot and implemented. Major databases were searched on August 14, 2020, and only the publications of the third type were selected for deeper review. The review paper highlights the advantages and obstacles of using AI technologies in healthcare. The authors consider their work’s limitations and outline future research directions.\n\n\nNotes\n\nStudies split into three stages: pre-pilot, pilot, implementation;\n11 implemented works;\ngeneral statements, low-on-insights reviw;\n2 reviewers + consultant investigator\n\n\n\nReading\n\nTitle page:\nMetadata of the paper: title, authors, PII, DOI, Reference, Jornal: Health Policy and Technology, citation, remark about possible editing during the publication process\n\n\nPage 1:\nAuthors affiliation details + Reprints\n\n\nPage 2:\nMore metadata: keywords, conflict of interest, no funding, no ethical approval required, technical content details, short title: AI for Patient Scheduling, highlights: 4 highlights about possibility and high potential of an AI in the healthcare scheduling.\n\n\nPage 3:\nObjectives: The artificial intelligence and machine learning approaches are uncharted teritory in the optimal scheduling.\nMethods: The authors use systematic review of publications starting from August 2020. The reviews of literature were conducted by two independent specialists per each article.\nResults: Areas of AI application are: double-booking, missed appointment risk, wait time, disease-type matching performance, scheduling efficiency, examination length prediction, and surgical operation time.\nConclusions: Prooved the AI compentence and found new ravenues for development\n\n\nPage 4:\nPublic Interest Summary: AI valuable asset which is shown in this literature review update.\n\n\nPage 5:\nThe same hihglights that before\n\n\nPage 6:\nAbbreviations - AI, ML, Operation Room\n\n\nPage 7:\nHere is the introduction of the paper where the financial aspects are alligned with the healthcare management efficiency and how the AI/ ML technologies can enhance this efficiency.\n\n\nPage 8:\nWrap up of the introduction where the authors hihglight versatility of the AI approaches used for reducing healthcare costs and optimising the workflow of the medical services. Also it is mentioned that not only benefits of the AI is in focus of this research but also obsticalse which may arise by utilising AI technology.\nBegining Methods section: metanarrative following RAMESES guidances (6)\n\n\nPage 9:\nThe authors separates three types of studies based on the stage of the study (pilot study, solution testing, and actual application). In the review the only 3rd type publications are accepted into the review. Also in the literature search section, the used databases of materials are listed together with teir years of work.\n\n\nPage 10:\nDate of the search is August 14, 2020 and the full search is available in the Supplenental Material.\nData Screening and Extraction \\(\\approx\\) Data Analysis (start): two reviewers study selection \\(-&gt;\\) 3rd seniour investigator to resolve the conflicts \\(-&gt;\\) data extratcion (approach, stakeholder impact). descriptive statistics, no quantitative pooling (no metaanalysis)\n\n\nPage 11:\n3,415 sudies in search \\(-&gt;\\) 261 full review \\(-&gt;\\) 11 reald world studies. 8 countries (US. China, Switzerland, Singapore, India, Iran, Austria, and Finland). Due to difference of application studies have different requirements for datasets.\n\n\nPage 12:\nThe authors used Risk of Bias in Non-randomized Studies and the Cochrane risk-of-bias tools. Also the variouse scheduling strategies were highlighted here.\n\n\nPage 13:\nThere are mostly objectives are regarding patients appointmens and some also include cancellations/ no-show risk, resource allocation,daily demand, and physician-to-patient matching. Next there is multiple results from the reviewed studies.\n\n\nPage 14:\nMore specific cases with improvements.\n\n\nPage 15:\nHealthcare costs in USA increased by 4% from 1980 requiring more efficient approaches of hospital management, and AI/ ML technology can provide this eddiciency.\n\n\nPage 16:\nRegression models and Markov algorithm predict no-show appointments. Patient scheduling is a multi-objective task. Nevertheless, the interest in AI is growing. (+lack of healthcare records +bias, +uncertainties)\n\n\nPage 17:\nThere are great benefits from AI in healthcare, including help in time of the COVID19 pandemic. The authors predict that AI will occupy valuable place in healthcare in the future, but for now it is important to analyse its capabilities.\n\n\nPage 18:\nThe contributors acknowledge the cons of the research, poining out small number of selected publications with real world implementations that chosen studies are not resent. Inpatients in 1 of 11 publications. AI requires quality control.\n\n\nPage 19:\nEvaluating the ML model biases and traking progress of the technology. Conclusion: AI requires more enhancments for the actual application, review is presented, general future investigations."
+    "text": "All-In Review"
   },
   {
     "objectID": "summary/0001/index.html#master-review",
     "href": "summary/0001/index.html#master-review",
     "title": "Review #0001",
+    "section": "Master Review",
+    "text": "Master Review"
+  },
+  {
+    "objectID": "summary/0002/index.html#short-summary",
+    "href": "summary/0002/index.html#short-summary",
+    "title": "Review #0002",
+    "section": "Short Summary",
+    "text": "Short Summary\n“Current Trends in Operating Room Scheduling 2015 to 2020: a Literature Review” is published in 2022, and in the current study it represents scheduler domain. Objectives of the published material are: not specified. The material was analysed and allocated to the 5 group. After grasping 95% of the work’s content, the reviewed work get A general grade and -99 certainty points. There is neutral outcomes of the work, the work does not consider COVID-19 pandemic or other pandemic outbreaks, the conflict of interests are Not mentioned, and the funding is Not mentioned.\nLocal reference:SR0002US22\nInitial reference:x079\nShort note:Reviews cascade 2000-2020\nThe original article can be accessed by the following URL:https://doi.org/10.1007/s43069-022-00134-y"
+  },
+  {
+    "objectID": "summary/0002/index.html#authors",
+    "href": "summary/0002/index.html#authors",
+    "title": "Review #0002",
+    "section": "Authors",
+    "text": "Authors\n****__"
+  },
+  {
+    "objectID": "summary/0002/index.html#keywords",
+    "href": "summary/0002/index.html#keywords",
+    "title": "Review #0002",
+    "section": "Keywords",
+    "text": "Keywords\nColours explained: Method, Objectives, Subject, Property, Tool"
+  },
+  {
+    "objectID": "summary/0002/index.html#research-methods",
+    "href": "summary/0002/index.html#research-methods",
+    "title": "Review #0002",
+    "section": "Research Methods",
+    "text": "Research Methods"
+  },
+  {
+    "objectID": "summary/0002/index.html#source-references",
+    "href": "summary/0002/index.html#source-references",
+    "title": "Review #0002",
+    "section": "Source References",
+    "text": "Source References"
+  },
+  {
+    "objectID": "summary/0002/index.html#databases",
+    "href": "summary/0002/index.html#databases",
+    "title": "Review #0002",
+    "section": "Databases",
+    "text": "Databases\n\nSearch Databases\n\n\nMedical Datasets"
+  },
+  {
+    "objectID": "summary/0002/index.html#classification",
+    "href": "summary/0002/index.html#classification",
+    "title": "Review #0002",
+    "section": "Classification",
+    "text": "Classification\n\nPatient Types\n\n\nDecision Levels\n\n\nLevel of Integration"
+  },
+  {
+    "objectID": "summary/0002/index.html#constraints",
+    "href": "summary/0002/index.html#constraints",
+    "title": "Review #0002",
+    "section": "Constraints",
+    "text": "Constraints"
+  },
+  {
+    "objectID": "summary/0002/index.html#bias-assessment",
+    "href": "summary/0002/index.html#bias-assessment",
+    "title": "Review #0002",
+    "section": "Bias Assessment",
+    "text": "Bias Assessment"
+  },
+  {
+    "objectID": "summary/0002/index.html#scan-review",
+    "href": "summary/0002/index.html#scan-review",
+    "title": "Review #0002",
+    "section": "Scan Review",
+    "text": "Scan Review"
+  },
+  {
+    "objectID": "summary/0002/index.html#focus-review",
+    "href": "summary/0002/index.html#focus-review",
+    "title": "Review #0002",
+    "section": "Focus Review",
+    "text": "Focus Review"
+  },
+  {
+    "objectID": "summary/0002/index.html#all-in-review",
+    "href": "summary/0002/index.html#all-in-review",
+    "title": "Review #0002",
+    "section": "All-In Review",
+    "text": "All-In Review"
+  },
+  {
+    "objectID": "summary/0002/index.html#master-review",
+    "href": "summary/0002/index.html#master-review",
+    "title": "Review #0002",
+    "section": "Master Review",
+    "text": "Master Review"
+  },
+  {
+    "objectID": "summary/0003/index.html#short-summary",
+    "href": "summary/0003/index.html#short-summary",
+    "title": "Review #0003",
+    "section": "Short Summary",
+    "text": "Short Summary\n“Machine learning models to predict surgical case duration compared to current industry standards: scoping review” is published in 2023, and in the current study it represents analyser domain. Objectives of the published material are: Compare the novel machine learning approaches for predicting surgical case duration to present industry standards.. The material was analysed and allocated to the 5 group. After grasping 94% of the work’s content, the reviewed work get A general grade and -99 certainty points. There is neutral outcomes of the work, the work considers COVID-19 pandemic or other pandemic outbreaks, the conflict of interests are Not mentioned, and the funding is Not mentioned.\nLocal reference:SR0003GB23\nInitial reference:x084\nShort note:PRISMA, Arksey, and O’Malley\nThe original article can be accessed by the following URL:https://doi.org/10.1093/bjsopen/zrad113"
+  },
+  {
+    "objectID": "summary/0003/index.html#authors",
+    "href": "summary/0003/index.html#authors",
+    "title": "Review #0003",
+    "section": "Authors",
+    "text": "Authors\n****__"
+  },
+  {
+    "objectID": "summary/0003/index.html#keywords",
+    "href": "summary/0003/index.html#keywords",
+    "title": "Review #0003",
+    "section": "Keywords",
+    "text": "Keywords\nColours explained: Method, Objectives, Subject, Property, Tool"
+  },
+  {
+    "objectID": "summary/0003/index.html#research-methods",
+    "href": "summary/0003/index.html#research-methods",
+    "title": "Review #0003",
+    "section": "Research Methods",
+    "text": "Research Methods"
+  },
+  {
+    "objectID": "summary/0003/index.html#source-references",
+    "href": "summary/0003/index.html#source-references",
+    "title": "Review #0003",
+    "section": "Source References",
+    "text": "Source References"
+  },
+  {
+    "objectID": "summary/0003/index.html#databases",
+    "href": "summary/0003/index.html#databases",
+    "title": "Review #0003",
+    "section": "Databases",
+    "text": "Databases\n\nSearch Databases\n\n\nMedical Datasets"
+  },
+  {
+    "objectID": "summary/0003/index.html#classification",
+    "href": "summary/0003/index.html#classification",
+    "title": "Review #0003",
+    "section": "Classification",
+    "text": "Classification\n\nPatient Types\n\n\nDecision Levels\n\n\nLevel of Integration"
+  },
+  {
+    "objectID": "summary/0003/index.html#constraints",
+    "href": "summary/0003/index.html#constraints",
+    "title": "Review #0003",
+    "section": "Constraints",
+    "text": "Constraints"
+  },
+  {
+    "objectID": "summary/0003/index.html#bias-assessment",
+    "href": "summary/0003/index.html#bias-assessment",
+    "title": "Review #0003",
+    "section": "Bias Assessment",
+    "text": "Bias Assessment"
+  },
+  {
+    "objectID": "summary/0003/index.html#scan-review",
+    "href": "summary/0003/index.html#scan-review",
+    "title": "Review #0003",
+    "section": "Scan Review",
+    "text": "Scan Review"
+  },
+  {
+    "objectID": "summary/0003/index.html#focus-review",
+    "href": "summary/0003/index.html#focus-review",
+    "title": "Review #0003",
+    "section": "Focus Review",
+    "text": "Focus Review"
+  },
+  {
+    "objectID": "summary/0003/index.html#all-in-review",
+    "href": "summary/0003/index.html#all-in-review",
+    "title": "Review #0003",
+    "section": "All-In Review",
+    "text": "All-In Review"
+  },
+  {
+    "objectID": "summary/0003/index.html#master-review",
+    "href": "summary/0003/index.html#master-review",
+    "title": "Review #0003",
+    "section": "Master Review",
+    "text": "Master Review"
+  },
+  {
+    "objectID": "summary/0004/index.html#short-summary",
+    "href": "summary/0004/index.html#short-summary",
+    "title": "Review #0004",
+    "section": "Short Summary",
+    "text": "Short Summary\n“Surgery case scheduling in a multistage operating room department: A literature review” is published in 2018, and in the current study it represents scheduler domain. Objectives of the published material are: not specified. The material was analysed and allocated to the 5 group. After grasping 80% of the work’s content, the reviewed work get F general grade and -99 certainty points. There is neutral outcomes of the work, the work does not consider COVID-19 pandemic or other pandemic outbreaks, the conflict of interests are Not mentioned, and the funding is Not mentioned.\nLocal reference:SR0004TN18\nInitial reference:x104\nShort note:Do not recommend\nThe original article can be accessed by the following URL:https://www.researchgate.net/publication/326265568_Surgery_case_scheduling_in_a_multistage_operating_room_department_A_literature_review"
+  },
+  {
+    "objectID": "summary/0004/index.html#authors",
+    "href": "summary/0004/index.html#authors",
+    "title": "Review #0004",
+    "section": "Authors",
+    "text": "Authors\n****__"
+  },
+  {
+    "objectID": "summary/0004/index.html#keywords",
+    "href": "summary/0004/index.html#keywords",
+    "title": "Review #0004",
+    "section": "Keywords",
+    "text": "Keywords\nColours explained: Method, Objectives, Subject, Property, Tool"
+  },
+  {
+    "objectID": "summary/0004/index.html#research-methods",
+    "href": "summary/0004/index.html#research-methods",
+    "title": "Review #0004",
+    "section": "Research Methods",
+    "text": "Research Methods"
+  },
+  {
+    "objectID": "summary/0004/index.html#source-references",
+    "href": "summary/0004/index.html#source-references",
+    "title": "Review #0004",
+    "section": "Source References",
+    "text": "Source References"
+  },
+  {
+    "objectID": "summary/0004/index.html#databases",
+    "href": "summary/0004/index.html#databases",
+    "title": "Review #0004",
+    "section": "Databases",
+    "text": "Databases\n\nSearch Databases\n\n\nMedical Datasets"
+  },
+  {
+    "objectID": "summary/0004/index.html#classification",
+    "href": "summary/0004/index.html#classification",
+    "title": "Review #0004",
+    "section": "Classification",
+    "text": "Classification\n\nPatient Types\n\n\nDecision Levels\n\n\nLevel of Integration"
+  },
+  {
+    "objectID": "summary/0004/index.html#constraints",
+    "href": "summary/0004/index.html#constraints",
+    "title": "Review #0004",
+    "section": "Constraints",
+    "text": "Constraints"
+  },
+  {
+    "objectID": "summary/0004/index.html#bias-assessment",
+    "href": "summary/0004/index.html#bias-assessment",
+    "title": "Review #0004",
+    "section": "Bias Assessment",
+    "text": "Bias Assessment"
+  },
+  {
+    "objectID": "summary/0004/index.html#scan-review",
+    "href": "summary/0004/index.html#scan-review",
+    "title": "Review #0004",
+    "section": "Scan Review",
+    "text": "Scan Review"
+  },
+  {
+    "objectID": "summary/0004/index.html#focus-review",
+    "href": "summary/0004/index.html#focus-review",
+    "title": "Review #0004",
+    "section": "Focus Review",
+    "text": "Focus Review"
+  },
+  {
+    "objectID": "summary/0004/index.html#all-in-review",
+    "href": "summary/0004/index.html#all-in-review",
+    "title": "Review #0004",
+    "section": "All-In Review",
+    "text": "All-In Review"
+  },
+  {
+    "objectID": "summary/0004/index.html#master-review",
+    "href": "summary/0004/index.html#master-review",
+    "title": "Review #0004",
+    "section": "Master Review",
+    "text": "Master Review"
+  },
+  {
+    "objectID": "summary/0005/index.html#short-summary",
+    "href": "summary/0005/index.html#short-summary",
+    "title": "Review #0005",
+    "section": "Short Summary",
+    "text": "Short Summary\n“Fractured systems: a literature review of OR/MS methods applied to orthopaedic care settings and treatments” is published in 2023, and in the current study it represents both domain. Objectives of the published material are: The aim is to quantify and taxonomise the current state of the OR/MS approaches implemented in orthopadic department.. The material was analysed and allocated to the 5 group. After grasping 87% of the work’s content, the reviewed work get A general grade and -99 certainty points. There is neutral outcomes of the work, the work considers COVID-19 pandemic or other pandemic outbreaks, the conflict of interests are None declared, and the funding is Fully funded.\nLocal reference:SR0005GB23\nInitial reference:x122\nShort note:Has advanced searching techniques\nThe original article can be accessed by the following URL:https://doi.org/10.1080/20476965.2023.2264348"
+  },
+  {
+    "objectID": "summary/0005/index.html#authors",
+    "href": "summary/0005/index.html#authors",
+    "title": "Review #0005",
+    "section": "Authors",
+    "text": "Authors\n****__"
+  },
+  {
+    "objectID": "summary/0005/index.html#keywords",
+    "href": "summary/0005/index.html#keywords",
+    "title": "Review #0005",
+    "section": "Keywords",
+    "text": "Keywords\nColours explained: Method, Objectives, Subject, Property, Tool"
+  },
+  {
+    "objectID": "summary/0005/index.html#research-methods",
+    "href": "summary/0005/index.html#research-methods",
+    "title": "Review #0005",
+    "section": "Research Methods",
+    "text": "Research Methods"
+  },
+  {
+    "objectID": "summary/0005/index.html#source-references",
+    "href": "summary/0005/index.html#source-references",
+    "title": "Review #0005",
+    "section": "Source References",
+    "text": "Source References"
+  },
+  {
+    "objectID": "summary/0005/index.html#databases",
+    "href": "summary/0005/index.html#databases",
+    "title": "Review #0005",
+    "section": "Databases",
+    "text": "Databases\n\nSearch Databases\n\n\nMedical Datasets"
+  },
+  {
+    "objectID": "summary/0005/index.html#classification",
+    "href": "summary/0005/index.html#classification",
+    "title": "Review #0005",
+    "section": "Classification",
+    "text": "Classification\n\nPatient Types\n\n\nDecision Levels\n\n\nLevel of Integration"
+  },
+  {
+    "objectID": "summary/0005/index.html#constraints",
+    "href": "summary/0005/index.html#constraints",
+    "title": "Review #0005",
+    "section": "Constraints",
+    "text": "Constraints"
+  },
+  {
+    "objectID": "summary/0005/index.html#bias-assessment",
+    "href": "summary/0005/index.html#bias-assessment",
+    "title": "Review #0005",
+    "section": "Bias Assessment",
+    "text": "Bias Assessment"
+  },
+  {
+    "objectID": "summary/0005/index.html#scan-review",
+    "href": "summary/0005/index.html#scan-review",
+    "title": "Review #0005",
+    "section": "Scan Review",
+    "text": "Scan Review"
+  },
+  {
+    "objectID": "summary/0005/index.html#focus-review",
+    "href": "summary/0005/index.html#focus-review",
+    "title": "Review #0005",
+    "section": "Focus Review",
+    "text": "Focus Review"
+  },
+  {
+    "objectID": "summary/0005/index.html#all-in-review",
+    "href": "summary/0005/index.html#all-in-review",
+    "title": "Review #0005",
+    "section": "All-In Review",
+    "text": "All-In Review"
+  },
+  {
+    "objectID": "summary/0005/index.html#master-review",
+    "href": "summary/0005/index.html#master-review",
+    "title": "Review #0005",
+    "section": "Master Review",
+    "text": "Master Review"
+  },
+  {
+    "objectID": "summary/0006/index.html#short-summary",
+    "href": "summary/0006/index.html#short-summary",
+    "title": "Review #0006",
+    "section": "Short Summary",
+    "text": "Short Summary\n“AI for patient scheduling in the real-world health care setting: A metanarrative review” is published in 2022, and in the current study it represents scheduler domain. Objectives of the published material are: The work aims to overview the papers in the field of Master Surgery Scheduling Problem, identify trends and address the existing research gaps.. The material was analysed and allocated to the 5 group. After grasping 90% of the work’s content, the reviewed work get B general grade and -99 certainty points. There is neutral outcomes of the work, the work does not consider COVID-19 pandemic or other pandemic outbreaks, the conflict of interests are Not mentioned, and the funding is Not mentioned.\nLocal reference:SR0007MY22\nInitial reference:x236\nShort note:Has solution evaluation methods\nThe original article can be accessed by the following URL:https://doi.org/10.1109/ACCESS.2022.3202546"
+  },
+  {
+    "objectID": "summary/0006/index.html#authors",
+    "href": "summary/0006/index.html#authors",
+    "title": "Review #0006",
+    "section": "Authors",
+    "text": "Authors\n****__"
+  },
+  {
+    "objectID": "summary/0006/index.html#keywords",
+    "href": "summary/0006/index.html#keywords",
+    "title": "Review #0006",
+    "section": "Keywords",
+    "text": "Keywords\nColours explained: Method, Objectives, Subject, Property, Tool"
+  },
+  {
+    "objectID": "summary/0006/index.html#research-methods",
+    "href": "summary/0006/index.html#research-methods",
+    "title": "Review #0006",
+    "section": "Research Methods",
+    "text": "Research Methods"
+  },
+  {
+    "objectID": "summary/0006/index.html#source-references",
+    "href": "summary/0006/index.html#source-references",
+    "title": "Review #0006",
+    "section": "Source References",
+    "text": "Source References"
+  },
+  {
+    "objectID": "summary/0006/index.html#databases",
+    "href": "summary/0006/index.html#databases",
+    "title": "Review #0006",
+    "section": "Databases",
+    "text": "Databases\n\nSearch Databases\n\n\nMedical Datasets"
+  },
+  {
+    "objectID": "summary/0006/index.html#classification",
+    "href": "summary/0006/index.html#classification",
+    "title": "Review #0006",
+    "section": "Classification",
+    "text": "Classification\n\nPatient Types\n\n\nDecision Levels\n\n\nLevel of Integration"
+  },
+  {
+    "objectID": "summary/0006/index.html#constraints",
+    "href": "summary/0006/index.html#constraints",
+    "title": "Review #0006",
+    "section": "Constraints",
+    "text": "Constraints"
+  },
+  {
+    "objectID": "summary/0006/index.html#bias-assessment",
+    "href": "summary/0006/index.html#bias-assessment",
+    "title": "Review #0006",
+    "section": "Bias Assessment",
+    "text": "Bias Assessment"
+  },
+  {
+    "objectID": "summary/0006/index.html#scan-review",
+    "href": "summary/0006/index.html#scan-review",
+    "title": "Review #0006",
+    "section": "Scan Review",
+    "text": "Scan Review"
+  },
+  {
+    "objectID": "summary/0006/index.html#focus-review",
+    "href": "summary/0006/index.html#focus-review",
+    "title": "Review #0006",
+    "section": "Focus Review",
+    "text": "Focus Review"
+  },
+  {
+    "objectID": "summary/0006/index.html#all-in-review",
+    "href": "summary/0006/index.html#all-in-review",
+    "title": "Review #0006",
+    "section": "All-In Review",
+    "text": "All-In Review"
+  },
+  {
+    "objectID": "summary/0006/index.html#master-review",
+    "href": "summary/0006/index.html#master-review",
+    "title": "Review #0006",
+    "section": "Master Review",
+    "text": "Master Review"
+  },
+  {
+    "objectID": "summary/0008/index.html#short-summary",
+    "href": "summary/0008/index.html#short-summary",
+    "title": "Review #0008",
+    "section": "Short Summary",
+    "text": "Short Summary\n“Data science, analytics and artificial intelligence in e-health: trends, applications and challenges” is published in 2023, and in the current study it represents analyser domain. Objectives of the published material are: not specified. The material was analysed and allocated to the 5 group. After grasping 93% of the work’s content, the reviewed work get C general grade and -99 certainty points. There is neutral outcomes of the work, the work considers COVID-19 pandemic or other pandemic outbreaks, the conflict of interests are Has CoI, and the funding is Partially funded.\nLocal reference:SR0008ES23\nInitial reference:x249\nShort note:Data preprocessing + NMF + Python\nThe original article can be accessed by the following URL:https://ddd.uab.cat/record/276042"
+  },
+  {
+    "objectID": "summary/0008/index.html#authors",
+    "href": "summary/0008/index.html#authors",
+    "title": "Review #0008",
+    "section": "Authors",
+    "text": "Authors\n****__"
+  },
+  {
+    "objectID": "summary/0008/index.html#keywords",
+    "href": "summary/0008/index.html#keywords",
+    "title": "Review #0008",
+    "section": "Keywords",
+    "text": "Keywords\nColours explained: Method, Objectives, Subject, Property, Tool"
+  },
+  {
+    "objectID": "summary/0008/index.html#research-methods",
+    "href": "summary/0008/index.html#research-methods",
+    "title": "Review #0008",
+    "section": "Research Methods",
+    "text": "Research Methods"
+  },
+  {
+    "objectID": "summary/0008/index.html#source-references",
+    "href": "summary/0008/index.html#source-references",
+    "title": "Review #0008",
+    "section": "Source References",
+    "text": "Source References"
+  },
+  {
+    "objectID": "summary/0008/index.html#databases",
+    "href": "summary/0008/index.html#databases",
+    "title": "Review #0008",
+    "section": "Databases",
+    "text": "Databases\n\nSearch Databases\n\n\nMedical Datasets"
+  },
+  {
+    "objectID": "summary/0008/index.html#classification",
+    "href": "summary/0008/index.html#classification",
+    "title": "Review #0008",
+    "section": "Classification",
+    "text": "Classification\n\nPatient Types\n\n\nDecision Levels\n\n\nLevel of Integration"
+  },
+  {
+    "objectID": "summary/0008/index.html#constraints",
+    "href": "summary/0008/index.html#constraints",
+    "title": "Review #0008",
+    "section": "Constraints",
+    "text": "Constraints"
+  },
+  {
+    "objectID": "summary/0008/index.html#bias-assessment",
+    "href": "summary/0008/index.html#bias-assessment",
+    "title": "Review #0008",
+    "section": "Bias Assessment",
+    "text": "Bias Assessment"
+  },
+  {
+    "objectID": "summary/0008/index.html#scan-review",
+    "href": "summary/0008/index.html#scan-review",
+    "title": "Review #0008",
+    "section": "Scan Review",
+    "text": "Scan Review"
+  },
+  {
+    "objectID": "summary/0008/index.html#focus-review",
+    "href": "summary/0008/index.html#focus-review",
+    "title": "Review #0008",
+    "section": "Focus Review",
+    "text": "Focus Review"
+  },
+  {
+    "objectID": "summary/0008/index.html#all-in-review",
+    "href": "summary/0008/index.html#all-in-review",
+    "title": "Review #0008",
+    "section": "All-In Review",
+    "text": "All-In Review"
+  },
+  {
+    "objectID": "summary/0008/index.html#master-review",
+    "href": "summary/0008/index.html#master-review",
+    "title": "Review #0008",
+    "section": "Master Review",
+    "text": "Master Review"
+  },
+  {
+    "objectID": "summary/0009/index.html#short-summary",
+    "href": "summary/0009/index.html#short-summary",
+    "title": "Review #0009",
+    "section": "Short Summary",
+    "text": "Short Summary\n“Healthcare related event prediction from textual data with machine learning: A Systematic Literature Review” is published in 2022, and in the current study it represents analyser domain. Objectives of the published material are: Investigate a medical event prediction solution with textual data on the input.. The material was analysed and allocated to the 5 group. After grasping 95% of the work’s content, the reviewed work get B general grade and -99 certainty points. There is neutral outcomes of the work, the work considers COVID-19 pandemic or other pandemic outbreaks, the conflict of interests are Not mentioned, and the funding is Not mentioned.\nLocal reference:SR0009NL22\nInitial reference:x349\nShort note:Quality assessment method?\nThe original article can be accessed by the following URL:https://doi.org/10.1016/j.health.2022.100107"
+  },
+  {
+    "objectID": "summary/0009/index.html#authors",
+    "href": "summary/0009/index.html#authors",
+    "title": "Review #0009",
+    "section": "Authors",
+    "text": "Authors\n****__"
+  },
+  {
+    "objectID": "summary/0009/index.html#keywords",
+    "href": "summary/0009/index.html#keywords",
+    "title": "Review #0009",
+    "section": "Keywords",
+    "text": "Keywords\nColours explained: Method, Objectives, Subject, Property, Tool"
+  },
+  {
+    "objectID": "summary/0009/index.html#research-methods",
+    "href": "summary/0009/index.html#research-methods",
+    "title": "Review #0009",
+    "section": "Research Methods",
+    "text": "Research Methods"
+  },
+  {
+    "objectID": "summary/0009/index.html#source-references",
+    "href": "summary/0009/index.html#source-references",
+    "title": "Review #0009",
+    "section": "Source References",
+    "text": "Source References"
+  },
+  {
+    "objectID": "summary/0009/index.html#databases",
+    "href": "summary/0009/index.html#databases",
+    "title": "Review #0009",
+    "section": "Databases",
+    "text": "Databases\n\nSearch Databases\n\n\nMedical Datasets"
+  },
+  {
+    "objectID": "summary/0009/index.html#classification",
+    "href": "summary/0009/index.html#classification",
+    "title": "Review #0009",
+    "section": "Classification",
+    "text": "Classification\n\nPatient Types\n\n\nDecision Levels\n\n\nLevel of Integration"
+  },
+  {
+    "objectID": "summary/0009/index.html#constraints",
+    "href": "summary/0009/index.html#constraints",
+    "title": "Review #0009",
+    "section": "Constraints",
+    "text": "Constraints"
+  },
+  {
+    "objectID": "summary/0009/index.html#bias-assessment",
+    "href": "summary/0009/index.html#bias-assessment",
+    "title": "Review #0009",
+    "section": "Bias Assessment",
+    "text": "Bias Assessment"
+  },
+  {
+    "objectID": "summary/0009/index.html#scan-review",
+    "href": "summary/0009/index.html#scan-review",
+    "title": "Review #0009",
+    "section": "Scan Review",
+    "text": "Scan Review"
+  },
+  {
+    "objectID": "summary/0009/index.html#focus-review",
+    "href": "summary/0009/index.html#focus-review",
+    "title": "Review #0009",
+    "section": "Focus Review",
+    "text": "Focus Review"
+  },
+  {
+    "objectID": "summary/0009/index.html#all-in-review",
+    "href": "summary/0009/index.html#all-in-review",
+    "title": "Review #0009",
+    "section": "All-In Review",
+    "text": "All-In Review"
+  },
+  {
+    "objectID": "summary/0009/index.html#master-review",
+    "href": "summary/0009/index.html#master-review",
+    "title": "Review #0009",
+    "section": "Master Review",
+    "text": "Master Review"
+  },
+  {
+    "objectID": "summary/0010/index.html#short-summary",
+    "href": "summary/0010/index.html#short-summary",
+    "title": "Review #0010",
+    "section": "Short Summary",
+    "text": "Short Summary\n“Integrated Planning in Hospitals: A Review” is published in 2023, and in the current study it represents both domain. Objectives of the published material are: Research the existing literature in scope of healthcare integrated planning.. The material was analysed and allocated to the 4 group. After grasping 96% of the work’s content, the reviewed work get A general grade and -99 certainty points. There is neutral outcomes of the work, the work considers COVID-19 pandemic or other pandemic outbreaks, the conflict of interests are Not mentioned, and the funding is Fully funded.\nLocal reference:SR0010NL23\nInitial reference:x338\nShort note:Health departments disconnection\nThe original article can be accessed by the following URL:https://doi.org/10.48550/arXiv.2307.05258"
+  },
+  {
+    "objectID": "summary/0010/index.html#authors",
+    "href": "summary/0010/index.html#authors",
+    "title": "Review #0010",
+    "section": "Authors",
+    "text": "Authors\n****__"
+  },
+  {
+    "objectID": "summary/0010/index.html#keywords",
+    "href": "summary/0010/index.html#keywords",
+    "title": "Review #0010",
+    "section": "Keywords",
+    "text": "Keywords\nColours explained: Method, Objectives, Subject, Property, Tool"
+  },
+  {
+    "objectID": "summary/0010/index.html#research-methods",
+    "href": "summary/0010/index.html#research-methods",
+    "title": "Review #0010",
+    "section": "Research Methods",
+    "text": "Research Methods"
+  },
+  {
+    "objectID": "summary/0010/index.html#source-references",
+    "href": "summary/0010/index.html#source-references",
+    "title": "Review #0010",
+    "section": "Source References",
+    "text": "Source References"
+  },
+  {
+    "objectID": "summary/0010/index.html#databases",
+    "href": "summary/0010/index.html#databases",
+    "title": "Review #0010",
+    "section": "Databases",
+    "text": "Databases\n\nSearch Databases\n\n\nMedical Datasets"
+  },
+  {
+    "objectID": "summary/0010/index.html#classification",
+    "href": "summary/0010/index.html#classification",
+    "title": "Review #0010",
+    "section": "Classification",
+    "text": "Classification\n\nPatient Types\n\n\nDecision Levels\n\n\nLevel of Integration"
+  },
+  {
+    "objectID": "summary/0010/index.html#constraints",
+    "href": "summary/0010/index.html#constraints",
+    "title": "Review #0010",
+    "section": "Constraints",
+    "text": "Constraints"
+  },
+  {
+    "objectID": "summary/0010/index.html#bias-assessment",
+    "href": "summary/0010/index.html#bias-assessment",
+    "title": "Review #0010",
+    "section": "Bias Assessment",
+    "text": "Bias Assessment"
+  },
+  {
+    "objectID": "summary/0010/index.html#scan-review",
+    "href": "summary/0010/index.html#scan-review",
+    "title": "Review #0010",
+    "section": "Scan Review",
+    "text": "Scan Review"
+  },
+  {
+    "objectID": "summary/0010/index.html#focus-review",
+    "href": "summary/0010/index.html#focus-review",
+    "title": "Review #0010",
+    "section": "Focus Review",
+    "text": "Focus Review"
+  },
+  {
+    "objectID": "summary/0010/index.html#all-in-review",
+    "href": "summary/0010/index.html#all-in-review",
+    "title": "Review #0010",
+    "section": "All-In Review",
+    "text": "All-In Review"
+  },
+  {
+    "objectID": "summary/0010/index.html#master-review",
+    "href": "summary/0010/index.html#master-review",
+    "title": "Review #0010",
+    "section": "Master Review",
+    "text": "Master Review"
+  },
+  {
+    "objectID": "summary/0011/index.html#short-summary",
+    "href": "summary/0011/index.html#short-summary",
+    "title": "Review #0011",
+    "section": "Short Summary",
+    "text": "Short Summary\n“Taxonomic classification of planning decisions in health care: a structured review of the state of the art in OR/MS” is published in 2012, and in the current study it represents both domain. Objectives of the published material are: Aim to guide healthcare professionals in the field of OR/ MS.. The material was analysed and allocated to the 6 group. After grasping 94% of the work’s content, the reviewed work get A general grade and -99 certainty points. There is neutral outcomes of the work, the work does not consider COVID-19 pandemic or other pandemic outbreaks, the conflict of interests are Not mentioned, and the funding is Fully funded.\nLocal reference:SR0011NL12\nInitial reference:x029\nShort note:Reach on definitions and descriptions\nThe original article can be accessed by the following URL:https://doi.org/10.1057/hs.2012.18"
+  },
+  {
+    "objectID": "summary/0011/index.html#authors",
+    "href": "summary/0011/index.html#authors",
+    "title": "Review #0011",
+    "section": "Authors",
+    "text": "Authors\n****__"
+  },
+  {
+    "objectID": "summary/0011/index.html#keywords",
+    "href": "summary/0011/index.html#keywords",
+    "title": "Review #0011",
+    "section": "Keywords",
+    "text": "Keywords\nColours explained: Method, Objectives, Subject, Property, Tool"
+  },
+  {
+    "objectID": "summary/0011/index.html#research-methods",
+    "href": "summary/0011/index.html#research-methods",
+    "title": "Review #0011",
+    "section": "Research Methods",
+    "text": "Research Methods"
+  },
+  {
+    "objectID": "summary/0011/index.html#source-references",
+    "href": "summary/0011/index.html#source-references",
+    "title": "Review #0011",
+    "section": "Source References",
+    "text": "Source References"
+  },
+  {
+    "objectID": "summary/0011/index.html#databases",
+    "href": "summary/0011/index.html#databases",
+    "title": "Review #0011",
+    "section": "Databases",
+    "text": "Databases\n\nSearch Databases\n\n\nMedical Datasets"
+  },
+  {
+    "objectID": "summary/0011/index.html#classification",
+    "href": "summary/0011/index.html#classification",
+    "title": "Review #0011",
+    "section": "Classification",
+    "text": "Classification\n\nPatient Types\n\n\nDecision Levels\n\n\nLevel of Integration"
+  },
+  {
+    "objectID": "summary/0011/index.html#constraints",
+    "href": "summary/0011/index.html#constraints",
+    "title": "Review #0011",
+    "section": "Constraints",
+    "text": "Constraints"
+  },
+  {
+    "objectID": "summary/0011/index.html#bias-assessment",
+    "href": "summary/0011/index.html#bias-assessment",
+    "title": "Review #0011",
+    "section": "Bias Assessment",
+    "text": "Bias Assessment"
+  },
+  {
+    "objectID": "summary/0011/index.html#scan-review",
+    "href": "summary/0011/index.html#scan-review",
+    "title": "Review #0011",
+    "section": "Scan Review",
+    "text": "Scan Review"
+  },
+  {
+    "objectID": "summary/0011/index.html#focus-review",
+    "href": "summary/0011/index.html#focus-review",
+    "title": "Review #0011",
+    "section": "Focus Review",
+    "text": "Focus Review"
+  },
+  {
+    "objectID": "summary/0011/index.html#all-in-review",
+    "href": "summary/0011/index.html#all-in-review",
+    "title": "Review #0011",
+    "section": "All-In Review",
+    "text": "All-In Review"
+  },
+  {
+    "objectID": "summary/0011/index.html#master-review",
+    "href": "summary/0011/index.html#master-review",
+    "title": "Review #0011",
+    "section": "Master Review",
+    "text": "Master Review"
+  },
+  {
+    "objectID": "summary/0012/index.html#short-summary",
+    "href": "summary/0012/index.html#short-summary",
+    "title": "Review #0012",
+    "section": "Short Summary",
+    "text": "Short Summary\n“Applications of Artificial Intelligence in the Radiology Roundtrip: Process Streamlining, Workflow Optimization, and Beyond” is published in 2023, and in the current study it represents both domain. Objectives of the published material are: not specified. The material was analysed and allocated to the 6 group. After grasping 85% of the work’s content, the reviewed work get C general grade and -99 certainty points. There is neutral outcomes of the work, the work considers COVID-19 pandemic or other pandemic outbreaks, the conflict of interests are Has CoI, and the funding is Not funded.\nLocal reference:SR0012US23\nInitial reference:x076\nShort note:Appropriate Use Critaria CDS model\nThe original article can be accessed by the following URL:https://doi.org/10.1053/j.ro.2023.02.003"
+  },
+  {
+    "objectID": "summary/0012/index.html#authors",
+    "href": "summary/0012/index.html#authors",
+    "title": "Review #0012",
+    "section": "Authors",
+    "text": "Authors\n****__"
+  },
+  {
+    "objectID": "summary/0012/index.html#keywords",
+    "href": "summary/0012/index.html#keywords",
+    "title": "Review #0012",
+    "section": "Keywords",
+    "text": "Keywords\nColours explained: Method, Objectives, Subject, Property, Tool"
+  },
+  {
+    "objectID": "summary/0012/index.html#research-methods",
+    "href": "summary/0012/index.html#research-methods",
+    "title": "Review #0012",
+    "section": "Research Methods",
+    "text": "Research Methods"
+  },
+  {
+    "objectID": "summary/0012/index.html#source-references",
+    "href": "summary/0012/index.html#source-references",
+    "title": "Review #0012",
+    "section": "Source References",
+    "text": "Source References"
+  },
+  {
+    "objectID": "summary/0012/index.html#databases",
+    "href": "summary/0012/index.html#databases",
+    "title": "Review #0012",
+    "section": "Databases",
+    "text": "Databases\n\nSearch Databases\n\n\nMedical Datasets"
+  },
+  {
+    "objectID": "summary/0012/index.html#classification",
+    "href": "summary/0012/index.html#classification",
+    "title": "Review #0012",
+    "section": "Classification",
+    "text": "Classification\n\nPatient Types\n\n\nDecision Levels\n\n\nLevel of Integration"
+  },
+  {
+    "objectID": "summary/0012/index.html#constraints",
+    "href": "summary/0012/index.html#constraints",
+    "title": "Review #0012",
+    "section": "Constraints",
+    "text": "Constraints"
+  },
+  {
+    "objectID": "summary/0012/index.html#bias-assessment",
+    "href": "summary/0012/index.html#bias-assessment",
+    "title": "Review #0012",
+    "section": "Bias Assessment",
+    "text": "Bias Assessment"
+  },
+  {
+    "objectID": "summary/0012/index.html#scan-review",
+    "href": "summary/0012/index.html#scan-review",
+    "title": "Review #0012",
+    "section": "Scan Review",
+    "text": "Scan Review"
+  },
+  {
+    "objectID": "summary/0012/index.html#focus-review",
+    "href": "summary/0012/index.html#focus-review",
+    "title": "Review #0012",
+    "section": "Focus Review",
+    "text": "Focus Review"
+  },
+  {
+    "objectID": "summary/0012/index.html#all-in-review",
+    "href": "summary/0012/index.html#all-in-review",
+    "title": "Review #0012",
+    "section": "All-In Review",
+    "text": "All-In Review"
+  },
+  {
+    "objectID": "summary/0012/index.html#master-review",
+    "href": "summary/0012/index.html#master-review",
+    "title": "Review #0012",
+    "section": "Master Review",
+    "text": "Master Review"
+  },
+  {
+    "objectID": "summary/0013/index.html#short-summary",
+    "href": "summary/0013/index.html#short-summary",
+    "title": "Review #0013",
+    "section": "Short Summary",
+    "text": "Short Summary\n“Operating room planning and surgical case scheduling: a review of literature” is published in 2019, and in the current study it represents scheduler domain. Objectives of the published material are: not specified. The material was analysed and allocated to the 6 group. After grasping 95% of the work’s content, the reviewed work get B general grade and -99 certainty points. There is neutral outcomes of the work, the work does not consider COVID-19 pandemic or other pandemic outbreaks, the conflict of interests are Has CoI, and the funding is Multiple funding.\nLocal reference:SR0013CN19\nInitial reference:x203\nShort note:Terms definitions\nThe original article can be accessed by the following URL:https://doi.org/10.1007/s10878-018-0322-6"
+  },
+  {
+    "objectID": "summary/0013/index.html#authors",
+    "href": "summary/0013/index.html#authors",
+    "title": "Review #0013",
+    "section": "Authors",
+    "text": "Authors\n****__"
+  },
+  {
+    "objectID": "summary/0013/index.html#keywords",
+    "href": "summary/0013/index.html#keywords",
+    "title": "Review #0013",
+    "section": "Keywords",
+    "text": "Keywords\nColours explained: Method, Objectives, Subject, Property, Tool"
+  },
+  {
+    "objectID": "summary/0013/index.html#research-methods",
+    "href": "summary/0013/index.html#research-methods",
+    "title": "Review #0013",
+    "section": "Research Methods",
+    "text": "Research Methods"
+  },
+  {
+    "objectID": "summary/0013/index.html#source-references",
+    "href": "summary/0013/index.html#source-references",
+    "title": "Review #0013",
+    "section": "Source References",
+    "text": "Source References"
+  },
+  {
+    "objectID": "summary/0013/index.html#databases",
+    "href": "summary/0013/index.html#databases",
+    "title": "Review #0013",
+    "section": "Databases",
+    "text": "Databases\n\nSearch Databases\n\n\nMedical Datasets"
+  },
+  {
+    "objectID": "summary/0013/index.html#classification",
+    "href": "summary/0013/index.html#classification",
+    "title": "Review #0013",
+    "section": "Classification",
+    "text": "Classification\n\nPatient Types\n\n\nDecision Levels\n\n\nLevel of Integration"
+  },
+  {
+    "objectID": "summary/0013/index.html#constraints",
+    "href": "summary/0013/index.html#constraints",
+    "title": "Review #0013",
+    "section": "Constraints",
+    "text": "Constraints"
+  },
+  {
+    "objectID": "summary/0013/index.html#bias-assessment",
+    "href": "summary/0013/index.html#bias-assessment",
+    "title": "Review #0013",
+    "section": "Bias Assessment",
+    "text": "Bias Assessment"
+  },
+  {
+    "objectID": "summary/0013/index.html#scan-review",
+    "href": "summary/0013/index.html#scan-review",
+    "title": "Review #0013",
+    "section": "Scan Review",
+    "text": "Scan Review"
+  },
+  {
+    "objectID": "summary/0013/index.html#focus-review",
+    "href": "summary/0013/index.html#focus-review",
+    "title": "Review #0013",
+    "section": "Focus Review",
+    "text": "Focus Review"
+  },
+  {
+    "objectID": "summary/0013/index.html#all-in-review",
+    "href": "summary/0013/index.html#all-in-review",
+    "title": "Review #0013",
+    "section": "All-In Review",
+    "text": "All-In Review"
+  },
+  {
+    "objectID": "summary/0013/index.html#master-review",
+    "href": "summary/0013/index.html#master-review",
+    "title": "Review #0013",
+    "section": "Master Review",
+    "text": "Master Review"
+  },
+  {
+    "objectID": "summary/0014/index.html#short-summary",
+    "href": "summary/0014/index.html#short-summary",
+    "title": "Review #0014",
+    "section": "Short Summary",
+    "text": "Short Summary\n“A Literature Review of Service Capacity Planning for Medical Technology Department” is published in 2023, and in the current study it represents both domain. Objectives of the published material are: not specified. The material was analysed and allocated to the 6 group. After grasping 95% of the work’s content, the reviewed work get D general grade and -99 certainty points. There is neutral outcomes of the work, the work does not consider COVID-19 pandemic or other pandemic outbreaks, the conflict of interests are Not mentioned, and the funding is Not mentioned.\nLocal reference:SR0014CN23\nInitial reference:x243\nShort note:General overview\nThe original article can be accessed by the following URL:http://dx.doi.org/10.25236/ajmhs.2023.040306"
+  },
+  {
+    "objectID": "summary/0014/index.html#authors",
+    "href": "summary/0014/index.html#authors",
+    "title": "Review #0014",
+    "section": "Authors",
+    "text": "Authors\n****__"
+  },
+  {
+    "objectID": "summary/0014/index.html#keywords",
+    "href": "summary/0014/index.html#keywords",
+    "title": "Review #0014",
+    "section": "Keywords",
+    "text": "Keywords\nColours explained: Method, Objectives, Subject, Property, Tool"
+  },
+  {
+    "objectID": "summary/0014/index.html#research-methods",
+    "href": "summary/0014/index.html#research-methods",
+    "title": "Review #0014",
+    "section": "Research Methods",
+    "text": "Research Methods"
+  },
+  {
+    "objectID": "summary/0014/index.html#source-references",
+    "href": "summary/0014/index.html#source-references",
+    "title": "Review #0014",
+    "section": "Source References",
+    "text": "Source References"
+  },
+  {
+    "objectID": "summary/0014/index.html#databases",
+    "href": "summary/0014/index.html#databases",
+    "title": "Review #0014",
+    "section": "Databases",
+    "text": "Databases\n\nSearch Databases\n\n\nMedical Datasets"
+  },
+  {
+    "objectID": "summary/0014/index.html#classification",
+    "href": "summary/0014/index.html#classification",
+    "title": "Review #0014",
+    "section": "Classification",
+    "text": "Classification\n\nPatient Types\n\n\nDecision Levels\n\n\nLevel of Integration"
+  },
+  {
+    "objectID": "summary/0014/index.html#constraints",
+    "href": "summary/0014/index.html#constraints",
+    "title": "Review #0014",
+    "section": "Constraints",
+    "text": "Constraints"
+  },
+  {
+    "objectID": "summary/0014/index.html#bias-assessment",
+    "href": "summary/0014/index.html#bias-assessment",
+    "title": "Review #0014",
+    "section": "Bias Assessment",
+    "text": "Bias Assessment"
+  },
+  {
+    "objectID": "summary/0014/index.html#scan-review",
+    "href": "summary/0014/index.html#scan-review",
+    "title": "Review #0014",
+    "section": "Scan Review",
+    "text": "Scan Review"
+  },
+  {
+    "objectID": "summary/0014/index.html#focus-review",
+    "href": "summary/0014/index.html#focus-review",
+    "title": "Review #0014",
+    "section": "Focus Review",
+    "text": "Focus Review"
+  },
+  {
+    "objectID": "summary/0014/index.html#all-in-review",
+    "href": "summary/0014/index.html#all-in-review",
+    "title": "Review #0014",
+    "section": "All-In Review",
+    "text": "All-In Review"
+  },
+  {
+    "objectID": "summary/0014/index.html#master-review",
+    "href": "summary/0014/index.html#master-review",
+    "title": "Review #0014",
+    "section": "Master Review",
+    "text": "Master Review"
+  },
+  {
+    "objectID": "summary/0015/index.html#short-summary",
+    "href": "summary/0015/index.html#short-summary",
+    "title": "Review #0015",
+    "section": "Short Summary",
+    "text": "Short Summary\n“Stochastic optimization approaches for elective surgery scheduling with downstream capacity constraints: Models, challenges, and opportunities” is published in 2022, and in the current study it represents both domain. Objectives of the published material are: Motivated by research collaboration with a large health system in Pennsylvania.. The material was analysed and allocated to the 6 group. After grasping 84% of the work’s content, the reviewed work get A+ general grade and -99 certainty points. There is neutral outcomes of the work, the work considers COVID-19 pandemic or other pandemic outbreaks, the conflict of interests are Not mentioned, and the funding is Not mentioned.\nLocal reference:SR0015US22\nInitial reference:x335\nShort note:Essential work to master\nThe original article can be accessed by the following URL:https://doi.org/10.1016/j.cor.2021.105523"
+  },
+  {
+    "objectID": "summary/0015/index.html#authors",
+    "href": "summary/0015/index.html#authors",
+    "title": "Review #0015",
+    "section": "Authors",
+    "text": "Authors\n****__"
+  },
+  {
+    "objectID": "summary/0015/index.html#keywords",
+    "href": "summary/0015/index.html#keywords",
+    "title": "Review #0015",
+    "section": "Keywords",
+    "text": "Keywords\nColours explained: Method, Objectives, Subject, Property, Tool"
+  },
+  {
+    "objectID": "summary/0015/index.html#research-methods",
+    "href": "summary/0015/index.html#research-methods",
+    "title": "Review #0015",
+    "section": "Research Methods",
+    "text": "Research Methods"
+  },
+  {
+    "objectID": "summary/0015/index.html#source-references",
+    "href": "summary/0015/index.html#source-references",
+    "title": "Review #0015",
+    "section": "Source References",
+    "text": "Source References"
+  },
+  {
+    "objectID": "summary/0015/index.html#databases",
+    "href": "summary/0015/index.html#databases",
+    "title": "Review #0015",
+    "section": "Databases",
+    "text": "Databases\n\nSearch Databases\n\n\nMedical Datasets"
+  },
+  {
+    "objectID": "summary/0015/index.html#classification",
+    "href": "summary/0015/index.html#classification",
+    "title": "Review #0015",
+    "section": "Classification",
+    "text": "Classification\n\nPatient Types\n\n\nDecision Levels\n\n\nLevel of Integration"
+  },
+  {
+    "objectID": "summary/0015/index.html#constraints",
+    "href": "summary/0015/index.html#constraints",
+    "title": "Review #0015",
+    "section": "Constraints",
+    "text": "Constraints"
+  },
+  {
+    "objectID": "summary/0015/index.html#bias-assessment",
+    "href": "summary/0015/index.html#bias-assessment",
+    "title": "Review #0015",
+    "section": "Bias Assessment",
+    "text": "Bias Assessment"
+  },
+  {
+    "objectID": "summary/0015/index.html#scan-review",
+    "href": "summary/0015/index.html#scan-review",
+    "title": "Review #0015",
+    "section": "Scan Review",
+    "text": "Scan Review"
+  },
+  {
+    "objectID": "summary/0015/index.html#focus-review",
+    "href": "summary/0015/index.html#focus-review",
+    "title": "Review #0015",
+    "section": "Focus Review",
+    "text": "Focus Review"
+  },
+  {
+    "objectID": "summary/0015/index.html#all-in-review",
+    "href": "summary/0015/index.html#all-in-review",
+    "title": "Review #0015",
+    "section": "All-In Review",
+    "text": "All-In Review"
+  },
+  {
+    "objectID": "summary/0015/index.html#master-review",
+    "href": "summary/0015/index.html#master-review",
+    "title": "Review #0015",
+    "section": "Master Review",
+    "text": "Master Review"
+  },
+  {
+    "objectID": "summary/0016/index.html#short-summary",
+    "href": "summary/0016/index.html#short-summary",
+    "title": "Review #0016",
+    "section": "Short Summary",
+    "text": "Short Summary\n“Solutions in radiology services management: a literature review” is published in 2015, and in the current study it represents none domain. Objectives of the published material are: Review existig issues with radiology services: “to develop hypotheses; increase investigators’ awareness of a given environ- ment, fact or phenomenon, in order to further and more ac- curately investigate in the future, or to modify and clarify concepts”. The material was rejected and allocated to the 0 group. After grasping 98% of the work’s content, the reviewed work get E general grade and -99 certainty points. There is neutral outcomes of the work, the work does not consider COVID-19 pandemic or other pandemic outbreaks, the conflict of interests are Not mentioned, and the funding is Not mentioned.\nLocal reference:SR0016BR15\nInitial reference:x073\nShort note:With patients in Facebook and Twitter\nThe original article can be accessed by the following URL:https://doi.org/10.1590/0100-3984.2014.0065"
+  },
+  {
+    "objectID": "summary/0016/index.html#authors",
+    "href": "summary/0016/index.html#authors",
+    "title": "Review #0016",
+    "section": "Authors",
+    "text": "Authors\n****__"
+  },
+  {
+    "objectID": "summary/0016/index.html#keywords",
+    "href": "summary/0016/index.html#keywords",
+    "title": "Review #0016",
+    "section": "Keywords",
+    "text": "Keywords\nColours explained: Method, Objectives, Subject, Property, Tool"
+  },
+  {
+    "objectID": "summary/0016/index.html#research-methods",
+    "href": "summary/0016/index.html#research-methods",
+    "title": "Review #0016",
+    "section": "Research Methods",
+    "text": "Research Methods"
+  },
+  {
+    "objectID": "summary/0016/index.html#source-references",
+    "href": "summary/0016/index.html#source-references",
+    "title": "Review #0016",
+    "section": "Source References",
+    "text": "Source References"
+  },
+  {
+    "objectID": "summary/0016/index.html#databases",
+    "href": "summary/0016/index.html#databases",
+    "title": "Review #0016",
+    "section": "Databases",
+    "text": "Databases\n\nSearch Databases\n\n\nMedical Datasets"
+  },
+  {
+    "objectID": "summary/0016/index.html#classification",
+    "href": "summary/0016/index.html#classification",
+    "title": "Review #0016",
+    "section": "Classification",
+    "text": "Classification\n\nPatient Types\n\n\nDecision Levels\n\n\nLevel of Integration"
+  },
+  {
+    "objectID": "summary/0016/index.html#constraints",
+    "href": "summary/0016/index.html#constraints",
+    "title": "Review #0016",
+    "section": "Constraints",
+    "text": "Constraints"
+  },
+  {
+    "objectID": "summary/0016/index.html#bias-assessment",
+    "href": "summary/0016/index.html#bias-assessment",
+    "title": "Review #0016",
+    "section": "Bias Assessment",
+    "text": "Bias Assessment"
+  },
+  {
+    "objectID": "summary/0016/index.html#scan-review",
+    "href": "summary/0016/index.html#scan-review",
+    "title": "Review #0016",
+    "section": "Scan Review",
+    "text": "Scan Review"
+  },
+  {
+    "objectID": "summary/0016/index.html#focus-review",
+    "href": "summary/0016/index.html#focus-review",
+    "title": "Review #0016",
+    "section": "Focus Review",
+    "text": "Focus Review"
+  },
+  {
+    "objectID": "summary/0016/index.html#all-in-review",
+    "href": "summary/0016/index.html#all-in-review",
+    "title": "Review #0016",
+    "section": "All-In Review",
+    "text": "All-In Review"
+  },
+  {
+    "objectID": "summary/0016/index.html#master-review",
+    "href": "summary/0016/index.html#master-review",
+    "title": "Review #0016",
+    "section": "Master Review",
+    "text": "Master Review"
+  },
+  {
+    "objectID": "summary/0017/index.html#short-summary",
+    "href": "summary/0017/index.html#short-summary",
+    "title": "Review #0017",
+    "section": "Short Summary",
+    "text": "Short Summary\n“Approaches to the Algorithmic Allocation of Public Resources: A Cross-disciplinary Review” is published in 2023, and in the current study it represents both domain. Objectives of the published material are: To overview of the existing works in the field of public resource allocation and suggest guidance for the policy makers.. The material was analysed and allocated to the 6 group. After grasping 98% of the work’s content, the reviewed work get B+ general grade and -99 certainty points. There is neutral outcomes of the work, the work considers COVID-19 pandemic or other pandemic outbreaks, the conflict of interests are Not mentioned, and the funding is Not mentioned.\nLocal reference:AR0017GB23\nInitial reference:x121\nShort note:Healthcare, disaster relief, organ transplantation, homelessness, welfare;\nThe original article can be accessed by the following URL:https://doi.org/10.48550/arXiv.2310.06475"
+  },
+  {
+    "objectID": "summary/0017/index.html#authors",
+    "href": "summary/0017/index.html#authors",
+    "title": "Review #0017",
+    "section": "Authors",
+    "text": "Authors\n****__"
+  },
+  {
+    "objectID": "summary/0017/index.html#keywords",
+    "href": "summary/0017/index.html#keywords",
+    "title": "Review #0017",
+    "section": "Keywords",
+    "text": "Keywords\nColours explained: Method, Objectives, Subject, Property, Tool"
+  },
+  {
+    "objectID": "summary/0017/index.html#research-methods",
+    "href": "summary/0017/index.html#research-methods",
+    "title": "Review #0017",
+    "section": "Research Methods",
+    "text": "Research Methods"
+  },
+  {
+    "objectID": "summary/0017/index.html#source-references",
+    "href": "summary/0017/index.html#source-references",
+    "title": "Review #0017",
+    "section": "Source References",
+    "text": "Source References"
+  },
+  {
+    "objectID": "summary/0017/index.html#databases",
+    "href": "summary/0017/index.html#databases",
+    "title": "Review #0017",
+    "section": "Databases",
+    "text": "Databases\n\nSearch Databases\n\n\nMedical Datasets"
+  },
+  {
+    "objectID": "summary/0017/index.html#classification",
+    "href": "summary/0017/index.html#classification",
+    "title": "Review #0017",
+    "section": "Classification",
+    "text": "Classification\n\nPatient Types\n\n\nDecision Levels\n\n\nLevel of Integration"
+  },
+  {
+    "objectID": "summary/0017/index.html#constraints",
+    "href": "summary/0017/index.html#constraints",
+    "title": "Review #0017",
+    "section": "Constraints",
+    "text": "Constraints"
+  },
+  {
+    "objectID": "summary/0017/index.html#bias-assessment",
+    "href": "summary/0017/index.html#bias-assessment",
+    "title": "Review #0017",
+    "section": "Bias Assessment",
+    "text": "Bias Assessment"
+  },
+  {
+    "objectID": "summary/0017/index.html#scan-review",
+    "href": "summary/0017/index.html#scan-review",
+    "title": "Review #0017",
+    "section": "Scan Review",
+    "text": "Scan Review"
+  },
+  {
+    "objectID": "summary/0017/index.html#focus-review",
+    "href": "summary/0017/index.html#focus-review",
+    "title": "Review #0017",
+    "section": "Focus Review",
+    "text": "Focus Review"
+  },
+  {
+    "objectID": "summary/0017/index.html#all-in-review",
+    "href": "summary/0017/index.html#all-in-review",
+    "title": "Review #0017",
+    "section": "All-In Review",
+    "text": "All-In Review"
+  },
+  {
+    "objectID": "summary/0017/index.html#master-review",
+    "href": "summary/0017/index.html#master-review",
+    "title": "Review #0017",
+    "section": "Master Review",
+    "text": "Master Review"
+  },
+  {
+    "objectID": "summary/0018/index.html#short-summary",
+    "href": "summary/0018/index.html#short-summary",
+    "title": "Review #0018",
+    "section": "Short Summary",
+    "text": "Short Summary\n“Healthcare Operations Research and Management under Pandemics: a Review” is published in 2023, and in the current study it represents both domain. Objectives of the published material are: Increase of social welfare from Healthcare System’s point of view and public policymakers.. The material was analysed and allocated to the 6 group. After grasping 60% of the work’s content, the reviewed work get B general grade and -99 certainty points. There is neutral outcomes of the work, the work considers COVID-19 pandemic or other pandemic outbreaks, the conflict of interests are Not mentioned, and the funding is Partially funded.\nLocal reference:SR0018CA23\nInitial reference:x128\nShort note:Papers on medical resource allocation under pandemic pressure.\nThe original article can be accessed by the following URL:https://optimization-online.org/2023/10/healthcare-operations-research-and-management-under-pandemics-a-review/"
+  },
+  {
+    "objectID": "summary/0018/index.html#authors",
+    "href": "summary/0018/index.html#authors",
+    "title": "Review #0018",
+    "section": "Authors",
+    "text": "Authors\n****__"
+  },
+  {
+    "objectID": "summary/0018/index.html#keywords",
+    "href": "summary/0018/index.html#keywords",
+    "title": "Review #0018",
+    "section": "Keywords",
+    "text": "Keywords\nColours explained: Method, Objectives, Subject, Property, Tool"
+  },
+  {
+    "objectID": "summary/0018/index.html#research-methods",
+    "href": "summary/0018/index.html#research-methods",
+    "title": "Review #0018",
+    "section": "Research Methods",
+    "text": "Research Methods"
+  },
+  {
+    "objectID": "summary/0018/index.html#source-references",
+    "href": "summary/0018/index.html#source-references",
+    "title": "Review #0018",
+    "section": "Source References",
+    "text": "Source References"
+  },
+  {
+    "objectID": "summary/0018/index.html#databases",
+    "href": "summary/0018/index.html#databases",
+    "title": "Review #0018",
+    "section": "Databases",
+    "text": "Databases\n\nSearch Databases\n\n\nMedical Datasets"
+  },
+  {
+    "objectID": "summary/0018/index.html#classification",
+    "href": "summary/0018/index.html#classification",
+    "title": "Review #0018",
+    "section": "Classification",
+    "text": "Classification\n\nPatient Types\n\n\nDecision Levels\n\n\nLevel of Integration"
+  },
+  {
+    "objectID": "summary/0018/index.html#constraints",
+    "href": "summary/0018/index.html#constraints",
+    "title": "Review #0018",
+    "section": "Constraints",
+    "text": "Constraints"
+  },
+  {
+    "objectID": "summary/0018/index.html#bias-assessment",
+    "href": "summary/0018/index.html#bias-assessment",
+    "title": "Review #0018",
+    "section": "Bias Assessment",
+    "text": "Bias Assessment"
+  },
+  {
+    "objectID": "summary/0018/index.html#scan-review",
+    "href": "summary/0018/index.html#scan-review",
+    "title": "Review #0018",
+    "section": "Scan Review",
+    "text": "Scan Review"
+  },
+  {
+    "objectID": "summary/0018/index.html#focus-review",
+    "href": "summary/0018/index.html#focus-review",
+    "title": "Review #0018",
+    "section": "Focus Review",
+    "text": "Focus Review"
+  },
+  {
+    "objectID": "summary/0018/index.html#all-in-review",
+    "href": "summary/0018/index.html#all-in-review",
+    "title": "Review #0018",
+    "section": "All-In Review",
+    "text": "All-In Review"
+  },
+  {
+    "objectID": "summary/0018/index.html#master-review",
+    "href": "summary/0018/index.html#master-review",
+    "title": "Review #0018",
+    "section": "Master Review",
+    "text": "Master Review"
+  },
+  {
+    "objectID": "summary/0019/index.html#short-summary",
+    "href": "summary/0019/index.html#short-summary",
+    "title": "Review #0019",
+    "section": "Short Summary",
+    "text": "Short Summary\n“The effect of overlapping surgical scheduling on operating theatre productivity: a narrative review” is published in 2022, and in the current study it represents scheduler domain. Objectives of the published material are: Analyse the effect of overlapping surgeries in scope of operation theatre time usage, ethics, training and safety asects.. The material was analysed and allocated to the 6 group. After grasping 98% of the work’s content, the reviewed work get A general grade and -99 certainty points. There is neutral outcomes of the work, the work considers COVID-19 pandemic or other pandemic outbreaks, the conflict of interests are Has CoI, and the funding is Not funded.\nLocal reference:SR0019GB22\nInitial reference:x333\nShort note:COVID19 concequence &gt; 6 million patients in waiting list; Turnover = 15% = 72min in 8-h list;\nThe original article can be accessed by the following URL:https://doi.org/10.1111/anae.15797"
+  },
+  {
+    "objectID": "summary/0019/index.html#authors",
+    "href": "summary/0019/index.html#authors",
+    "title": "Review #0019",
+    "section": "Authors",
+    "text": "Authors\n****__"
+  },
+  {
+    "objectID": "summary/0019/index.html#keywords",
+    "href": "summary/0019/index.html#keywords",
+    "title": "Review #0019",
+    "section": "Keywords",
+    "text": "Keywords\nColours explained: Method, Objectives, Subject, Property, Tool"
+  },
+  {
+    "objectID": "summary/0019/index.html#research-methods",
+    "href": "summary/0019/index.html#research-methods",
+    "title": "Review #0019",
+    "section": "Research Methods",
+    "text": "Research Methods"
+  },
+  {
+    "objectID": "summary/0019/index.html#source-references",
+    "href": "summary/0019/index.html#source-references",
+    "title": "Review #0019",
+    "section": "Source References",
+    "text": "Source References"
+  },
+  {
+    "objectID": "summary/0019/index.html#databases",
+    "href": "summary/0019/index.html#databases",
+    "title": "Review #0019",
+    "section": "Databases",
+    "text": "Databases\n\nSearch Databases\n\n\nMedical Datasets"
+  },
+  {
+    "objectID": "summary/0019/index.html#classification",
+    "href": "summary/0019/index.html#classification",
+    "title": "Review #0019",
+    "section": "Classification",
+    "text": "Classification\n\nPatient Types\n\n\nDecision Levels\n\n\nLevel of Integration"
+  },
+  {
+    "objectID": "summary/0019/index.html#constraints",
+    "href": "summary/0019/index.html#constraints",
+    "title": "Review #0019",
+    "section": "Constraints",
+    "text": "Constraints"
+  },
+  {
+    "objectID": "summary/0019/index.html#bias-assessment",
+    "href": "summary/0019/index.html#bias-assessment",
+    "title": "Review #0019",
+    "section": "Bias Assessment",
+    "text": "Bias Assessment"
+  },
+  {
+    "objectID": "summary/0019/index.html#scan-review",
+    "href": "summary/0019/index.html#scan-review",
+    "title": "Review #0019",
+    "section": "Scan Review",
+    "text": "Scan Review"
+  },
+  {
+    "objectID": "summary/0019/index.html#focus-review",
+    "href": "summary/0019/index.html#focus-review",
+    "title": "Review #0019",
+    "section": "Focus Review",
+    "text": "Focus Review"
+  },
+  {
+    "objectID": "summary/0019/index.html#all-in-review",
+    "href": "summary/0019/index.html#all-in-review",
+    "title": "Review #0019",
+    "section": "All-In Review",
+    "text": "All-In Review"
+  },
+  {
+    "objectID": "summary/0019/index.html#master-review",
+    "href": "summary/0019/index.html#master-review",
+    "title": "Review #0019",
+    "section": "Master Review",
+    "text": "Master Review"
+  },
+  {
+    "objectID": "summary/0020/index.html#short-summary",
+    "href": "summary/0020/index.html#short-summary",
+    "title": "Review #0020",
+    "section": "Short Summary",
+    "text": "Short Summary\n“Operating room planning and scheduling: A literature review” is published in 2010, and in the current study it represents scheduler domain. Objectives of the published material are: Summarise the current trends in operating room planning and scheduling, and identify the directions for further research.. The material was analysed and allocated to the 6 group. After grasping 96% of the work’s content, the reviewed work get A general grade and -99 certainty points. There is neutral outcomes of the work, the work does not consider COVID-19 pandemic or other pandemic outbreaks, the conflict of interests are Not mentioned, and the funding is Not mentioned.\nLocal reference:SR0020BE10\nInitial reference:x228\nShort note:Data envelopment analysis (DEA);\nThe original article can be accessed by the following URL:https://doi.org/10.1016/j.ejor.2009.04.011"
+  },
+  {
+    "objectID": "summary/0020/index.html#authors",
+    "href": "summary/0020/index.html#authors",
+    "title": "Review #0020",
+    "section": "Authors",
+    "text": "Authors\n****__"
+  },
+  {
+    "objectID": "summary/0020/index.html#keywords",
+    "href": "summary/0020/index.html#keywords",
+    "title": "Review #0020",
+    "section": "Keywords",
+    "text": "Keywords\nColours explained: Method, Objectives, Subject, Property, Tool"
+  },
+  {
+    "objectID": "summary/0020/index.html#research-methods",
+    "href": "summary/0020/index.html#research-methods",
+    "title": "Review #0020",
+    "section": "Research Methods",
+    "text": "Research Methods"
+  },
+  {
+    "objectID": "summary/0020/index.html#source-references",
+    "href": "summary/0020/index.html#source-references",
+    "title": "Review #0020",
+    "section": "Source References",
+    "text": "Source References"
+  },
+  {
+    "objectID": "summary/0020/index.html#databases",
+    "href": "summary/0020/index.html#databases",
+    "title": "Review #0020",
+    "section": "Databases",
+    "text": "Databases\n\nSearch Databases\n\n\nMedical Datasets"
+  },
+  {
+    "objectID": "summary/0020/index.html#classification",
+    "href": "summary/0020/index.html#classification",
+    "title": "Review #0020",
+    "section": "Classification",
+    "text": "Classification\n\nPatient Types\n\n\nDecision Levels\n\n\nLevel of Integration"
+  },
+  {
+    "objectID": "summary/0020/index.html#constraints",
+    "href": "summary/0020/index.html#constraints",
+    "title": "Review #0020",
+    "section": "Constraints",
+    "text": "Constraints"
+  },
+  {
+    "objectID": "summary/0020/index.html#bias-assessment",
+    "href": "summary/0020/index.html#bias-assessment",
+    "title": "Review #0020",
+    "section": "Bias Assessment",
+    "text": "Bias Assessment"
+  },
+  {
+    "objectID": "summary/0020/index.html#scan-review",
+    "href": "summary/0020/index.html#scan-review",
+    "title": "Review #0020",
+    "section": "Scan Review",
+    "text": "Scan Review"
+  },
+  {
+    "objectID": "summary/0020/index.html#focus-review",
+    "href": "summary/0020/index.html#focus-review",
+    "title": "Review #0020",
+    "section": "Focus Review",
+    "text": "Focus Review"
+  },
+  {
+    "objectID": "summary/0020/index.html#all-in-review",
+    "href": "summary/0020/index.html#all-in-review",
+    "title": "Review #0020",
+    "section": "All-In Review",
+    "text": "All-In Review"
+  },
+  {
+    "objectID": "summary/0020/index.html#master-review",
+    "href": "summary/0020/index.html#master-review",
+    "title": "Review #0020",
+    "section": "Master Review",
+    "text": "Master Review"
+  },
+  {
+    "objectID": "summary/0021/index.html#short-summary",
+    "href": "summary/0021/index.html#short-summary",
+    "title": "Review #0021",
+    "section": "Short Summary",
+    "text": "Short Summary\n“Surgical demand scheduling: a review” is published in 1978, and in the current study it represents both domain. Objectives of the published material are: To address high meddical resouce cost, low healthcare facility utilisatation, and increasing demand for departments dependined on the surgical suite.. The material was analysed and allocated to the 6 group. After grasping 85% of the work’s content, the reviewed work get B general grade and -99 certainty points. There is neutral outcomes of the work, the work does not consider COVID-19 pandemic or other pandemic outbreaks, the conflict of interests are Not mentioned, and the funding is Not mentioned.\nLocal reference:SR0021US78\nInitial reference:x235\nShort note:Adminssions Scheduling and Control System (ASCS);\nThe original article can be accessed by the following URL:https://api.semanticscholar.org/CorpusID:46189607"
+  },
+  {
+    "objectID": "summary/0021/index.html#authors",
+    "href": "summary/0021/index.html#authors",
+    "title": "Review #0021",
+    "section": "Authors",
+    "text": "Authors\n****__"
+  },
+  {
+    "objectID": "summary/0021/index.html#keywords",
+    "href": "summary/0021/index.html#keywords",
+    "title": "Review #0021",
+    "section": "Keywords",
+    "text": "Keywords\nColours explained: Method, Objectives, Subject, Property, Tool"
+  },
+  {
+    "objectID": "summary/0021/index.html#research-methods",
+    "href": "summary/0021/index.html#research-methods",
+    "title": "Review #0021",
+    "section": "Research Methods",
+    "text": "Research Methods"
+  },
+  {
+    "objectID": "summary/0021/index.html#source-references",
+    "href": "summary/0021/index.html#source-references",
+    "title": "Review #0021",
+    "section": "Source References",
+    "text": "Source References"
+  },
+  {
+    "objectID": "summary/0021/index.html#databases",
+    "href": "summary/0021/index.html#databases",
+    "title": "Review #0021",
+    "section": "Databases",
+    "text": "Databases\n\nSearch Databases\n\n\nMedical Datasets"
+  },
+  {
+    "objectID": "summary/0021/index.html#classification",
+    "href": "summary/0021/index.html#classification",
+    "title": "Review #0021",
+    "section": "Classification",
+    "text": "Classification\n\nPatient Types\n\n\nDecision Levels\n\n\nLevel of Integration"
+  },
+  {
+    "objectID": "summary/0021/index.html#constraints",
+    "href": "summary/0021/index.html#constraints",
+    "title": "Review #0021",
+    "section": "Constraints",
+    "text": "Constraints"
+  },
+  {
+    "objectID": "summary/0021/index.html#bias-assessment",
+    "href": "summary/0021/index.html#bias-assessment",
+    "title": "Review #0021",
+    "section": "Bias Assessment",
+    "text": "Bias Assessment"
+  },
+  {
+    "objectID": "summary/0021/index.html#scan-review",
+    "href": "summary/0021/index.html#scan-review",
+    "title": "Review #0021",
+    "section": "Scan Review",
+    "text": "Scan Review"
+  },
+  {
+    "objectID": "summary/0021/index.html#focus-review",
+    "href": "summary/0021/index.html#focus-review",
+    "title": "Review #0021",
+    "section": "Focus Review",
+    "text": "Focus Review"
+  },
+  {
+    "objectID": "summary/0021/index.html#all-in-review",
+    "href": "summary/0021/index.html#all-in-review",
+    "title": "Review #0021",
+    "section": "All-In Review",
+    "text": "All-In Review"
+  },
+  {
+    "objectID": "summary/0021/index.html#master-review",
+    "href": "summary/0021/index.html#master-review",
+    "title": "Review #0021",
+    "section": "Master Review",
+    "text": "Master Review"
+  },
+  {
+    "objectID": "summary/0022/index.html#short-summary",
+    "href": "summary/0022/index.html#short-summary",
+    "title": "Review #0022",
+    "section": "Short Summary",
+    "text": "Short Summary\n“A Review of Reinforcement Learning for Natural Language Processing, and Applications in Healthcare” is published in 2023, and in the current study it represents both domain. Objectives of the published material are: Assess the impact of modern technologies on healthcare.. The material was analysed and allocated to the 6 group. After grasping 85% of the work’s content, the reviewed work get C general grade and -99 certainty points. There is neutral outcomes of the work, the work does not consider COVID-19 pandemic or other pandemic outbreaks, the conflict of interests are None declared, and the funding is Fully funded.\nLocal reference:SR0022US23\nInitial reference:x090\nShort note:General overview of ML tools in health care\nThe original article can be accessed by the following URL:https://doi.org/10.48550/arXiv.2310.18354"
+  },
+  {
+    "objectID": "summary/0022/index.html#authors",
+    "href": "summary/0022/index.html#authors",
+    "title": "Review #0022",
+    "section": "Authors",
+    "text": "Authors\n****__"
+  },
+  {
+    "objectID": "summary/0022/index.html#keywords",
+    "href": "summary/0022/index.html#keywords",
+    "title": "Review #0022",
+    "section": "Keywords",
+    "text": "Keywords\nColours explained: Method, Objectives, Subject, Property, Tool"
+  },
+  {
+    "objectID": "summary/0022/index.html#research-methods",
+    "href": "summary/0022/index.html#research-methods",
+    "title": "Review #0022",
+    "section": "Research Methods",
+    "text": "Research Methods"
+  },
+  {
+    "objectID": "summary/0022/index.html#source-references",
+    "href": "summary/0022/index.html#source-references",
+    "title": "Review #0022",
+    "section": "Source References",
+    "text": "Source References"
+  },
+  {
+    "objectID": "summary/0022/index.html#databases",
+    "href": "summary/0022/index.html#databases",
+    "title": "Review #0022",
+    "section": "Databases",
+    "text": "Databases\n\nSearch Databases\n\n\nMedical Datasets"
+  },
+  {
+    "objectID": "summary/0022/index.html#classification",
+    "href": "summary/0022/index.html#classification",
+    "title": "Review #0022",
+    "section": "Classification",
+    "text": "Classification\n\nPatient Types\n\n\nDecision Levels\n\n\nLevel of Integration"
+  },
+  {
+    "objectID": "summary/0022/index.html#constraints",
+    "href": "summary/0022/index.html#constraints",
+    "title": "Review #0022",
+    "section": "Constraints",
+    "text": "Constraints"
+  },
+  {
+    "objectID": "summary/0022/index.html#bias-assessment",
+    "href": "summary/0022/index.html#bias-assessment",
+    "title": "Review #0022",
+    "section": "Bias Assessment",
+    "text": "Bias Assessment"
+  },
+  {
+    "objectID": "summary/0022/index.html#scan-review",
+    "href": "summary/0022/index.html#scan-review",
+    "title": "Review #0022",
+    "section": "Scan Review",
+    "text": "Scan Review"
+  },
+  {
+    "objectID": "summary/0022/index.html#focus-review",
+    "href": "summary/0022/index.html#focus-review",
+    "title": "Review #0022",
+    "section": "Focus Review",
+    "text": "Focus Review"
+  },
+  {
+    "objectID": "summary/0022/index.html#all-in-review",
+    "href": "summary/0022/index.html#all-in-review",
+    "title": "Review #0022",
+    "section": "All-In Review",
+    "text": "All-In Review"
+  },
+  {
+    "objectID": "summary/0022/index.html#master-review",
+    "href": "summary/0022/index.html#master-review",
+    "title": "Review #0022",
+    "section": "Master Review",
+    "text": "Master Review"
+  },
+  {
+    "objectID": "summary/0023/index.html#short-summary",
+    "href": "summary/0023/index.html#short-summary",
+    "title": "Review #0023",
+    "section": "Short Summary",
+    "text": "Short Summary\n“A Comparative Study of Artificial Intelligence Applications in the Healthcare Sector” is published in 2023, and in the current study it represents none domain. Objectives of the published material are: Analyse the gaps between the practicies of AI in Bahrain and other countries around the world.. The material was rejected and allocated to the 0 group. After grasping 90% of the work’s content, the reviewed work get E general grade and -99 certainty points. There is neutral outcomes of the work, the work considers COVID-19 pandemic or other pandemic outbreaks, the conflict of interests are Not mentioned, and the funding is Not mentioned.\nLocal reference:SR0023US23\nInitial reference:x101\nShort note:General overview\nThe original article can be accessed by the following URL:https://doi.org/10.1007/978-981-99-6101-6_48"
+  },
+  {
+    "objectID": "summary/0023/index.html#authors",
+    "href": "summary/0023/index.html#authors",
+    "title": "Review #0023",
+    "section": "Authors",
+    "text": "Authors\n****__"
+  },
+  {
+    "objectID": "summary/0023/index.html#keywords",
+    "href": "summary/0023/index.html#keywords",
+    "title": "Review #0023",
+    "section": "Keywords",
+    "text": "Keywords\nColours explained: Method, Objectives, Subject, Property, Tool"
+  },
+  {
+    "objectID": "summary/0023/index.html#research-methods",
+    "href": "summary/0023/index.html#research-methods",
+    "title": "Review #0023",
+    "section": "Research Methods",
+    "text": "Research Methods"
+  },
+  {
+    "objectID": "summary/0023/index.html#source-references",
+    "href": "summary/0023/index.html#source-references",
+    "title": "Review #0023",
+    "section": "Source References",
+    "text": "Source References"
+  },
+  {
+    "objectID": "summary/0023/index.html#databases",
+    "href": "summary/0023/index.html#databases",
+    "title": "Review #0023",
+    "section": "Databases",
+    "text": "Databases\n\nSearch Databases\n\n\nMedical Datasets"
+  },
+  {
+    "objectID": "summary/0023/index.html#classification",
+    "href": "summary/0023/index.html#classification",
+    "title": "Review #0023",
+    "section": "Classification",
+    "text": "Classification\n\nPatient Types\n\n\nDecision Levels\n\n\nLevel of Integration"
+  },
+  {
+    "objectID": "summary/0023/index.html#constraints",
+    "href": "summary/0023/index.html#constraints",
+    "title": "Review #0023",
+    "section": "Constraints",
+    "text": "Constraints"
+  },
+  {
+    "objectID": "summary/0023/index.html#bias-assessment",
+    "href": "summary/0023/index.html#bias-assessment",
+    "title": "Review #0023",
+    "section": "Bias Assessment",
+    "text": "Bias Assessment"
+  },
+  {
+    "objectID": "summary/0023/index.html#scan-review",
+    "href": "summary/0023/index.html#scan-review",
+    "title": "Review #0023",
+    "section": "Scan Review",
+    "text": "Scan Review"
+  },
+  {
+    "objectID": "summary/0023/index.html#focus-review",
+    "href": "summary/0023/index.html#focus-review",
+    "title": "Review #0023",
+    "section": "Focus Review",
+    "text": "Focus Review"
+  },
+  {
+    "objectID": "summary/0023/index.html#all-in-review",
+    "href": "summary/0023/index.html#all-in-review",
+    "title": "Review #0023",
+    "section": "All-In Review",
+    "text": "All-In Review"
+  },
+  {
+    "objectID": "summary/0023/index.html#master-review",
+    "href": "summary/0023/index.html#master-review",
+    "title": "Review #0023",
+    "section": "Master Review",
+    "text": "Master Review"
+  },
+  {
+    "objectID": "summary/0024/index.html#short-summary",
+    "href": "summary/0024/index.html#short-summary",
+    "title": "Review #0024",
+    "section": "Short Summary",
+    "text": "Short Summary\n“A Comprehensive Review and Analysis of Operating Room and Surgery Scheduling” is published in 2020, and in the current study it represents scheduler domain. Objectives of the published material are: not specified. The material was analysed and allocated to the 2 group. After grasping 65% of the work’s content, the reviewed work get B general grade and -99 certainty points. There is neutral outcomes of the work, the work does not consider COVID-19 pandemic or other pandemic outbreaks, the conflict of interests are None declared, and the funding is Not funded.\nLocal reference:SR0024IR20\nInitial reference:021IRSchedulingReview2020\nShort note:Scheduling OT on the strategic, tactical, and operational levels of planning\nThe original article can be accessed by the following URL:https://doi.org/10.1007/s11831-020-09432-2"
+  },
+  {
+    "objectID": "summary/0024/index.html#authors",
+    "href": "summary/0024/index.html#authors",
+    "title": "Review #0024",
+    "section": "Authors",
+    "text": "Authors\n****__"
+  },
+  {
+    "objectID": "summary/0024/index.html#keywords",
+    "href": "summary/0024/index.html#keywords",
+    "title": "Review #0024",
+    "section": "Keywords",
+    "text": "Keywords\nColours explained: Method, Objectives, Subject, Property, Tool"
+  },
+  {
+    "objectID": "summary/0024/index.html#research-methods",
+    "href": "summary/0024/index.html#research-methods",
+    "title": "Review #0024",
+    "section": "Research Methods",
+    "text": "Research Methods"
+  },
+  {
+    "objectID": "summary/0024/index.html#source-references",
+    "href": "summary/0024/index.html#source-references",
+    "title": "Review #0024",
+    "section": "Source References",
+    "text": "Source References"
+  },
+  {
+    "objectID": "summary/0024/index.html#databases",
+    "href": "summary/0024/index.html#databases",
+    "title": "Review #0024",
+    "section": "Databases",
+    "text": "Databases\n\nSearch Databases\n\n\nMedical Datasets"
+  },
+  {
+    "objectID": "summary/0024/index.html#classification",
+    "href": "summary/0024/index.html#classification",
+    "title": "Review #0024",
+    "section": "Classification",
+    "text": "Classification\n\nPatient Types\n\n\nDecision Levels\n\n\nLevel of Integration"
+  },
+  {
+    "objectID": "summary/0024/index.html#constraints",
+    "href": "summary/0024/index.html#constraints",
+    "title": "Review #0024",
+    "section": "Constraints",
+    "text": "Constraints"
+  },
+  {
+    "objectID": "summary/0024/index.html#bias-assessment",
+    "href": "summary/0024/index.html#bias-assessment",
+    "title": "Review #0024",
+    "section": "Bias Assessment",
+    "text": "Bias Assessment"
+  },
+  {
+    "objectID": "summary/0024/index.html#scan-review",
+    "href": "summary/0024/index.html#scan-review",
+    "title": "Review #0024",
+    "section": "Scan Review",
+    "text": "Scan Review"
+  },
+  {
+    "objectID": "summary/0024/index.html#focus-review",
+    "href": "summary/0024/index.html#focus-review",
+    "title": "Review #0024",
+    "section": "Focus Review",
+    "text": "Focus Review"
+  },
+  {
+    "objectID": "summary/0024/index.html#all-in-review",
+    "href": "summary/0024/index.html#all-in-review",
+    "title": "Review #0024",
+    "section": "All-In Review",
+    "text": "All-In Review"
+  },
+  {
+    "objectID": "summary/0024/index.html#master-review",
+    "href": "summary/0024/index.html#master-review",
+    "title": "Review #0024",
+    "section": "Master Review",
+    "text": "Master Review"
+  },
+  {
+    "objectID": "summary/0025/index.html#short-summary",
+    "href": "summary/0025/index.html#short-summary",
+    "title": "Review #0025",
+    "section": "Short Summary",
+    "text": "Short Summary\n“Operating Room Turnover Time: Definitions and Future Research Needs” is published in 2019, and in the current study it represents analyser domain. Objectives of the published material are: not specified. The material was analysed and allocated to the 2 group. After grasping 65% of the work’s content, the reviewed work get D general grade and -99 certainty points. There is neutral outcomes of the work, the work does not consider COVID-19 pandemic or other pandemic outbreaks, the conflict of interests are Not mentioned, and the funding is Not mentioned.\nLocal reference:SR0025US19\nInitial reference:023USORTurnover2019\nShort note:List of possible constrains for OT turnover time estimation\nThe original article can be accessed by the following URL:https://doi.org/10.1177/1071181319631301"
+  },
+  {
+    "objectID": "summary/0025/index.html#authors",
+    "href": "summary/0025/index.html#authors",
+    "title": "Review #0025",
+    "section": "Authors",
+    "text": "Authors\n****__"
+  },
+  {
+    "objectID": "summary/0025/index.html#keywords",
+    "href": "summary/0025/index.html#keywords",
+    "title": "Review #0025",
+    "section": "Keywords",
+    "text": "Keywords\nColours explained: Method, Objectives, Subject, Property, Tool"
+  },
+  {
+    "objectID": "summary/0025/index.html#research-methods",
+    "href": "summary/0025/index.html#research-methods",
+    "title": "Review #0025",
+    "section": "Research Methods",
+    "text": "Research Methods"
+  },
+  {
+    "objectID": "summary/0025/index.html#source-references",
+    "href": "summary/0025/index.html#source-references",
+    "title": "Review #0025",
+    "section": "Source References",
+    "text": "Source References"
+  },
+  {
+    "objectID": "summary/0025/index.html#databases",
+    "href": "summary/0025/index.html#databases",
+    "title": "Review #0025",
+    "section": "Databases",
+    "text": "Databases\n\nSearch Databases\n\n\nMedical Datasets"
+  },
+  {
+    "objectID": "summary/0025/index.html#classification",
+    "href": "summary/0025/index.html#classification",
+    "title": "Review #0025",
+    "section": "Classification",
+    "text": "Classification\n\nPatient Types\n\n\nDecision Levels\n\n\nLevel of Integration"
+  },
+  {
+    "objectID": "summary/0025/index.html#constraints",
+    "href": "summary/0025/index.html#constraints",
+    "title": "Review #0025",
+    "section": "Constraints",
+    "text": "Constraints"
+  },
+  {
+    "objectID": "summary/0025/index.html#bias-assessment",
+    "href": "summary/0025/index.html#bias-assessment",
+    "title": "Review #0025",
+    "section": "Bias Assessment",
+    "text": "Bias Assessment"
+  },
+  {
+    "objectID": "summary/0025/index.html#scan-review",
+    "href": "summary/0025/index.html#scan-review",
+    "title": "Review #0025",
+    "section": "Scan Review",
+    "text": "Scan Review"
+  },
+  {
+    "objectID": "summary/0025/index.html#focus-review",
+    "href": "summary/0025/index.html#focus-review",
+    "title": "Review #0025",
+    "section": "Focus Review",
+    "text": "Focus Review"
+  },
+  {
+    "objectID": "summary/0025/index.html#all-in-review",
+    "href": "summary/0025/index.html#all-in-review",
+    "title": "Review #0025",
+    "section": "All-In Review",
+    "text": "All-In Review"
+  },
+  {
+    "objectID": "summary/0025/index.html#master-review",
+    "href": "summary/0025/index.html#master-review",
+    "title": "Review #0025",
+    "section": "Master Review",
+    "text": "Master Review"
+  },
+  {
+    "objectID": "summary/0026/index.html#short-summary",
+    "href": "summary/0026/index.html#short-summary",
+    "title": "Review #0026",
+    "section": "Short Summary",
+    "text": "Short Summary\n“Healthcare scheduling in optimization context: a review” is published in 2021, and in the current study it represents scheduler domain. Objectives of the published material are: not specified. The material was analysed and allocated to the 2 group. After grasping 65% of the work’s content, the reviewed work get A general grade and -99 certainty points. There is neutral outcomes of the work, the work considers COVID-19 pandemic or other pandemic outbreaks, the conflict of interests are Not mentioned, and the funding is Not mentioned.\nLocal reference:SR0026MY21\nInitial reference:024MYSchedulingReview2021\nShort note:Hard/soft constraints; Open-source db; Specialty statistics\nThe original article can be accessed by the following URL:https://doi.org/10.1007/s12553-021-00547-5"
+  },
+  {
+    "objectID": "summary/0026/index.html#authors",
+    "href": "summary/0026/index.html#authors",
+    "title": "Review #0026",
+    "section": "Authors",
+    "text": "Authors\n****__"
+  },
+  {
+    "objectID": "summary/0026/index.html#keywords",
+    "href": "summary/0026/index.html#keywords",
+    "title": "Review #0026",
+    "section": "Keywords",
+    "text": "Keywords\nColours explained: Method, Objectives, Subject, Property, Tool"
+  },
+  {
+    "objectID": "summary/0026/index.html#research-methods",
+    "href": "summary/0026/index.html#research-methods",
+    "title": "Review #0026",
+    "section": "Research Methods",
+    "text": "Research Methods"
+  },
+  {
+    "objectID": "summary/0026/index.html#source-references",
+    "href": "summary/0026/index.html#source-references",
+    "title": "Review #0026",
+    "section": "Source References",
+    "text": "Source References"
+  },
+  {
+    "objectID": "summary/0026/index.html#databases",
+    "href": "summary/0026/index.html#databases",
+    "title": "Review #0026",
+    "section": "Databases",
+    "text": "Databases\n\nSearch Databases\n\n\nMedical Datasets"
+  },
+  {
+    "objectID": "summary/0026/index.html#classification",
+    "href": "summary/0026/index.html#classification",
+    "title": "Review #0026",
+    "section": "Classification",
+    "text": "Classification\n\nPatient Types\n\n\nDecision Levels\n\n\nLevel of Integration"
+  },
+  {
+    "objectID": "summary/0026/index.html#constraints",
+    "href": "summary/0026/index.html#constraints",
+    "title": "Review #0026",
+    "section": "Constraints",
+    "text": "Constraints"
+  },
+  {
+    "objectID": "summary/0026/index.html#bias-assessment",
+    "href": "summary/0026/index.html#bias-assessment",
+    "title": "Review #0026",
+    "section": "Bias Assessment",
+    "text": "Bias Assessment"
+  },
+  {
+    "objectID": "summary/0026/index.html#scan-review",
+    "href": "summary/0026/index.html#scan-review",
+    "title": "Review #0026",
+    "section": "Scan Review",
+    "text": "Scan Review"
+  },
+  {
+    "objectID": "summary/0026/index.html#focus-review",
+    "href": "summary/0026/index.html#focus-review",
+    "title": "Review #0026",
+    "section": "Focus Review",
+    "text": "Focus Review"
+  },
+  {
+    "objectID": "summary/0026/index.html#all-in-review",
+    "href": "summary/0026/index.html#all-in-review",
+    "title": "Review #0026",
+    "section": "All-In Review",
+    "text": "All-In Review"
+  },
+  {
+    "objectID": "summary/0026/index.html#master-review",
+    "href": "summary/0026/index.html#master-review",
+    "title": "Review #0026",
+    "section": "Master Review",
+    "text": "Master Review"
+  },
+  {
+    "objectID": "summary/0029/index.html#short-summary",
+    "href": "summary/0029/index.html#short-summary",
+    "title": "Review #0029",
+    "section": "Short Summary",
+    "text": "Short Summary\n“The Application of Operations Research Information System Tools in Hospital Operations Management in Developing Nations: A Systematic Literature Review” is published in 2023, and in the current study it represents both domain. Objectives of the published material are: Analyse OR&M situation in developing nations of Africa. The material was analysed and allocated to the 4 group. After grasping 80% of the work’s content, the reviewed work get B general grade and -99 certainty points. There is neutral outcomes of the work, the work does not consider COVID-19 pandemic or other pandemic outbreaks, the conflict of interests are Not mentioned, and the funding is Not mentioned.\nLocal reference:SR0029UG23\nInitial reference:044UGOpResInDevNatReview2023\nShort note:Comparison of OR&M in developing countries and developed nations\nThe original article can be accessed by the following URL:https://doi.org/10.4314/udslj.v18i1.9"
+  },
+  {
+    "objectID": "summary/0029/index.html#authors",
+    "href": "summary/0029/index.html#authors",
+    "title": "Review #0029",
+    "section": "Authors",
+    "text": "Authors\n****__"
+  },
+  {
+    "objectID": "summary/0029/index.html#keywords",
+    "href": "summary/0029/index.html#keywords",
+    "title": "Review #0029",
+    "section": "Keywords",
+    "text": "Keywords\nColours explained: Method, Objectives, Subject, Property, Tool"
+  },
+  {
+    "objectID": "summary/0029/index.html#research-methods",
+    "href": "summary/0029/index.html#research-methods",
+    "title": "Review #0029",
+    "section": "Research Methods",
+    "text": "Research Methods"
+  },
+  {
+    "objectID": "summary/0029/index.html#source-references",
+    "href": "summary/0029/index.html#source-references",
+    "title": "Review #0029",
+    "section": "Source References",
+    "text": "Source References"
+  },
+  {
+    "objectID": "summary/0029/index.html#databases",
+    "href": "summary/0029/index.html#databases",
+    "title": "Review #0029",
+    "section": "Databases",
+    "text": "Databases\n\nSearch Databases\n\n\nMedical Datasets"
+  },
+  {
+    "objectID": "summary/0029/index.html#classification",
+    "href": "summary/0029/index.html#classification",
+    "title": "Review #0029",
+    "section": "Classification",
+    "text": "Classification\n\nPatient Types\n\n\nDecision Levels\n\n\nLevel of Integration"
+  },
+  {
+    "objectID": "summary/0029/index.html#constraints",
+    "href": "summary/0029/index.html#constraints",
+    "title": "Review #0029",
+    "section": "Constraints",
+    "text": "Constraints"
+  },
+  {
+    "objectID": "summary/0029/index.html#bias-assessment",
+    "href": "summary/0029/index.html#bias-assessment",
+    "title": "Review #0029",
+    "section": "Bias Assessment",
+    "text": "Bias Assessment"
+  },
+  {
+    "objectID": "summary/0029/index.html#scan-review",
+    "href": "summary/0029/index.html#scan-review",
+    "title": "Review #0029",
+    "section": "Scan Review",
+    "text": "Scan Review"
+  },
+  {
+    "objectID": "summary/0029/index.html#focus-review",
+    "href": "summary/0029/index.html#focus-review",
+    "title": "Review #0029",
+    "section": "Focus Review",
+    "text": "Focus Review"
+  },
+  {
+    "objectID": "summary/0029/index.html#all-in-review",
+    "href": "summary/0029/index.html#all-in-review",
+    "title": "Review #0029",
+    "section": "All-In Review",
+    "text": "All-In Review"
+  },
+  {
+    "objectID": "summary/0029/index.html#master-review",
+    "href": "summary/0029/index.html#master-review",
+    "title": "Review #0029",
+    "section": "Master Review",
+    "text": "Master Review"
+  },
+  {
+    "objectID": "summary/0031/index.html#short-summary",
+    "href": "summary/0031/index.html#short-summary",
+    "title": "Review #0031",
+    "section": "Short Summary",
+    "text": "Short Summary\n“State-of-the-Art Review and Synthesis: A Requirement-based Roadmap for Standardized Predictive Maintenance Automation Using Digital Twin Technologies” is published in 2023, and in the current study it represents na domain. Objectives of the published material are: NA. The material was todo and allocated to the NA group. After grasping NA% of the work’s content, the reviewed work get NA general grade and -99 certainty points. There is neutral outcomes of the work, the work NA COVID-19 pandemic or other pandemic outbreaks, the conflict of interests are NA, and the funding is NA.\nLocal reference:NA\nInitial reference:x035\nShort note:NA\nThe original article can be accessed by the following URL:https://doi.org/10.48550/arXiv.2311.06993"
+  },
+  {
+    "objectID": "summary/0031/index.html#authors",
+    "href": "summary/0031/index.html#authors",
+    "title": "Review #0031",
+    "section": "Authors",
+    "text": "Authors\n****__"
+  },
+  {
+    "objectID": "summary/0031/index.html#keywords",
+    "href": "summary/0031/index.html#keywords",
+    "title": "Review #0031",
+    "section": "Keywords",
+    "text": "Keywords\nColours explained: Method, Objectives, Subject, Property, Tool"
+  },
+  {
+    "objectID": "summary/0031/index.html#research-methods",
+    "href": "summary/0031/index.html#research-methods",
+    "title": "Review #0031",
+    "section": "Research Methods",
+    "text": "Research Methods"
+  },
+  {
+    "objectID": "summary/0031/index.html#source-references",
+    "href": "summary/0031/index.html#source-references",
+    "title": "Review #0031",
+    "section": "Source References",
+    "text": "Source References"
+  },
+  {
+    "objectID": "summary/0031/index.html#databases",
+    "href": "summary/0031/index.html#databases",
+    "title": "Review #0031",
+    "section": "Databases",
+    "text": "Databases\n\nSearch Databases\n\n\nMedical Datasets"
+  },
+  {
+    "objectID": "summary/0031/index.html#classification",
+    "href": "summary/0031/index.html#classification",
+    "title": "Review #0031",
+    "section": "Classification",
+    "text": "Classification\n\nPatient Types\n\n\nDecision Levels\n\n\nLevel of Integration"
+  },
+  {
+    "objectID": "summary/0031/index.html#constraints",
+    "href": "summary/0031/index.html#constraints",
+    "title": "Review #0031",
+    "section": "Constraints",
+    "text": "Constraints"
+  },
+  {
+    "objectID": "summary/0031/index.html#bias-assessment",
+    "href": "summary/0031/index.html#bias-assessment",
+    "title": "Review #0031",
+    "section": "Bias Assessment",
+    "text": "Bias Assessment"
+  },
+  {
+    "objectID": "summary/0031/index.html#scan-review",
+    "href": "summary/0031/index.html#scan-review",
+    "title": "Review #0031",
+    "section": "Scan Review",
+    "text": "Scan Review"
+  },
+  {
+    "objectID": "summary/0031/index.html#focus-review",
+    "href": "summary/0031/index.html#focus-review",
+    "title": "Review #0031",
+    "section": "Focus Review",
+    "text": "Focus Review"
+  },
+  {
+    "objectID": "summary/0031/index.html#all-in-review",
+    "href": "summary/0031/index.html#all-in-review",
+    "title": "Review #0031",
+    "section": "All-In Review",
+    "text": "All-In Review"
+  },
+  {
+    "objectID": "summary/0031/index.html#master-review",
+    "href": "summary/0031/index.html#master-review",
+    "title": "Review #0031",
+    "section": "Master Review",
+    "text": "Master Review"
+  },
+  {
+    "objectID": "summary/0032/index.html#short-summary",
+    "href": "summary/0032/index.html#short-summary",
+    "title": "Review #0032",
+    "section": "Short Summary",
+    "text": "Short Summary\n“Current Trends in Operating Room Scheduling 2015 to 2020: a Literature Review” is published in 2022, and in the current study it represents na domain. Objectives of the published material are: NA. The material was todo and allocated to the NA group. After grasping NA% of the work’s content, the reviewed work get NA general grade and -99 certainty points. There is neutral outcomes of the work, the work NA COVID-19 pandemic or other pandemic outbreaks, the conflict of interests are NA, and the funding is NA.\nLocal reference:NA\nInitial reference:x082\nShort note:NA\nThe original article can be accessed by the following URL:https://doi.org/10.1007/s43069-022-00134-y"
+  },
+  {
+    "objectID": "summary/0032/index.html#authors",
+    "href": "summary/0032/index.html#authors",
+    "title": "Review #0032",
+    "section": "Authors",
+    "text": "Authors\n****__"
+  },
+  {
+    "objectID": "summary/0032/index.html#keywords",
+    "href": "summary/0032/index.html#keywords",
+    "title": "Review #0032",
+    "section": "Keywords",
+    "text": "Keywords\nColours explained: Method, Objectives, Subject, Property, Tool"
+  },
+  {
+    "objectID": "summary/0032/index.html#research-methods",
+    "href": "summary/0032/index.html#research-methods",
+    "title": "Review #0032",
+    "section": "Research Methods",
+    "text": "Research Methods"
+  },
+  {
+    "objectID": "summary/0032/index.html#source-references",
+    "href": "summary/0032/index.html#source-references",
+    "title": "Review #0032",
+    "section": "Source References",
+    "text": "Source References"
+  },
+  {
+    "objectID": "summary/0032/index.html#databases",
+    "href": "summary/0032/index.html#databases",
+    "title": "Review #0032",
+    "section": "Databases",
+    "text": "Databases\n\nSearch Databases\n\n\nMedical Datasets"
+  },
+  {
+    "objectID": "summary/0032/index.html#classification",
+    "href": "summary/0032/index.html#classification",
+    "title": "Review #0032",
+    "section": "Classification",
+    "text": "Classification\n\nPatient Types\n\n\nDecision Levels\n\n\nLevel of Integration"
+  },
+  {
+    "objectID": "summary/0032/index.html#constraints",
+    "href": "summary/0032/index.html#constraints",
+    "title": "Review #0032",
+    "section": "Constraints",
+    "text": "Constraints"
+  },
+  {
+    "objectID": "summary/0032/index.html#bias-assessment",
+    "href": "summary/0032/index.html#bias-assessment",
+    "title": "Review #0032",
+    "section": "Bias Assessment",
+    "text": "Bias Assessment"
+  },
+  {
+    "objectID": "summary/0032/index.html#scan-review",
+    "href": "summary/0032/index.html#scan-review",
+    "title": "Review #0032",
+    "section": "Scan Review",
+    "text": "Scan Review"
+  },
+  {
+    "objectID": "summary/0032/index.html#focus-review",
+    "href": "summary/0032/index.html#focus-review",
+    "title": "Review #0032",
+    "section": "Focus Review",
+    "text": "Focus Review"
+  },
+  {
+    "objectID": "summary/0032/index.html#all-in-review",
+    "href": "summary/0032/index.html#all-in-review",
+    "title": "Review #0032",
+    "section": "All-In Review",
+    "text": "All-In Review"
+  },
+  {
+    "objectID": "summary/0032/index.html#master-review",
+    "href": "summary/0032/index.html#master-review",
+    "title": "Review #0032",
+    "section": "Master Review",
+    "text": "Master Review"
+  },
+  {
+    "objectID": "summary/0033/index.html#short-summary",
+    "href": "summary/0033/index.html#short-summary",
+    "title": "Review #0033",
+    "section": "Short Summary",
+    "text": "Short Summary\n“Ensemble Learning for Addressing Class Imbalance in Cardiology Appointment Scheduling and Overbooking” is published in 2023, and in the current study it represents na domain. Objectives of the published material are: NA. The material was todo and allocated to the NA group. After grasping NA% of the work’s content, the reviewed work get NA general grade and -99 certainty points. There is neutral outcomes of the work, the work NA COVID-19 pandemic or other pandemic outbreaks, the conflict of interests are NA, and the funding is NA.\nLocal reference:NA\nInitial reference:x147\nShort note:NA\nThe original article can be accessed by the following URL:https://doi.org/10.21203/rs.3.rs-3359966/v1"
+  },
+  {
+    "objectID": "summary/0033/index.html#authors",
+    "href": "summary/0033/index.html#authors",
+    "title": "Review #0033",
+    "section": "Authors",
+    "text": "Authors\n****__"
+  },
+  {
+    "objectID": "summary/0033/index.html#keywords",
+    "href": "summary/0033/index.html#keywords",
+    "title": "Review #0033",
+    "section": "Keywords",
+    "text": "Keywords\nColours explained: Method, Objectives, Subject, Property, Tool"
+  },
+  {
+    "objectID": "summary/0033/index.html#research-methods",
+    "href": "summary/0033/index.html#research-methods",
+    "title": "Review #0033",
+    "section": "Research Methods",
+    "text": "Research Methods"
+  },
+  {
+    "objectID": "summary/0033/index.html#source-references",
+    "href": "summary/0033/index.html#source-references",
+    "title": "Review #0033",
+    "section": "Source References",
+    "text": "Source References"
+  },
+  {
+    "objectID": "summary/0033/index.html#databases",
+    "href": "summary/0033/index.html#databases",
+    "title": "Review #0033",
+    "section": "Databases",
+    "text": "Databases\n\nSearch Databases\n\n\nMedical Datasets"
+  },
+  {
+    "objectID": "summary/0033/index.html#classification",
+    "href": "summary/0033/index.html#classification",
+    "title": "Review #0033",
+    "section": "Classification",
+    "text": "Classification\n\nPatient Types\n\n\nDecision Levels\n\n\nLevel of Integration"
+  },
+  {
+    "objectID": "summary/0033/index.html#constraints",
+    "href": "summary/0033/index.html#constraints",
+    "title": "Review #0033",
+    "section": "Constraints",
+    "text": "Constraints"
+  },
+  {
+    "objectID": "summary/0033/index.html#bias-assessment",
+    "href": "summary/0033/index.html#bias-assessment",
+    "title": "Review #0033",
+    "section": "Bias Assessment",
+    "text": "Bias Assessment"
+  },
+  {
+    "objectID": "summary/0033/index.html#scan-review",
+    "href": "summary/0033/index.html#scan-review",
+    "title": "Review #0033",
+    "section": "Scan Review",
+    "text": "Scan Review"
+  },
+  {
+    "objectID": "summary/0033/index.html#focus-review",
+    "href": "summary/0033/index.html#focus-review",
+    "title": "Review #0033",
+    "section": "Focus Review",
+    "text": "Focus Review"
+  },
+  {
+    "objectID": "summary/0033/index.html#all-in-review",
+    "href": "summary/0033/index.html#all-in-review",
+    "title": "Review #0033",
+    "section": "All-In Review",
+    "text": "All-In Review"
+  },
+  {
+    "objectID": "summary/0033/index.html#master-review",
+    "href": "summary/0033/index.html#master-review",
+    "title": "Review #0033",
+    "section": "Master Review",
+    "text": "Master Review"
+  },
+  {
+    "objectID": "summary/0034/index.html#short-summary",
+    "href": "summary/0034/index.html#short-summary",
+    "title": "Review #0034",
+    "section": "Short Summary",
+    "text": "Short Summary\n“Development of an efficient method to approximate the risk measure of Lower Partial Moment of the first order” is published in 2019, and in the current study it represents na domain. Objectives of the published material are: NA. The material was todo and allocated to the NA group. After grasping NA% of the work’s content, the reviewed work get NA general grade and -99 certainty points. There is neutral outcomes of the work, the work NA COVID-19 pandemic or other pandemic outbreaks, the conflict of interests are NA, and the funding is NA.\nLocal reference:NA\nInitial reference:x161\nShort note:NA\nThe original article can be accessed by the following URL:https://www.sciencedirect.com/science/article/pii/S0360835219303481"
+  },
+  {
+    "objectID": "summary/0034/index.html#authors",
+    "href": "summary/0034/index.html#authors",
+    "title": "Review #0034",
+    "section": "Authors",
+    "text": "Authors\n****__"
+  },
+  {
+    "objectID": "summary/0034/index.html#keywords",
+    "href": "summary/0034/index.html#keywords",
+    "title": "Review #0034",
+    "section": "Keywords",
+    "text": "Keywords\nColours explained: Method, Objectives, Subject, Property, Tool"
+  },
+  {
+    "objectID": "summary/0034/index.html#research-methods",
+    "href": "summary/0034/index.html#research-methods",
+    "title": "Review #0034",
+    "section": "Research Methods",
+    "text": "Research Methods"
+  },
+  {
+    "objectID": "summary/0034/index.html#source-references",
+    "href": "summary/0034/index.html#source-references",
+    "title": "Review #0034",
+    "section": "Source References",
+    "text": "Source References"
+  },
+  {
+    "objectID": "summary/0034/index.html#databases",
+    "href": "summary/0034/index.html#databases",
+    "title": "Review #0034",
+    "section": "Databases",
+    "text": "Databases\n\nSearch Databases\n\n\nMedical Datasets"
+  },
+  {
+    "objectID": "summary/0034/index.html#classification",
+    "href": "summary/0034/index.html#classification",
+    "title": "Review #0034",
+    "section": "Classification",
+    "text": "Classification\n\nPatient Types\n\n\nDecision Levels\n\n\nLevel of Integration"
+  },
+  {
+    "objectID": "summary/0034/index.html#constraints",
+    "href": "summary/0034/index.html#constraints",
+    "title": "Review #0034",
+    "section": "Constraints",
+    "text": "Constraints"
+  },
+  {
+    "objectID": "summary/0034/index.html#bias-assessment",
+    "href": "summary/0034/index.html#bias-assessment",
+    "title": "Review #0034",
+    "section": "Bias Assessment",
+    "text": "Bias Assessment"
+  },
+  {
+    "objectID": "summary/0034/index.html#scan-review",
+    "href": "summary/0034/index.html#scan-review",
+    "title": "Review #0034",
+    "section": "Scan Review",
+    "text": "Scan Review"
+  },
+  {
+    "objectID": "summary/0034/index.html#focus-review",
+    "href": "summary/0034/index.html#focus-review",
+    "title": "Review #0034",
+    "section": "Focus Review",
+    "text": "Focus Review"
+  },
+  {
+    "objectID": "summary/0034/index.html#all-in-review",
+    "href": "summary/0034/index.html#all-in-review",
+    "title": "Review #0034",
+    "section": "All-In Review",
+    "text": "All-In Review"
+  },
+  {
+    "objectID": "summary/0034/index.html#master-review",
+    "href": "summary/0034/index.html#master-review",
+    "title": "Review #0034",
+    "section": "Master Review",
+    "text": "Master Review"
+  },
+  {
+    "objectID": "summary/0035/index.html#short-summary",
+    "href": "summary/0035/index.html#short-summary",
+    "title": "Review #0035",
+    "section": "Short Summary",
+    "text": "Short Summary\n“Improving and Interpreting Surgical Case Duration Prediction with Machine Learning Methodology” is published in 2020, and in the current study it represents na domain. Objectives of the published material are: NA. The material was todo and allocated to the NA group. After grasping NA% of the work’s content, the reviewed work get NA general grade and -99 certainty points. There is neutral outcomes of the work, the work NA COVID-19 pandemic or other pandemic outbreaks, the conflict of interests are NA, and the funding is NA.\nLocal reference:NA\nInitial reference:x289\nShort note:NA\nThe original article can be accessed by the following URL:https://www.medrxiv.org/content/early/2020/12/08/2020.06.10.20127910"
+  },
+  {
+    "objectID": "summary/0035/index.html#authors",
+    "href": "summary/0035/index.html#authors",
+    "title": "Review #0035",
+    "section": "Authors",
+    "text": "Authors\n****__"
+  },
+  {
+    "objectID": "summary/0035/index.html#keywords",
+    "href": "summary/0035/index.html#keywords",
+    "title": "Review #0035",
+    "section": "Keywords",
+    "text": "Keywords\nColours explained: Method, Objectives, Subject, Property, Tool"
+  },
+  {
+    "objectID": "summary/0035/index.html#research-methods",
+    "href": "summary/0035/index.html#research-methods",
+    "title": "Review #0035",
+    "section": "Research Methods",
+    "text": "Research Methods"
+  },
+  {
+    "objectID": "summary/0035/index.html#source-references",
+    "href": "summary/0035/index.html#source-references",
+    "title": "Review #0035",
+    "section": "Source References",
+    "text": "Source References"
+  },
+  {
+    "objectID": "summary/0035/index.html#databases",
+    "href": "summary/0035/index.html#databases",
+    "title": "Review #0035",
+    "section": "Databases",
+    "text": "Databases\n\nSearch Databases\n\n\nMedical Datasets"
+  },
+  {
+    "objectID": "summary/0035/index.html#classification",
+    "href": "summary/0035/index.html#classification",
+    "title": "Review #0035",
+    "section": "Classification",
+    "text": "Classification\n\nPatient Types\n\n\nDecision Levels\n\n\nLevel of Integration"
+  },
+  {
+    "objectID": "summary/0035/index.html#constraints",
+    "href": "summary/0035/index.html#constraints",
+    "title": "Review #0035",
+    "section": "Constraints",
+    "text": "Constraints"
+  },
+  {
+    "objectID": "summary/0035/index.html#bias-assessment",
+    "href": "summary/0035/index.html#bias-assessment",
+    "title": "Review #0035",
+    "section": "Bias Assessment",
+    "text": "Bias Assessment"
+  },
+  {
+    "objectID": "summary/0035/index.html#scan-review",
+    "href": "summary/0035/index.html#scan-review",
+    "title": "Review #0035",
+    "section": "Scan Review",
+    "text": "Scan Review"
+  },
+  {
+    "objectID": "summary/0035/index.html#focus-review",
+    "href": "summary/0035/index.html#focus-review",
+    "title": "Review #0035",
+    "section": "Focus Review",
+    "text": "Focus Review"
+  },
+  {
+    "objectID": "summary/0035/index.html#all-in-review",
+    "href": "summary/0035/index.html#all-in-review",
+    "title": "Review #0035",
+    "section": "All-In Review",
+    "text": "All-In Review"
+  },
+  {
+    "objectID": "summary/0035/index.html#master-review",
+    "href": "summary/0035/index.html#master-review",
+    "title": "Review #0035",
+    "section": "Master Review",
+    "text": "Master Review"
+  },
+  {
+    "objectID": "summary/0036/index.html#short-summary",
+    "href": "summary/0036/index.html#short-summary",
+    "title": "Review #0036",
+    "section": "Short Summary",
+    "text": "Short Summary\n“Constraint Handling” is published in 2015, and in the current study it represents na domain. Objectives of the published material are: NA. The material was todo and allocated to the NA group. After grasping NA% of the work’s content, the reviewed work get NA general grade and -99 certainty points. There is neutral outcomes of the work, the work NA COVID-19 pandemic or other pandemic outbreaks, the conflict of interests are NA, and the funding is NA.\nLocal reference:NA\nInitial reference:x314\nShort note:NA\nThe original book can be accessed by the following URL:https://doi.org/10.1007/978-3-662-44874-8_13"
+  },
+  {
+    "objectID": "summary/0036/index.html#authors",
+    "href": "summary/0036/index.html#authors",
+    "title": "Review #0036",
+    "section": "Authors",
+    "text": "Authors\n****__"
+  },
+  {
+    "objectID": "summary/0036/index.html#keywords",
+    "href": "summary/0036/index.html#keywords",
+    "title": "Review #0036",
+    "section": "Keywords",
+    "text": "Keywords\nColours explained: Method, Objectives, Subject, Property, Tool"
+  },
+  {
+    "objectID": "summary/0036/index.html#research-methods",
+    "href": "summary/0036/index.html#research-methods",
+    "title": "Review #0036",
+    "section": "Research Methods",
+    "text": "Research Methods"
+  },
+  {
+    "objectID": "summary/0036/index.html#source-references",
+    "href": "summary/0036/index.html#source-references",
+    "title": "Review #0036",
+    "section": "Source References",
+    "text": "Source References"
+  },
+  {
+    "objectID": "summary/0036/index.html#databases",
+    "href": "summary/0036/index.html#databases",
+    "title": "Review #0036",
+    "section": "Databases",
+    "text": "Databases\n\nSearch Databases\n\n\nMedical Datasets"
+  },
+  {
+    "objectID": "summary/0036/index.html#classification",
+    "href": "summary/0036/index.html#classification",
+    "title": "Review #0036",
+    "section": "Classification",
+    "text": "Classification\n\nPatient Types\n\n\nDecision Levels\n\n\nLevel of Integration"
+  },
+  {
+    "objectID": "summary/0036/index.html#constraints",
+    "href": "summary/0036/index.html#constraints",
+    "title": "Review #0036",
+    "section": "Constraints",
+    "text": "Constraints"
+  },
+  {
+    "objectID": "summary/0036/index.html#bias-assessment",
+    "href": "summary/0036/index.html#bias-assessment",
+    "title": "Review #0036",
+    "section": "Bias Assessment",
+    "text": "Bias Assessment"
+  },
+  {
+    "objectID": "summary/0036/index.html#scan-review",
+    "href": "summary/0036/index.html#scan-review",
+    "title": "Review #0036",
+    "section": "Scan Review",
+    "text": "Scan Review"
+  },
+  {
+    "objectID": "summary/0036/index.html#focus-review",
+    "href": "summary/0036/index.html#focus-review",
+    "title": "Review #0036",
+    "section": "Focus Review",
+    "text": "Focus Review"
+  },
+  {
+    "objectID": "summary/0036/index.html#all-in-review",
+    "href": "summary/0036/index.html#all-in-review",
+    "title": "Review #0036",
+    "section": "All-In Review",
+    "text": "All-In Review"
+  },
+  {
+    "objectID": "summary/0036/index.html#master-review",
+    "href": "summary/0036/index.html#master-review",
+    "title": "Review #0036",
+    "section": "Master Review",
+    "text": "Master Review"
+  },
+  {
+    "objectID": "summary/0037/index.html#short-summary",
+    "href": "summary/0037/index.html#short-summary",
+    "title": "Review #0037",
+    "section": "Short Summary",
+    "text": "Short Summary\n“A deep learning approach for predicting early bounce-backs to the emergency departments” is published in 2022, and in the current study it represents na domain. Objectives of the published material are: NA. The material was todo and allocated to the NA group. After grasping NA% of the work’s content, the reviewed work get NA general grade and -99 certainty points. There is neutral outcomes of the work, the work NA COVID-19 pandemic or other pandemic outbreaks, the conflict of interests are NA, and the funding is NA.\nLocal reference:NA\nInitial reference:x341\nShort note:NA\nThe original article can be accessed by the following URL:https://www.sciencedirect.com/science/article/pii/S2772442522000028"
+  },
+  {
+    "objectID": "summary/0037/index.html#authors",
+    "href": "summary/0037/index.html#authors",
+    "title": "Review #0037",
+    "section": "Authors",
+    "text": "Authors\n****__"
+  },
+  {
+    "objectID": "summary/0037/index.html#keywords",
+    "href": "summary/0037/index.html#keywords",
+    "title": "Review #0037",
+    "section": "Keywords",
+    "text": "Keywords\nColours explained: Method, Objectives, Subject, Property, Tool"
+  },
+  {
+    "objectID": "summary/0037/index.html#research-methods",
+    "href": "summary/0037/index.html#research-methods",
+    "title": "Review #0037",
+    "section": "Research Methods",
+    "text": "Research Methods"
+  },
+  {
+    "objectID": "summary/0037/index.html#source-references",
+    "href": "summary/0037/index.html#source-references",
+    "title": "Review #0037",
+    "section": "Source References",
+    "text": "Source References"
+  },
+  {
+    "objectID": "summary/0037/index.html#databases",
+    "href": "summary/0037/index.html#databases",
+    "title": "Review #0037",
+    "section": "Databases",
+    "text": "Databases\n\nSearch Databases\n\n\nMedical Datasets"
+  },
+  {
+    "objectID": "summary/0037/index.html#classification",
+    "href": "summary/0037/index.html#classification",
+    "title": "Review #0037",
+    "section": "Classification",
+    "text": "Classification\n\nPatient Types\n\n\nDecision Levels\n\n\nLevel of Integration"
+  },
+  {
+    "objectID": "summary/0037/index.html#constraints",
+    "href": "summary/0037/index.html#constraints",
+    "title": "Review #0037",
+    "section": "Constraints",
+    "text": "Constraints"
+  },
+  {
+    "objectID": "summary/0037/index.html#bias-assessment",
+    "href": "summary/0037/index.html#bias-assessment",
+    "title": "Review #0037",
+    "section": "Bias Assessment",
+    "text": "Bias Assessment"
+  },
+  {
+    "objectID": "summary/0037/index.html#scan-review",
+    "href": "summary/0037/index.html#scan-review",
+    "title": "Review #0037",
+    "section": "Scan Review",
+    "text": "Scan Review"
+  },
+  {
+    "objectID": "summary/0037/index.html#focus-review",
+    "href": "summary/0037/index.html#focus-review",
+    "title": "Review #0037",
+    "section": "Focus Review",
+    "text": "Focus Review"
+  },
+  {
+    "objectID": "summary/0037/index.html#all-in-review",
+    "href": "summary/0037/index.html#all-in-review",
+    "title": "Review #0037",
+    "section": "All-In Review",
+    "text": "All-In Review"
+  },
+  {
+    "objectID": "summary/0037/index.html#master-review",
+    "href": "summary/0037/index.html#master-review",
+    "title": "Review #0037",
+    "section": "Master Review",
+    "text": "Master Review"
+  },
+  {
+    "objectID": "summary/0038/index.html#short-summary",
+    "href": "summary/0038/index.html#short-summary",
+    "title": "Review #0038",
+    "section": "Short Summary",
+    "text": "Short Summary\n“Taxonomic classification of planning decisions in health care: a structured review of the state of the art in OR/MS” is published in 2012, and in the current study it represents na domain. Objectives of the published material are: NA. The material was todo and allocated to the NA group. After grasping NA% of the work’s content, the reviewed work get NA general grade and -99 certainty points. There is neutral outcomes of the work, the work NA COVID-19 pandemic or other pandemic outbreaks, the conflict of interests are NA, and the funding is NA.\nLocal reference:NA\nInitial reference:x381\nShort note:NA\nThe original article can be accessed by the following URL:https://doi.org/10.1057/hs.2012.18"
+  },
+  {
+    "objectID": "summary/0038/index.html#authors",
+    "href": "summary/0038/index.html#authors",
+    "title": "Review #0038",
+    "section": "Authors",
+    "text": "Authors\n****__"
+  },
+  {
+    "objectID": "summary/0038/index.html#keywords",
+    "href": "summary/0038/index.html#keywords",
+    "title": "Review #0038",
+    "section": "Keywords",
+    "text": "Keywords\nColours explained: Method, Objectives, Subject, Property, Tool"
+  },
+  {
+    "objectID": "summary/0038/index.html#research-methods",
+    "href": "summary/0038/index.html#research-methods",
+    "title": "Review #0038",
+    "section": "Research Methods",
+    "text": "Research Methods"
+  },
+  {
+    "objectID": "summary/0038/index.html#source-references",
+    "href": "summary/0038/index.html#source-references",
+    "title": "Review #0038",
+    "section": "Source References",
+    "text": "Source References"
+  },
+  {
+    "objectID": "summary/0038/index.html#databases",
+    "href": "summary/0038/index.html#databases",
+    "title": "Review #0038",
+    "section": "Databases",
+    "text": "Databases\n\nSearch Databases\n\n\nMedical Datasets"
+  },
+  {
+    "objectID": "summary/0038/index.html#classification",
+    "href": "summary/0038/index.html#classification",
+    "title": "Review #0038",
+    "section": "Classification",
+    "text": "Classification\n\nPatient Types\n\n\nDecision Levels\n\n\nLevel of Integration"
+  },
+  {
+    "objectID": "summary/0038/index.html#constraints",
+    "href": "summary/0038/index.html#constraints",
+    "title": "Review #0038",
+    "section": "Constraints",
+    "text": "Constraints"
+  },
+  {
+    "objectID": "summary/0038/index.html#bias-assessment",
+    "href": "summary/0038/index.html#bias-assessment",
+    "title": "Review #0038",
+    "section": "Bias Assessment",
+    "text": "Bias Assessment"
+  },
+  {
+    "objectID": "summary/0038/index.html#scan-review",
+    "href": "summary/0038/index.html#scan-review",
+    "title": "Review #0038",
+    "section": "Scan Review",
+    "text": "Scan Review"
+  },
+  {
+    "objectID": "summary/0038/index.html#focus-review",
+    "href": "summary/0038/index.html#focus-review",
+    "title": "Review #0038",
+    "section": "Focus Review",
+    "text": "Focus Review"
+  },
+  {
+    "objectID": "summary/0038/index.html#all-in-review",
+    "href": "summary/0038/index.html#all-in-review",
+    "title": "Review #0038",
+    "section": "All-In Review",
+    "text": "All-In Review"
+  },
+  {
+    "objectID": "summary/0038/index.html#master-review",
+    "href": "summary/0038/index.html#master-review",
+    "title": "Review #0038",
     "section": "Master Review",
     "text": "Master Review"
   }

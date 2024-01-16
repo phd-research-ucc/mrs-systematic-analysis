@@ -69,89 +69,10 @@
 
 ## Bias Assessment
 
+## Scan Review
+
+## Focus Review
+
 ## All-In Review
 
-### Summary
-Dacre Knight et al. \cite{x034} conducted a metanarrative literature review for Artificial Intelligence and Machine Learning technologies implemented in healthcare. The researchers define three types of studies: pre-pilot, pilot and implemented. Major databases were searched on August 14, 2020, and only the publications of the third type were selected for deeper review. The review paper highlights the advantages and obstacles of using AI technologies in healthcare. The authors consider their work's limitations and outline future research directions. 
-
-
-### Notes
-- Studies split into three stages: pre-pilot, pilot, implementation;
-- 11 implemented works;
-- general statements, low-on-insights reviw;
-- 2 reviewers + consultant investigator
-
-
-### Reading
-
-#### Title page:
-Metadata of the paper: title, authors, PII, DOI, Reference, Jornal: Health Policy and Technology, citation, remark about possible editing during the publication process
-
-#### Page 1:
-Authors affiliation details + Reprints
-    
-#### Page 2:
-More metadata: keywords, conflict of interest, no funding, no ethical approval required, technical content details, short title: AI for Patient Scheduling, highlights: 4 highlights about possibility and high potential of an AI in the healthcare scheduling.
-    
-#### Page 3:
-Objectives: The artificial intelligence and machine learning approaches are uncharted teritory in the optimal scheduling.
-
-Methods: The authors use systematic review of publications starting from August 2020. The reviews of literature were conducted by two independent specialists per each article.
-
-Results: Areas of AI application are: double-booking, missed appointment risk, wait time, disease-type matching performance, scheduling efficiency, examination length prediction, and surgical operation time.
-
-Conclusions: Prooved the AI compentence and found new ravenues for development
-
-#### Page 4:
-Public Interest Summary: AI valuable asset which is shown in this literature review update.
-
-#### Page 5:
-The same hihglights that before
-
-#### Page 6:
-Abbreviations - AI, ML, Operation Room
-
-#### Page 7:
-Here is the introduction of the paper where the financial aspects are alligned with the healthcare management efficiency and how the AI/ ML technologies can enhance this efficiency.
-
-#### Page 8:
-Wrap up of the introduction where the authors hihglight versatility of the AI approaches used for reducing healthcare costs and optimising the workflow of the medical services. Also it is mentioned that not only benefits of the AI is in focus of this research but also obsticalse which may arise by utilising AI technology.
-
-Begining Methods section: metanarrative following RAMESES guidances (6)
-    
-#### Page 9:
-The authors separates three types of studies based on the stage of the study (pilot study, solution testing, and actual application). In the review the only 3rd type publications are accepted into the review. Also in the literature search section, the used databases of materials are listed together with teir years of work.
-    
-#### Page 10:
-Date of the search is August 14, 2020 and the full search is available in the Supplenental Material.
-    
-Data Screening and Extraction $\approx$ Data Analysis (start): two reviewers study selection $->$ 3rd seniour investigator to resolve the conflicts $->$ data extratcion (approach, stakeholder impact). descriptive statistics, no quantitative pooling (no metaanalysis)
-    
-#### Page 11:
-3,415 sudies in search $->$ 261 full review $->$ 11 reald world studies. 8 countries (US. China, Switzerland, Singapore, India, Iran, Austria, and Finland). Due to difference of application studies have different requirements for datasets.
-
-#### Page 12:
-The authors used Risk of Bias in Non-randomized Studies and the Cochrane risk-of-bias tools. Also the variouse scheduling strategies were highlighted here.
-
-#### Page 13:
-There are mostly objectives are regarding patients appointmens and some also include cancellations/ no-show risk, resource allocation,daily demand, and physician-to-patient matching. Next there is multiple results from the reviewed studies.
-
-#### Page 14:
-More specific cases with improvements.
-
-#### Page 15:
-Healthcare costs in USA increased by 4\% from 1980 requiring more efficient approaches of hospital management, and AI/ ML technology can provide this eddiciency.
-
-#### Page 16:
-Regression models and Markov algorithm predict no-show appointments. Patient scheduling is a multi-objective task. Nevertheless, the interest in AI is growing. (+lack of healthcare records +bias, +uncertainties)
-
-#### Page 17:
-There are great benefits from AI in healthcare, including help in time of the COVID19 pandemic. The authors predict that AI will occupy valuable place in healthcare in the future, but for now it is important to analyse its capabilities.
-
-#### Page 18:
-The contributors acknowledge the cons of the research, poining out small number of selected publications with real world implementations that chosen studies are not resent. Inpatients in 1 of 11 publications. AI requires quality control.
-
-#### Page 19:
-Evaluating the ML model biases and traking progress of the technology. 
-Conclusion: AI requires more enhancments for the actual application, review is presented, general future investigations. 
-
+## Master Review

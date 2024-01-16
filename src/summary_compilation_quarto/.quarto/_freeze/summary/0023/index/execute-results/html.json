@@ -1,0 +1,16 @@
+{
+  "hash": "dbab0daa2c8f93bac518e38532233421",
+  "result": {
+    "markdown": "\n\n\n# Review #0023 {.unnumbered}\n\n## Short Summary\n\n\n_**\"A Comparative Study of Artificial Intelligence Applications in the Healthcare Sector\"**_ is published in **2023**, and in the current study it represents **none** domain. Objectives of the published material are: *Analyse the gaps between the practicies of AI in Bahrain and other countries around the world.*. The material was **rejected** and allocated to the **0** [group](#subsection-material-groups). After grasping **90%** of the work's content, the reviewed work get **E** [general grade](#subsection-grading) and **-99** [certainty points](#subsection-certainty). There is **neutral** outcomes of the work, the work **considers** COVID-19 pandemic or other pandemic outbreaks, the conflict of interests are **Not mentioned**, and the funding is **Not mentioned**.\n\n\nLocal reference:<br>**SR0023US23**\n\nInitial reference:<br>**x101** \n\nShort note:<br>_General overview_\n\nThe original **article** can be accessed by the following URL:<br>*[https://doi.org/10.1007/978-981-99-6101-6_48](https://doi.org/10.1007/978-981-99-6101-6_48)*\n\n\n## Authors\n\n\n****<br>__<br><br>\n\n\n## Keywords\n\n\n _<span style='color: teal;'></span>_<br><br>**Colours explained:** _<span style='color: #75A267;'>Method</span>, <span style='color: #B8B500;'>Objectives</span>, <span style='color: #3CB0CD;'>Subject</span>, <span style='color: #AD62F8;'>Property</span>, <span style='color: #CB527D;'>Tool</span>_\n\n\n## Research Methods\n\n\n\n\n\n## Source References\n\n## Databases\n\n#### Search Databases\n\n#### Medical Datasets\n\n## Classification\n\n#### Patient Types\n\n#### Decision Levels\n\n#### Level of Integration\n\n## Constraints\n\n## Bias Assessment\n\n## Scan Review\n\n## Focus Review\n\n## All-In Review\n\n## Master Review\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "hash": "f15d705ec859003a3b175f1c33e1841c",
+  "result": {
+    "markdown": "\n\n\n# Review #0015 {.unnumbered}\n\n## Short Summary\n\n\n_**\"Stochastic optimization approaches for elective surgery scheduling with downstream capacity constraints: Models, challenges, and opportunities\"**_ is published in **2022**, and in the current study it represents **both** domain. Objectives of the published material are: *Motivated by research collaboration with a large health system in Pennsylvania.*. The material was **analysed** and allocated to the **6** [group](#subsection-material-groups). After grasping **84%** of the work's content, the reviewed work get **A+** [general grade](#subsection-grading) and **-99** [certainty points](#subsection-certainty). There is **neutral** outcomes of the work, the work **considers** COVID-19 pandemic or other pandemic outbreaks, the conflict of interests are **Not mentioned**, and the funding is **Not mentioned**.\n\n\nLocal reference:<br>**SR0015US22**\n\nInitial reference:<br>**x335** \n\nShort note:<br>_Essential work to master_\n\nThe original **article** can be accessed by the following URL:<br>*[https://doi.org/10.1016/j.cor.2021.105523](https://doi.org/10.1016/j.cor.2021.105523)*\n\n\n## Authors\n\n\n****<br>__<br><br>\n\n\n## Keywords\n\n\n _<span style='color: teal;'></span>_<br><br>**Colours explained:** _<span style='color: #75A267;'>Method</span>, <span style='color: #B8B500;'>Objectives</span>, <span style='color: #3CB0CD;'>Subject</span>, <span style='color: #AD62F8;'>Property</span>, <span style='color: #CB527D;'>Tool</span>_\n\n\n## Research Methods\n\n\n\n\n\n## Source References\n\n## Databases\n\n#### Search Databases\n\n#### Medical Datasets\n\n## Classification\n\n#### Patient Types\n\n#### Decision Levels\n\n#### Level of Integration\n\n## Constraints\n\n## Bias Assessment\n\n## Scan Review\n\n## Focus Review\n\n## All-In Review\n\n## Master Review\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

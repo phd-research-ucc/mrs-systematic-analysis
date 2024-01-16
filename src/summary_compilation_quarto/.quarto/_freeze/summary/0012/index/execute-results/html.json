@@ -1,0 +1,16 @@
+{
+  "hash": "a07c3ce5e7ed6937b83a9d5d27a9f01b",
+  "result": {
+    "markdown": "\n\n\n# Review #0012 {.unnumbered}\n\n## Short Summary\n\n\n_**\"Applications of Artificial Intelligence in the Radiology Roundtrip: Process Streamlining, Workflow Optimization, and Beyond\"**_ is published in **2023**, and in the current study it represents **both** domain. Objectives of the published material are: *not specified*. The material was **analysed** and allocated to the **6** [group](#subsection-material-groups). After grasping **85%** of the work's content, the reviewed work get **C** [general grade](#subsection-grading) and **-99** [certainty points](#subsection-certainty). There is **neutral** outcomes of the work, the work **considers** COVID-19 pandemic or other pandemic outbreaks, the conflict of interests are **Has CoI**, and the funding is **Not funded**.\n\n\nLocal reference:<br>**SR0012US23**\n\nInitial reference:<br>**x076** \n\nShort note:<br>_Appropriate Use Critaria CDS model_\n\nThe original **article** can be accessed by the following URL:<br>*[https://doi.org/10.1053/j.ro.2023.02.003](https://doi.org/10.1053/j.ro.2023.02.003)*\n\n\n## Authors\n\n\n****<br>__<br><br>\n\n\n## Keywords\n\n\n _<span style='color: teal;'></span>_<br><br>**Colours explained:** _<span style='color: #75A267;'>Method</span>, <span style='color: #B8B500;'>Objectives</span>, <span style='color: #3CB0CD;'>Subject</span>, <span style='color: #AD62F8;'>Property</span>, <span style='color: #CB527D;'>Tool</span>_\n\n\n## Research Methods\n\n\n\n\n\n## Source References\n\n## Databases\n\n#### Search Databases\n\n#### Medical Datasets\n\n## Classification\n\n#### Patient Types\n\n#### Decision Levels\n\n#### Level of Integration\n\n## Constraints\n\n## Bias Assessment\n\n## Scan Review\n\n## Focus Review\n\n## All-In Review\n\n## Master Review\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

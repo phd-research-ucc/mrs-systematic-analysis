@@ -1,0 +1,16 @@
+{
+  "hash": "6b6403f2f05fee757e4b738ffd1e5f95",
+  "result": {
+    "markdown": "\n\n\n# Review #0002 {.unnumbered}\n\n## Short Summary\n\n\n_**\"Current Trends in Operating Room Scheduling 2015 to 2020: a Literature Review\"**_ is published in **2022**, and in the current study it represents **scheduler** domain. Objectives of the published material are: *not specified*. The material was **analysed** and allocated to the **5** [group](#subsection-material-groups). After grasping **95%** of the work's content, the reviewed work get **A** [general grade](#subsection-grading) and **-99** [certainty points](#subsection-certainty). There is **neutral** outcomes of the work, the work **does not consider** COVID-19 pandemic or other pandemic outbreaks, the conflict of interests are **Not mentioned**, and the funding is **Not mentioned**.\n\n\nLocal reference:<br>**SR0002US22**\n\nInitial reference:<br>**x079** \n\nShort note:<br>_Reviews cascade 2000-2020_\n\nThe original **article** can be accessed by the following URL:<br>*[https://doi.org/10.1007/s43069-022-00134-y](https://doi.org/10.1007/s43069-022-00134-y)*\n\n\n## Authors\n\n\n****<br>__<br><br>\n\n\n## Keywords\n\n\n _<span style='color: teal;'></span>_<br><br>**Colours explained:** _<span style='color: #75A267;'>Method</span>, <span style='color: #B8B500;'>Objectives</span>, <span style='color: #3CB0CD;'>Subject</span>, <span style='color: #AD62F8;'>Property</span>, <span style='color: #CB527D;'>Tool</span>_\n\n\n## Research Methods\n\n\n\n\n\n## Source References\n\n## Databases\n\n#### Search Databases\n\n#### Medical Datasets\n\n## Classification\n\n#### Patient Types\n\n#### Decision Levels\n\n#### Level of Integration\n\n## Constraints\n\n## Bias Assessment\n\n## Scan Review\n\n## Focus Review\n\n## All-In Review\n\n## Master Review\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
