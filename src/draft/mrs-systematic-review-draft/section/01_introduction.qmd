@@ -2,12 +2,28 @@
 
 ## Rationale
 
-```         
-This is a book created from markdown and executable code.
-```
+<div style='color: teal;'>
+
+- Describe the current state of knowledge and its uncertainties.
+
+- Articulate why it is important to do the review.
+
+- If other systematic reviews addressing the same (or a largely similar) question are available, explain why the current review was considered necessary. If the review is an update or replication of a particular systematic review, indicate this and cite the previous review.
+
+- If the review examines the effects of interventions, also briefly describe how the intervention(s) examined might work.
+
+- If there is complexity in the intervention or context of its delivery (or both) (e.g. multi-component interventions, equity considerations), consider presenting a logic model to visually display the hypothesised relationship between intervention components and outcomes.
+</div>
+
+
+
+
 
 ## Objectives
 
-```         
-See [@011TWHybridGA2020] for additional discussion of literate programming.
-```
+<div style='color: teal;'>
+
+- Provide an explicit statement of all objective(s) or question(s) the review addresses, expressed in terms of a relevant question formulation framework.
+
+- If the purpose is to evaluate the effects of interventions, use the Population, Intervention, Comparator, Outcome (PICO) framework or one of its variants, to state the comparisons that will be made.
+</div>

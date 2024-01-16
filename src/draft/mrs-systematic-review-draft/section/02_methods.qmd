@@ -1,50 +1,328 @@
 # Methods
 
-
 ## Eligibility Criteria
+
+<div style='color: teal;'>
+
+- Specify all study characteristics used to decide whether a study was eligible for inclusion in the review, that is, components described in the PICO framework or one of its variants, and other characteristics, such as eligible study design(s) and setting(s), and minimum duration of follow-up.
+
+- Specify eligibility criteria with regard to report characteristics, such as year of dissemination, language, and report status (e.g. whether reports, such as unpublished manuscripts and conference abstracts, were eligible for inclusion).
+
+- Clearly indicate if studies were ineligible because the outcomes of interest were not measured, or ineligible because the results for the outcome of interest were not reported.
+
+- Specify any groups used in the synthesis (e.g. intervention, outcome and population groups) and link these to the comparisons specified in the objectives (item #4).
+
+- Consider providing rationales for any notable restrictions to study eligibility.
+</div>
+
+
+
 
 
 ## Information Sources
 
+<div style='color: teal;'>
+
+- Specify the date when each source (e.g. database, register, website, organisation) was last searched or consulted.
+
+- If bibliographic databases were searched, specify for each database its name (e.g. MEDLINE, CINAHL), the interface or platform through which the database was searched (e.g. Ovid, EBSCOhost), and the dates of coverage (where this information is provided).
+
+- If study registers, regulatory databases and other online repositories were searched, specify the name of each source and any date restrictions that were applied.
+
+- If websites, search engines or other online sources were browsed or searched, specify the name and URL of each source.
+
+- If organisations or manufacturers were contacted to identify studies, specify the name of each source.
+
+- If individuals were contacted to identify studies, specify the types of individuals contacted (e.g. authors of studies included in the review or researchers with expertise in the area).
+
+- If reference lists were examined, specify the types of references examined (e.g. references cited in study reports included in the systematic review, or references cited in systematic review reports on the same or similar topic).
+
+- If cited or citing reference searches (also called backward and forward citation searching) were conducted, specify the bibliographic details of the reports to which citation searching was applied, the citation index or platform used (e.g. Web of Science), and the date the citation searching was done.
+
+- If journals or conference proceedings were consulted, specify of the names of each source, the dates covered and how they were searched (e.g. hand searching or browsing online).
+</div>
+
+
+
+
 
 ## Search Strategy
+
+<div style='color: teal;'>
+
+- Provide the full line by line search strategy as run in each database with a sophisticated interface (such as Ovid), or the sequence of terms that were used to search simpler interfaces, such as search engines or websites.
+
+- Describe any limits applied to the search strategy (e.g. date or language) and justify these by linking back to the review’s eligibility criteria.
+
+- If published approaches, including search filters designed to retrieve specific types of records or search strategies from other systematic reviews, were used, cite them. If published approaches were adapted, for example if search filters are amended, note the changes made.
+
+- If natural language processing or text frequency analysis tools were used to identify or refine keywords, synonyms or subject indexing terms to use in the search strategy, specify the tool(s) used.
+
+- If a tool was used to automatically translate search strings for one database to another, specify the tool used.
+
+- If the search strategy was validated, for example by evaluating whether it could identify a set of clearly eligible studies, report the validation process used and specify which studies were included in the validation set.
+
+- If the search strategy was peer reviewed, report the peer review process used and specify any tool used such as the Peer Review of Electronic Search Strategies (PRESS) checklist.
+
+- If the search strategy structure adopted was not based on a PICO-style approach, describe the final conceptual structure and any explorations that were undertaken to achieve it.
+</div>
+
+
+
 
 
 ## Selection Process
 
+<div style='color: teal;'>
+
+Recommendations for reporting regardless of the selection processes used:
+
+- Report how many reviewers screened each record (title/abstract) and each report retrieved, whether multiple reviewers worked independently at each stage of screening or not, and any processes used to resolve disagreements between screeners.
+
+- Report any processes used to obtain or confirm relevant information from study investigators.
+
+- If abstracts or articles required translation into another language to determine their eligibility, report how these were translated.
+
+Recommendations for reporting in systematic reviews using automation tools in the selection process:
+
+- Report how automation tools were integrated within the overall study selection process.
+
+- If an externally derived machine learning classifier was applied (e.g. Cochrane RCT Classifier), either to eliminate records or to replace a single screener, include a reference or URL to the version used. If the classifier was used to eliminate records before screening, report the number eliminated in the PRISMA flow diagram as ‘Records marked as ineligible by automation tools’.
+
+- If an internally derived machine learning classifier was used to assist with the screening process, identify the software/classifier and version, describe how it was used (e.g. to remove records or replace a single screener) and trained (if relevant), and what internal or external validation was done to understand the risk of missed studies or incorrect classifications.
+
+- If machine learning algorithms were used to prioritise screening (whereby unscreened records are continually re-ordered based on screening decisions), state the software used and provide details of any screening rules applied.
+
+Recommendations for reporting in systematic reviews using crowdsourcing or previous ‘known’ assessments in the selection process:
+
+- If crowdsourcing was used to screen records, provide details of the platform used and specify how it was integrated within the overall study selection process.
+
+- If datasets of already-screened records were used to eliminate records retrieved by the search from further consideration, briefly describe the derivation of these datasets.
+</div>
+
+
+
+
 
 ## Data Collection Process
+
+<div style='color: teal;'>
+
+- Report how many reviewers collected data from each report, whether multiple reviewers worked independently or not, and any processes used to resolve disagreements between data collectors.
+
+- Report any processes used to obtain or confirm relevant data from study investigators.
+
+- If any automation tools were used to collect data, report how the tool was used, how the tool was trained, and what internal or external validation was done to understand the risk of incorrect extractions.
+
+- If articles required translation into another language to enable data collection, report how these articles were translated.
+
+- If any software was used to extract data from figures, specify the software used.
+
+- If any decision rules were used to select data from multiple reports corresponding to a study, and any steps were taken to resolve inconsistencies across reports, report the rules and steps used.
+</div>
+
+
+
 
 
 ## Data Items
 
 ### Outcomes
 
+<div style='color: teal;'>
+
+- List and define the outcome domains and time frame of measurement for which data were sought.
+
+- Specify whether all results that were compatible with each outcome domain in each study were sought, and if not, what process was used to select results within eligible domains.
+
+- If any changes were made to the inclusion or definition of the outcome domains, or to the importance given to them in the review, specify the changes, along with a rationale.
+
+- If any changes were made to the processes used to select results within eligible outcome domains, specify the changes, along with a rationale.
+
+- Consider specifying which outcome domains were considered the most important for interpreting the review’s conclusions and provide rationale for the labelling (e.g. “a recent core outcome set identified the outcomes labelled ‘critical’ as being the most important to patients”).
+</div>
+
+
 ### Other Variables
+
+<div style='color: teal;'>
+
+- List and define all other variables for which data were sought (e.g. participant and intervention characteristics, funding sources).
+
+- Describe any assumptions made about any missing or unclear information from the studies.
+
+- If a tool was used to inform which data items to collect, cite the tool used.
+</div>
 
 
 ## Study Risk of Bias Assessment
 
+<div style='color: teal;'>
+
+- Specify the tool(s) (and version) used to assess risk of bias in the included studies.
+
+- Specify the methodological domains/components/items of the risk of bias tool(s) used.
+
+- Report whether an overall risk of bias judgement that summarised across domains/components/items was made, and if so, what rules were used to reach an overall judgement.
+
+- If any adaptations to an existing tool to assess risk of bias in studies were made, specify the adaptations.
+
+- If a new risk of bias tool was developed for use in the review, describe the content of the tool and make it publicly accessible.
+
+- Report how many reviewers assessed risk of bias in each study, whether multiple reviewers worked independently, and any processes used to resolve disagreements between assessors.
+
+- Report any processes used to obtain or confirm relevant information from study investigators.
+
+- If an automation tool was used to assess risk of bias, report how the automation tool was used, how the tool was trained, and details on the tool’s performance and internal validation.
+</div>
+
 
 ## Effect Measures
+
+<div style='color: teal;'>
+
+- Specify for each outcome (or type of outcome [e.g. binary, continuous]), the effect measure(s) (e.g. risk ratio, mean difference) used in the synthesis or presentation of results.
+
+- State any thresholds (or ranges) used to interpret the size of effect (e.g. minimally important difference; ranges for no/trivial, small, moderate and large effects) and the rationale for these thresholds.
+
+- If synthesized results were re-expressed to a different effect measure, report the method used to re-express results (e.g. meta-analysing risk ratios and computing an absolute risk reduction based on an assumed comparator risk).
+
+- Consider providing justification for the choice of effect measure.
+</div>
+
+
 
 
 ## Synthesis Methods
 
 ### Eligibility for Synthesis
 
+<div style='color: teal;'>
+Describe the processes used to decide which studies were eligible for each synthesis.
+</div>
+
+
 ### Preparing for Synthesis
+
+<div style='color: teal;'>
+Report any methods required to prepare the data collected from studies for presentation or synthesis, such as handling of missing summary statistics, or data conversions.
+</div>
+
 
 ### Tabulation and Graphical Methods
 
+<div style='color: teal;'>
+
+- Report chosen tabular structure(s) used to display results of individual studies and syntheses, along with details of the data presented.
+
+- Report chosen graphical methods used to visually display results of individual studies and syntheses.
+
+- If studies are ordered or grouped within tables or graphs based on study characteristics (e.g. by size of the study effect, year of publication), consider reporting the basis for the chosen ordering/grouping.
+
+- If non-standard graphs were used, consider reporting the rationale for selecting the chosen graph.
+</div>
+
+
+
 ### Statistical Synthesis Methods
+
+<div style='color: teal;'>
+
+- If statistical synthesis methods were used, reference the software, packages and version numbers used to implement synthesis methods.
+
+- If it was not possible to conduct a meta-analysis, describe and justify the synthesis methods or summary approach used.
+
+- If meta-analysis was done, specify:
+    - the meta-analysis model (fixed-effect, fixed-effects or random-effects) and provide rationale for the selected model.
+    - the method used (e.g. Mantel-Haenszel, inverse-variance).
+    - any methods used to identify or quantify statistical heterogeneity (e.g. visual inspection of results, a formal statistical test for heterogeneity, heterogeneity variance (𝜏2), inconsistency (e.g. I2), and prediction intervals).
+
+- If a random-effects meta-analysis model was used:
+    - specify the between-study (heterogeneity) variance estimator used (e.g. DerSimonian and Laird, restricted maximum likelihood (REML)).
+    - specify the method used to calculate the confidence interval for the summary effect (e.g. Wald-type confidence interval, Hartung-Knapp-Sidik-Jonkman).
+    - consider specifying other details about the methods used, such as the method for calculating confidence limits for the heterogeneity variance.
+
+- If a Bayesian approach to meta-analysis was used, describe the prior distributions about quantities of interest (e.g. intervention effect being analysed, amount of heterogeneity in results across studies).
+
+- If multiple effect estimates from a study were included in a meta-analysis, describe the method(s) used to model or account for the statistical dependency (e.g. multivariate meta-analysis, multilevel models or robust variance estimation).
+
+- If a planned synthesis was not considered possible or appropriate, report this and the reason for that decision.
+</div>
+
 
 ### Methods to Explore Heterogeneity
 
+<div style='color: teal;'>
+
+- If methods were used to explore possible causes of statistical heterogeneity, specify the method used (e.g. subgroup analysis, meta-regression).
+
+- If subgroup analysis or meta-regression was performed, specify for each:
+    - which factors were explored, levels of those factors, and which direction of effect modification was expected and why (where possible).
+    - whether analyses were conducted using study-level variables (i.e. where each study is included in one subgroup only), within-study contrasts (i.e. where data on subsets of participants within a study are available, allowing the study to be included in more than one subgroup), or some combination of the above.
+    - how subgroup effects were compared (e.g. statistical test for interaction for subgroup analyses).
+
+- If other methods were used to explore heterogeneity because data were not amenable to meta-analysis of effect estimates (e.g. structuring tables to examine variation in results across studies based on subpopulation), describe the methods used, along with the factors and levels.
+
+- If any analyses used to explore heterogeneity were not pre-specified, identify them as such.
+</div>
+
+
 ### Sensitivity Analyses
+
+<div style='color: teal;'>
+
+- If sensitivity analyses were performed, provide details of each analysis (e.g. removal of studies at high risk of bias, use of an alternative meta-analysis model).
+
+- If any sensitivity analyses were not pre-specified, identify them as such.
+
+</div>
 
 
 ## Reporting Bias Assessment
 
+<div style='color: teal;'>
+
+- Specify the methods (tool, graphical, statistical or other) used to assess the risk of bias due to missing results in a synthesis (arising from reporting biases).
+
+- If risk of bias due to missing results was assessed using an existing tool, specify the methodological components/domains/items of the tool, and the process used to reach a judgement of overall risk of bias.
+
+- If any adaptations to an existing tool to assess risk of bias due to missing results were made, specify the adaptations.
+
+- If a new tool to assess risk of bias due to missing results was developed for use in the review, describe the content of the tool and make it publicly accessible.
+
+- Report how many reviewers assessed risk of bias due to missing results in a synthesis, whether multiple reviewers worked independently, and any processes used to resolve disagreements between assessors.
+
+- Report any processes used to obtain or confirm relevant information from study investigators.
+
+- If an automation tool was used to assess risk of bias due to missing results, report how the automation tool was used, how the tool was trained, and details on the tool’s performance and internal validation.
+</div>
+
+
+
+
+
 
 ## Certainty Assessment
+
+<div style='color: teal;'>
+
+- Specify the tool or system (and version) used to assess certainty (or confidence) in the body of evidence.
+
+- Report the factors considered (e.g. precision of the effect estimate, consistency of findings across studies) and the criteria used to assess each factor when assessing certainty in the body of evidence.
+
+- Describe the decision rules used to arrive at an overall judgement of the level of certainty, together with the intended interpretation (or definition) of each level of certainty.
+
+- If applicable, report any review-specific considerations for assessing certainty, such as thresholds used to assess imprecision and ranges of magnitude of effect that might be considered trivial, moderate or large, and the rationale for these thresholds and ranges (item #12).
+
+- If any adaptations to an existing tool or system to assess certainty were made, specify the adaptations.
+
+- Report how many reviewers assessed certainty in the body of evidence for an outcome, whether multiple reviewers worked independently, and any processes used to resolve disagreements between assessors.
+
+- Report any processes used to obtain or confirm relevant information from investigators.
+
+- If an automation tool was used to support the assessment of certainty, report how the automation tool was used, how the tool was trained, and details on the tool’s performance and internal validation.
+
+- Describe methods for reporting the results of assessments of certainty, such as the use of Summary of Findings tables.
+
+- If standard phrases that incorporate the certainty of evidence were used (e.g. “hip protectors probably reduce the risk of hip fracture slightly”), report the intended interpretation of each phrase and the reference for the source guidance.
+</div>
