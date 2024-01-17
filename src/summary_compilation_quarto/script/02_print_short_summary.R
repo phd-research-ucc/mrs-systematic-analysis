@@ -30,6 +30,8 @@ certainty_points <- ifelse(
     glue("**{metadata[['certainty']]}** [certainty point](#subsection-certainty)"),
     glue("**{metadata[['certainty']]}** [certainty points](#subsection-certainty)")
 )
+conflict_of_interests <- tolower( metadata[['coi']] )
+funding <- tolower( metadata[['funding']] )
 
 
 # Script ----------------------------------------------------------------------
@@ -59,9 +61,9 @@ cat( glue(
     }** outcomes of the work, the work {
         pandemic_mentioned
     } COVID-19 pandemic or other pandemic outbreaks, the conflict of interests are **{
-        metadata[['coi']]
+        conflict_of_interests
     }**, and the funding is **{
-        metadata[['funding']]
+        funding
     }**.
 
 
@@ -87,5 +89,6 @@ remove(
     state,
     outcomes,
     pandemic_mentioned,
-    type
+    type,
+    funding
 )

@@ -1,402 +1,24 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Summary Compilation: Advanced Computational Approaches for Medical Resource Scheduling",
-    "section": "",
-    "text": "Preface\nThis summary compilation is created to track the reviewed and analysed literature materials in scope of advanced computational approaches for medical resource scheduling."
-  },
-  {
-    "objectID": "summary/AR0027IR20/01_index.html",
-    "href": "summary/AR0027IR20/01_index.html",
-    "title": "AR0027IR20",
-    "section": "",
-    "text": "source(\"03_metadata.R\")\n    title &lt;- metadata[['title']]\n\n\nA state of the art review of intelligent scheduling"
-  },
-  {
-    "objectID": "summary/AR0027IR20/01_index.html#section",
-    "href": "summary/AR0027IR20/01_index.html#section",
-    "title": "AR0027IR20",
-    "section": "",
-    "text": "title\n\n[1] \"A state of the art review of intelligent scheduling\""
-  },
-  {
-    "objectID": "summary/AR0027IR20/01_index.html#r-title",
-    "href": "summary/AR0027IR20/01_index.html#r-title",
-    "title": "AR0027IR20",
-    "section": "{r} title",
-    "text": "{r} title"
-  },
-  {
-    "objectID": "summary/AR0027IR20/01_index.html#a-state-of-the-art-review-of-intelligent-scheduling",
-    "href": "summary/AR0027IR20/01_index.html#a-state-of-the-art-review-of-intelligent-scheduling",
-    "title": "AR0027IR20",
-    "section": "A state of the art review of intelligent scheduling",
-    "text": "A state of the art review of intelligent scheduling"
-  },
-  {
-    "objectID": "legend.html#literature-groups",
-    "href": "legend.html#literature-groups",
-    "title": "1  Legend",
-    "section": "1.1 Literature Groups",
-    "text": "1.1 Literature Groups\n\nSR - Specialised Review\nThis group of studies represent literature reviews in the scope of medical resource scheduling problem related to focusing to operating theatres and related to this subject areas.\n\n\nSO - Specialised Online Materials\nSpecialised Online posts, ads, commercial articles related to the medical resource scheduling problem, analytics of the healthcare for businesses, healthcare administrators, and technicians.\n\n\nSC - Specialised Case Study\nSpecialised Case and application of the previous theory on practice;\n\n\nSM - Specialised Idealised Model\nSpecialised Models developed specially for MRS problems;\n\n\nSF - Specialised Full Study\nSpecialised Full work of developing model and implementing it;\n\n\nST - Specialised Theoretical Work\nSpecialised Theory works;\n\n\nSS - Strategies for Healthcare Administrators\nSpecialised Administration related works;\n\n\nAR - Review on the Alternatice Approaches out of Healthcare\nAlternative Reviews of methods applicable to MRS;\n\n\nAO - Alternative Online Resources\nAlternative Online resources;\n\n\nAC - Alternative Case Studies\nAlternative Case which applied in a similar field or somehow related to MRS problems;\n\n\nAF - Alternative Full Studies\nAlternative Full work of developing model and implementing it;\n\n\nAM - Developments of Alternative Models\nAlternative Models for scheduling resources;\n\n\nAT - Alternative Theory Works\nAlternative Theory works;\n\n\nAS - Strategies for Other Resource Management\nAlternative Administration related works;\n\n\nHP - Healthcare Policies, Regulations, and Protocols\nHealthcare policies and rules;\n\n\nOM - Other Materials\nOther.\n\n\nNA - Undefined\nUndefined;"
-  },
-  {
-    "objectID": "legend.html#groups-of-reviewed-literature-materials",
-    "href": "legend.html#groups-of-reviewed-literature-materials",
-    "title": "1  Legend",
-    "section": "1.1 Groups of Reviewed Literature Materials",
-    "text": "1.1 Groups of Reviewed Literature Materials\n\nSR - Specialised Review\nThis group of studies represent literature reviews in the scope of medical resource scheduling problem related to focusing to operating theatres and related to this subject areas.\n\n\nSO - Specialised Online Materials\nSpecialised Online posts, ads, commercial articles related to the medical resource scheduling problem, analytics of the healthcare for businesses, healthcare administrators, and technicians.\n\n\nSC - Specialised Case Study\nSpecialised Case and application of the previous theory on practice;\n\n\nSM - Specialised Idealised Model\nSpecialised Models developed specially for MRS problems;\n\n\nSF - Specialised Full Study\nSpecialised Full work of developing model and implementing it;\n\n\nST - Specialised Theoretical Work\nSpecialised Theory works;\n\n\nSS - Strategies for Healthcare Administrators\nSpecialised Administration related works;\n\n\nAR - Review on the Alternatice Approaches out of Healthcare\nAlternative Reviews of methods applicable to MRS;\n\n\nAO - Alternative Online Resources\nAlternative Online resources;\n\n\nAC - Alternative Case Studies\nAlternative Case which applied in a similar field or somehow related to MRS problems;\n\n\nAF - Alternative Full Studies\nAlternative Full work of developing model and implementing it;\n\n\nAM - Developments of Alternative Models\nAlternative Models for scheduling resources;\n\n\nAT - Alternative Theory Works\nAlternative Theory works;\n\n\nAS - Strategies for Other Resource Management\nAlternative Administration related works;\n\n\nHP - Healthcare Policies, Regulations, and Protocols\nHealthcare policies and rules;\n\n\nOM - Other Materials\nOther.\n\n\nNA - Undefined\nUndefined;"
-  },
-  {
-    "objectID": "legend.html#literature-material-group",
-    "href": "legend.html#literature-material-group",
-    "title": "1  Legend",
-    "section": "1.1 Literature Material Group",
-    "text": "1.1 Literature Material Group\n\nSR - Specialised Review\nThis group of studies represent literature reviews in the scope of medical resource scheduling problem related to focusing to operating theatres and related to this subject areas.\n\n\nSO - Specialised Online Materials\nSpecialised Online posts, ads, commercial articles related to the medical resource scheduling problem, analytics of the healthcare for businesses, healthcare administrators, and technicians.\n\n\nSC - Specialised Case Study\nSpecialised Case and application of the previous theory on practice;\n\n\nSM - Specialised Idealised Model\nSpecialised Models developed specially for MRS problems;\n\n\nSF - Specialised Full Study\nSpecialised Full work of developing model and implementing it;\n\n\nST - Specialised Theoretical Work\nSpecialised Theory works;\n\n\nSS - Strategies for Healthcare Administrators\nSpecialised Administration related works;\n\n\nAR - Review on the Alternatice Approaches out of Healthcare\nAlternative Reviews of methods applicable to MRS;\n\n\nAO - Alternative Online Resources\nAlternative Online resources;\n\n\nAC - Alternative Case Studies\nAlternative Case which applied in a similar field or somehow related to MRS problems;\n\n\nAF - Alternative Full Studies\nAlternative Full work of developing model and implementing it;\n\n\nAM - Developments of Alternative Models\nAlternative Models for scheduling resources;\n\n\nAT - Alternative Theory Works\nAlternative Theory works;\n\n\nAS - Strategies for Other Resource Management\nAlternative Administration related works;\n\n\nHP - Healthcare Policies, Regulations, and Protocols\nHealthcare policies and rules;\n\n\nOM - Other Materials\nOther.\n\n\nNA - Undefined\nUndefined;"
-  },
-  {
-    "objectID": "legend.html#literature-material-groups",
-    "href": "legend.html#literature-material-groups",
-    "title": "Legend",
-    "section": "Literature Material Groups",
-    "text": "Literature Material Groups\n\nSR - Specialised Review\nThis group of studies represent literature reviews in the scope of medical resource scheduling problem related to focusing to operating theatres and related to this subject areas.\n\n\nSO - Specialised Online Materials\nSpecialised Online posts, ads, commercial articles related to the medical resource scheduling problem, analytics of the healthcare for businesses, healthcare administrators, and technicians.\n\n\nSC - Specialised Case Study\nSpecialised Case and application of the previous theory on practice;\n\n\nSM - Specialised Idealised Model\nSpecialised Models developed specially for MRS problems;\n\n\nSF - Specialised Full Study\nSpecialised Full work of developing model and implementing it;\n\n\nST - Specialised Theoretical Work\nSpecialised Theory works;\n\n\nSS - Strategies for Healthcare Administrators\nSpecialised Administration related works;\n\n\nAR - Review on the Alternatice Approaches out of Healthcare\nAlternative Reviews of methods applicable to MRS;\n\n\nAO - Alternative Online Resources\nAlternative Online resources;\n\n\nAC - Alternative Case Studies\nAlternative Case which applied in a similar field or somehow related to MRS problems;\n\n\nAF - Alternative Full Studies\nAlternative Full work of developing model and implementing it;\n\n\nAM - Developments of Alternative Models\nAlternative Models for scheduling resources;\n\n\nAT - Alternative Theory Works\nAlternative Theory works;\n\n\nAS - Strategies for Other Resource Management\nThe scheduling approaches which are not related to the healthcare, but can be adapted from other fields of reseach. (This is very similar to AT so possibly redundant)\n\n\nHP - Healthcare Policies, Regulations, and Protocols\nHealthcare policies, regulations, protocols, and rules which can differ from country to country and in some cases even from hospital to hospital.\n\n\nOM - Other Materials\nOther materials like posters, databases, memes, videos, etc.\n\n\nNA - Undefined\nMaterials which are yet to be identified with one of the outlined above groups."
-  },
-  {
-    "objectID": "legend.html#glossary",
-    "href": "legend.html#glossary",
-    "title": "Legend",
-    "section": "Glossary",
-    "text": "Glossary\nSLR - Systematic Literature Review\nOT - Operating Theatre\nOR - Operating Room\nOR&M - Operations Research and Management\nLoS - Length of Stay\nICU - Intensive Care Unit\nPACU - Post Anaesthetic Care Unit\nCoI - Conflict of Interests"
-  },
-  {
-    "objectID": "summary/AR0027IR20/index.html#a-state-of-the-art-review-of-intelligent-scheduling",
-    "href": "summary/AR0027IR20/index.html#a-state-of-the-art-review-of-intelligent-scheduling",
-    "title": "1  Review",
-    "section": "1.1 A state of the art review of intelligent scheduling",
-    "text": "1.1 A state of the art review of intelligent scheduling\nThe Article is published in 2020, and in the current study it represents Scheduler domain. Objectives of the published material are: Survey intelligent scheduling systems. The material was Read and allocated to the AR group (goups’ description). Subjectivally, after grasping 80% of the work’s content, the summary author graded the reviewed work with A.\nThe original Article can be accessed by the following URL: https://doi.org/10.1007/s10462-018-9667-6\n.$pk [1] “AR0027IR20”\n$state [1] “Read”\n$grade [1] “A”\n$year [1] 2020\n$type [1] “Article”\n$domain [1] “Scheduler”\n$grasp [1] 0.8\n$group [1] “AR”\n$old_pk [1] “032IRSchedulingReview2020”\n$title [1] “A state of the art review of intelligent scheduling”\n$covid19 [1] FALSE\n$objectives [1] “Survey intelligent scheduling systems”\n$conflict_of_interests [1] “not mentioned”\n$funding [1] “not mentioned”\n$outcomes [1] “Neutral”\n$comment [1] “Pros and cons of metaheuristics”\n$url [1] “https://doi.org/10.1007/s10462-018-9667-6”"
-  },
-  {
-    "objectID": "summary/AR0027IR20/index.html#metadata",
-    "href": "summary/AR0027IR20/index.html#metadata",
-    "title": "1  Review",
-    "section": "1.1 Metadata",
-    "text": "1.1 Metadata\n“A state of the art review of intelligent scheduling” is published in 2020, and in the current study it represents Scheduler domain. Objectives of the published material are: Survey intelligent scheduling systems. The material was Read and allocated to the AR group (goups’ description). Subjectivally, after grasping 80% of the work’s content, the summary author graded the reviewed work with A (grading explained).\nThe original Article can be accessed by the following URL: https://doi.org/10.1007/s10462-018-9667-6\n.$pk [1] “AR0027IR20”\n$state [1] “Read”\n$grade [1] “A”\n$year [1] 2020\n$type [1] “Article”\n$domain [1] “Scheduler”\n$grasp [1] 0.8\n$group [1] “AR”\n$old_pk [1] “032IRSchedulingReview2020”\n$title [1] “A state of the art review of intelligent scheduling”\n$covid19 [1] FALSE\n$objectives [1] “Survey intelligent scheduling systems”\n$conflict_of_interests [1] “not mentioned”\n$funding [1] “not mentioned”\n$outcomes [1] “Neutral”\n$comment [1] “Pros and cons of metaheuristics”\n$url [1] “https://doi.org/10.1007/s10462-018-9667-6”"
-  },
-  {
-    "objectID": "legend.html#literature-material-groups-subsection-material-groups",
-    "href": "legend.html#literature-material-groups-subsection-material-groups",
-    "title": "Legend",
-    "section": "Literature Material Groups {#subsection-material-groups}",
-    "text": "Literature Material Groups {#subsection-material-groups}\n\nSR - Specialised Review\nThis group of studies represent literature reviews in the scope of medical resource scheduling problem related to focusing to operating theatres and related to this subject areas.\n\n\nSO - Specialised Online Materials\nSpecialised Online posts, ads, commercial articles related to the medical resource scheduling problem, analytics of the healthcare for businesses, healthcare administrators, and technicians.\n\n\nSC - Specialised Case Study\nSpecialised Case and application of the previous theory on practice;\n\n\nSM - Specialised Idealised Model\nSpecialised Models developed specially for MRS problems;\n\n\nSF - Specialised Full Study\nSpecialised Full work of developing model and implementing it;\n\n\nST - Specialised Theoretical Work\nSpecialised Theory works;\n\n\nSS - Strategies for Healthcare Administrators\nSpecialised Administration related works;\n\n\nAR - Review on the Alternatice Approaches out of Healthcare\nAlternative Reviews of methods applicable to MRS;\n\n\nAO - Alternative Online Resources\nAlternative Online resources;\n\n\nAC - Alternative Case Studies\nAlternative Case which applied in a similar field or somehow related to MRS problems;\n\n\nAF - Alternative Full Studies\nAlternative Full work of developing model and implementing it;\n\n\nAM - Developments of Alternative Models\nAlternative Models for scheduling resources;\n\n\nAT - Alternative Theory Works\nAlternative Theory works;\n\n\nAS - Strategies for Other Resource Management\nThe scheduling approaches which are not related to the healthcare, but can be adapted from other fields of reseach. (This is very similar to AT so possibly redundant)\n\n\nHP - Healthcare Policies, Regulations, and Protocols\nHealthcare policies, regulations, protocols, and rules which can differ from country to country and in some cases even from hospital to hospital.\n\n\nOM - Other Materials\nOther materials like posters, databases, memes, videos, etc.\n\n\nNA - Undefined\nMaterials which are yet to be identified with one of the outlined above groups."
-  },
-  {
-    "objectID": "legend.html#literature-material-groups-.unnumbered-subsection-material-groups",
-    "href": "legend.html#literature-material-groups-.unnumbered-subsection-material-groups",
-    "title": "Legend",
-    "section": "Literature Material Groups {.unnumbered, #subsection-material-groups}",
-    "text": "Literature Material Groups {.unnumbered, #subsection-material-groups}\n\nSR - Specialised Review\nThis group of studies represent literature reviews in the scope of medical resource scheduling problem related to focusing to operating theatres and related to this subject areas.\n\n\nSO - Specialised Online Materials\nSpecialised Online posts, ads, commercial articles related to the medical resource scheduling problem, analytics of the healthcare for businesses, healthcare administrators, and technicians.\n\n\nSC - Specialised Case Study\nSpecialised Case and application of the previous theory on practice;\n\n\nSM - Specialised Idealised Model\nSpecialised Models developed specially for MRS problems;\n\n\nSF - Specialised Full Study\nSpecialised Full work of developing model and implementing it;\n\n\nST - Specialised Theoretical Work\nSpecialised Theory works;\n\n\nSS - Strategies for Healthcare Administrators\nSpecialised Administration related works;\n\n\nAR - Review on the Alternatice Approaches out of Healthcare\nAlternative Reviews of methods applicable to MRS;\n\n\nAO - Alternative Online Resources\nAlternative Online resources;\n\n\nAC - Alternative Case Studies\nAlternative Case which applied in a similar field or somehow related to MRS problems;\n\n\nAF - Alternative Full Studies\nAlternative Full work of developing model and implementing it;\n\n\nAM - Developments of Alternative Models\nAlternative Models for scheduling resources;\n\n\nAT - Alternative Theory Works\nAlternative Theory works;\n\n\nAS - Strategies for Other Resource Management\nThe scheduling approaches which are not related to the healthcare, but can be adapted from other fields of reseach. (This is very similar to AT so possibly redundant)\n\n\nHP - Healthcare Policies, Regulations, and Protocols\nHealthcare policies, regulations, protocols, and rules which can differ from country to country and in some cases even from hospital to hospital.\n\n\nOM - Other Materials\nOther materials like posters, databases, memes, videos, etc.\n\n\nNA - Undefined\nMaterials which are yet to be identified with one of the outlined above groups."
-  },
-  {
-    "objectID": "legend.html#subsection-material-groups",
-    "href": "legend.html#subsection-material-groups",
-    "title": "Legend",
-    "section": "Literature Material Groups",
-    "text": "Literature Material Groups\n\nSR - Specialised Review\nThis group of studies represent literature reviews in the scope of medical resource scheduling problem related to focusing to operating theatres and related to this subject areas.\n\n\nSO - Specialised Online Materials\nSpecialised Online posts, ads, commercial articles related to the medical resource scheduling problem, analytics of the healthcare for businesses, healthcare administrators, and technicians.\n\n\nSC - Specialised Case Study\nSpecialised Case and application of the previous theory on practice;\n\n\nSM - Specialised Idealised Model\nSpecialised Models developed specially for MRS problems;\n\n\nSF - Specialised Full Study\nSpecialised Full work of developing model and implementing it;\n\n\nST - Specialised Theoretical Work\nSpecialised Theory works;\n\n\nSS - Strategies for Healthcare Administrators\nSpecialised Administration related works;\n\n\nAR - Review on the Alternatice Approaches out of Healthcare\nAlternative Reviews of methods applicable to MRS;\n\n\nAO - Alternative Online Resources\nAlternative Online resources;\n\n\nAC - Alternative Case Studies\nAlternative Case which applied in a similar field or somehow related to MRS problems;\n\n\nAF - Alternative Full Studies\nAlternative Full work of developing model and implementing it;\n\n\nAM - Developments of Alternative Models\nAlternative Models for scheduling resources;\n\n\nAT - Alternative Theory Works\nAlternative Theory works;\n\n\nAS - Strategies for Other Resource Management\nThe scheduling approaches which are not related to the healthcare, but can be adapted from other fields of reseach. (This is very similar to AT so possibly redundant)\n\n\nHP - Healthcare Policies, Regulations, and Protocols\nHealthcare policies, regulations, protocols, and rules which can differ from country to country and in some cases even from hospital to hospital.\n\n\nOM - Other Materials\nOther materials like posters, databases, memes, videos, etc.\n\n\nNA - Undefined\nMaterials which are yet to be identified with one of the outlined above groups."
-  },
-  {
-    "objectID": "summary/AR0027IR20/index.html#scan",
-    "href": "summary/AR0027IR20/index.html#scan",
-    "title": "Review #0027",
-    "section": "Scan",
-    "text": "Scan"
-  },
-  {
-    "objectID": "summary/AR0027IR20/index.html#focus",
-    "href": "summary/AR0027IR20/index.html#focus",
-    "title": "Review #0027",
-    "section": "Focus",
-    "text": "Focus"
-  },
-  {
-    "objectID": "summary/AR0027IR20/index.html#go-all-in",
-    "href": "summary/AR0027IR20/index.html#go-all-in",
-    "title": "Review #0027",
-    "section": "Go All-In",
-    "text": "Go All-In"
-  },
-  {
-    "objectID": "summary/AR0027IR20/index.html#master",
-    "href": "summary/AR0027IR20/index.html#master",
-    "title": "Review #0027",
-    "section": "Master",
-    "text": "Master"
-  },
-  {
-    "objectID": "summary/AR0027IR20/index.html#r",
-    "href": "summary/AR0027IR20/index.html#r",
-    "title": "1  Review",
-    "section": "1.1 r",
-    "text": "1.1 r\n“A state of the art review of intelligent scheduling” is published in 2020, and in the current study it represents Scheduler domain. Objectives of the published material are: Survey intelligent scheduling systems. The material was Read and allocated to the AR group (goups’ description). Subjectivally, after grasping 80% of the work’s content, the summary author graded the reviewed work with A (grading explained).\nThe original Article can be accessed by the following URL: https://doi.org/10.1007/s10462-018-9667-6\n.$pk [1] “AR0027IR20”\n$state [1] “Read”\n$grade [1] “A”\n$year [1] 2020\n$type [1] “Article”\n$domain [1] “Scheduler”\n$grasp [1] 0.8\n$group [1] “AR”\n$old_pk [1] “032IRSchedulingReview2020”\n$title [1] “A state of the art review of intelligent scheduling”\n$covid19 [1] FALSE\n$objectives [1] “Survey intelligent scheduling systems”\n$conflict_of_interests [1] “not mentioned”\n$funding [1] “not mentioned”\n$outcomes [1] “Neutral”\n$comment [1] “Pros and cons of metaheuristics”\n$url [1] “https://doi.org/10.1007/s10462-018-9667-6”"
-  },
-  {
-    "objectID": "summary/AR0027IR20/index.html#short-summary",
-    "href": "summary/AR0027IR20/index.html#short-summary",
-    "title": "Review #0027",
-    "section": "Short Summary",
-    "text": "Short Summary\n“A state of the art review of intelligent scheduling” is published in 2020, and in the current study it represents scheduler domain. Objectives of the published material are: Survey intelligent scheduling systems. The material was read and allocated to the AR group. Subjectivally, after grasping 80% of the work’s content, the summary author graded the reviewed work with A (grading). There is neutral outcomes of the work, the work does not consider COVID-19 pandemic or other pandemic outbreaks, the conflict of interests are not mentioned, and the funding is not mentioned.\nLocal reference - AR0027IR20\nPreviously is mensioned as 032IRSchedulingReview2020\nShort note: Pros and cons of metaheuristics\nThe original Article can be accessed by the following URL: https://doi.org/10.1007/s10462-018-9667-6\n\nAuthors\n\n\nKeywords\n\n\nResearch Methods\n\n\nSource References\n\n\nSearch Databases\n\n\nPatient Types\n\n\nDecision Levels\n\n\nConstraints\n\n\nLevel of Integration\n\n\nMedical Datasets\n\n\nMedical Datasets"
-  },
-  {
-    "objectID": "summary/AR0027IR20/index.html#research-methods",
-    "href": "summary/AR0027IR20/index.html#research-methods",
-    "title": "Review #0027",
-    "section": "Research Methods",
-    "text": "Research Methods"
-  },
-  {
-    "objectID": "summary/AR0027IR20/index.html#source-references",
-    "href": "summary/AR0027IR20/index.html#source-references",
-    "title": "Review #0027",
-    "section": "Source References",
-    "text": "Source References"
-  },
-  {
-    "objectID": "summary/AR0027IR20/index.html#search-databases",
-    "href": "summary/AR0027IR20/index.html#search-databases",
-    "title": "Review #0027",
-    "section": "Search Databases",
-    "text": "Search Databases"
-  },
-  {
-    "objectID": "summary/AR0027IR20/index.html#patient-types",
-    "href": "summary/AR0027IR20/index.html#patient-types",
-    "title": "Review #0027",
-    "section": "Patient Types",
-    "text": "Patient Types"
-  },
-  {
-    "objectID": "summary/AR0027IR20/index.html#decision-levels",
-    "href": "summary/AR0027IR20/index.html#decision-levels",
-    "title": "Review #0027",
-    "section": "Decision Levels",
-    "text": "Decision Levels"
-  },
-  {
-    "objectID": "summary/AR0027IR20/index.html#constraints",
-    "href": "summary/AR0027IR20/index.html#constraints",
-    "title": "Review #0027",
-    "section": "Constraints",
-    "text": "Constraints"
-  },
-  {
-    "objectID": "summary/AR0027IR20/index.html#level-of-integration",
-    "href": "summary/AR0027IR20/index.html#level-of-integration",
-    "title": "Review #0027",
-    "section": "Level of Integration",
-    "text": "Level of Integration"
-  },
-  {
-    "objectID": "summary/AR0027IR20/index.html#medical-datasets",
-    "href": "summary/AR0027IR20/index.html#medical-datasets",
-    "title": "Review #0027",
-    "section": "Medical Datasets",
-    "text": "Medical Datasets"
-  },
-  {
-    "objectID": "summary/AR0027IR20/index.html#medical-datasets-1",
-    "href": "summary/AR0027IR20/index.html#medical-datasets-1",
-    "title": "Review #0027",
-    "section": "Medical Datasets",
-    "text": "Medical Datasets"
-  },
-  {
-    "objectID": "summary/AR0027IR20/index.html#affiliations",
-    "href": "summary/AR0027IR20/index.html#affiliations",
-    "title": "Review #0027",
-    "section": "Affiliations",
-    "text": "Affiliations"
-  },
-  {
-    "objectID": "summary/AR0027IR20/index.html#keywords",
-    "href": "summary/AR0027IR20/index.html#keywords",
-    "title": "Review #0027",
-    "section": "Keywords",
-    "text": "Keywords"
-  },
-  {
-    "objectID": "summary/AR0027IR20/index.html#authors",
-    "href": "summary/AR0027IR20/index.html#authors",
-    "title": "Review #0027",
-    "section": "Authors",
-    "text": "Authors"
-  },
-  {
-    "objectID": "summary/AR0027IR20/index.html#scan-review",
-    "href": "summary/AR0027IR20/index.html#scan-review",
-    "title": "Review #0027",
-    "section": "Scan Review",
-    "text": "Scan Review"
-  },
-  {
-    "objectID": "summary/AR0027IR20/index.html#focus-review",
-    "href": "summary/AR0027IR20/index.html#focus-review",
-    "title": "Review #0027",
-    "section": "Focus Review",
-    "text": "Focus Review"
-  },
-  {
-    "objectID": "summary/AR0027IR20/index.html#go-all-in-review",
-    "href": "summary/AR0027IR20/index.html#go-all-in-review",
-    "title": "Review #0027",
-    "section": "Go All-In Review",
-    "text": "Go All-In Review"
-  },
-  {
-    "objectID": "summary/AR0027IR20/index.html#master-review",
-    "href": "summary/AR0027IR20/index.html#master-review",
-    "title": "Review #0027",
-    "section": "Master Review",
-    "text": "Master Review"
-  },
-  {
-    "objectID": "legend.html#grading-system",
-    "href": "legend.html#grading-system",
-    "title": "Legend",
-    "section": "Grading System",
-    "text": "Grading System"
-  },
-  {
-    "objectID": "legend.html#subsection-grading",
-    "href": "legend.html#subsection-grading",
-    "title": "Legend",
-    "section": "Local Grading System",
-    "text": "Local Grading System\n\n(A+) -\n\n\n(A) -\n\n\n(B+) -\n\n\n(B) -\n\n\n(C) -\n\n\n(D) -\n\n\n(E) -\n\n\n(F) -\n\n\n(F-) -"
-  },
-  {
-    "objectID": "summary/0027/index.html#short-summary",
-    "href": "summary/0027/index.html#short-summary",
-    "title": "Review #0027",
-    "section": "Short Summary",
-    "text": "Short Summary\n“A state of the art review of intelligent scheduling” is published in 2020, and in the current study it represents scheduler domain. Objectives of the published material are: Survey intelligent scheduling systems. The material was read and allocated to the AR group. After grasping 80% of the work’s content, the reviewed work get A general grade and 3 certainty points. There is neutral outcomes of the work, the work does not consider COVID-19 pandemic or other pandemic outbreaks, the conflict of interests are not mentioned, and the funding is not mentioned.\nLocal reference:AR0027IR20\nInitial reference:032IRSchedulingReview2020\nShort note:Pros and cons of metaheuristics\nThe original article can be accessed by the following URL:https://doi.org/10.1007/s10462-018-9667-6"
-  },
-  {
-    "objectID": "summary/0027/index.html#scan-review",
-    "href": "summary/0027/index.html#scan-review",
-    "title": "Review #0027",
-    "section": "Scan Review",
-    "text": "Scan Review"
-  },
-  {
-    "objectID": "summary/0027/index.html#focus-review",
-    "href": "summary/0027/index.html#focus-review",
-    "title": "Review #0027",
-    "section": "Focus Review",
-    "text": "Focus Review"
-  },
-  {
-    "objectID": "summary/0027/index.html#go-all-in-review",
-    "href": "summary/0027/index.html#go-all-in-review",
-    "title": "Review #0027",
-    "section": "Go All-In Review",
-    "text": "Go All-In Review"
-  },
-  {
-    "objectID": "summary/0027/index.html#master-review",
-    "href": "summary/0027/index.html#master-review",
-    "title": "Review #0027",
-    "section": "Master Review",
-    "text": "Master Review"
-  },
-  {
-    "objectID": "summary/0027/index.html#all-in-review",
-    "href": "summary/0027/index.html#all-in-review",
-    "title": "Review #0027",
-    "section": "All-In Review",
-    "text": "All-In Review"
-  },
-  {
-    "objectID": "legend.html#subsection-certainty",
-    "href": "legend.html#subsection-certainty",
-    "title": "Legend",
-    "section": "Certainty of Evidence Grading",
-    "text": "Certainty of Evidence Grading\n\n1st point:\nThe resutls of the research are mentioned in the body of the report paper with explanation how the results were obtained.\n\n\n2nd point:\nThe process of reaching the findings of the study is clearly stated. The results are mention in body of the research and underlined in the conclusions of the work.\n\n\n3rd point:\nThe output of the research is highlighted in the short summaries of the paper (abstract, conclusions, or discussions). The authors of the work presented the data in structured digestible form.\n\n\n4th point:\nThe findings demonstrated with charts or tables, and there is a link to the manuscripts, research data, or additional supplimentary materials. However, the original data is not accessable, or in order to access the data, other researchers need to make a request, fully andertend the architecture of the storage platform, where the data was reserved.\n\n\n5th point:\nThe results are presented in a table and the collected data during the research is fully available and easally accessable for the replication of the results by other investigators. The data in the presented tables is consistant with the values presented in the text and the raw data of the research."
-  },
-  {
-    "objectID": "summary/0027/index.html#bias-assessment",
-    "href": "summary/0027/index.html#bias-assessment",
-    "title": "Review #0027",
-    "section": "Bias Assessment",
-    "text": "Bias Assessment"
-  },
-  {
-    "objectID": "summary/0027/index.html#authors",
-    "href": "summary/0027/index.html#authors",
-    "title": "Review #0027",
-    "section": "Authors",
-    "text": "Authors\nMohammad Hossein Fazel ZarandiDepartment of Industrial Engineering, Amirkabir University of Technology, Tehran, Iran Ali Akbar Sadat AslDepartment of Industrial Engineering, Amirkabir University of Technology, Tehran, Iran Shahabeddin SotudianDivision of Systems Engineering, Boston University, Boston, USA Oscar CastilloTijuana Institute of Technology, Tijuana, Mexico"
-  },
-  {
-    "objectID": "summary/0027/index.html#keywords",
-    "href": "summary/0027/index.html#keywords",
-    "title": "Review #0027",
-    "section": "Keywords",
-    "text": "Keywords\nIntelligent scheduling Fuzzy logic Expert system Machine learning Stochastic local search optimization algorithms Constraint programmingColours explained: Method, Objectives, Subject, Property, Tool"
-  },
-  {
-    "objectID": "summary/0027/index.html#research-methods",
-    "href": "summary/0027/index.html#research-methods",
-    "title": "Review #0027",
-    "section": "Research Methods",
-    "text": "Research Methods"
-  },
-  {
-    "objectID": "summary/0027/index.html#source-references",
-    "href": "summary/0027/index.html#source-references",
-    "title": "Review #0027",
-    "section": "Source References",
-    "text": "Source References"
-  },
-  {
-    "objectID": "summary/0027/index.html#databases",
-    "href": "summary/0027/index.html#databases",
-    "title": "Review #0027",
-    "section": "Databases",
-    "text": "Databases\n\nSearch Databases\n\n\nMedical Datasets"
-  },
-  {
-    "objectID": "summary/0027/index.html#classification",
-    "href": "summary/0027/index.html#classification",
-    "title": "Review #0027",
-    "section": "Classification",
-    "text": "Classification\n\nPatient Types\n\n\nDecision Levels\n\n\nLevel of Integration"
-  },
-  {
-    "objectID": "summary/0027/index.html#constraints",
-    "href": "summary/0027/index.html#constraints",
-    "title": "Review #0027",
-    "section": "Constraints",
-    "text": "Constraints"
-  },
-  {
     "objectID": "summary/0001/index.html#short-summary",
     "href": "summary/0001/index.html#short-summary",
     "title": "Review #0001",
     "section": "Short Summary",
-    "text": "Short Summary\n“Artificial Intelligence for Patient Scheduling in the Real-World Health Care Setting: A Metanarrative Review” is published in 2023, and in the current study it represents both domain. Objectives of the published material are: not specified. The material was analysed and allocated to the 5 group. After grasping 90% of the work’s content, the reviewed work get B+ general grade and -99 certainty points. There is neutral outcomes of the work, the work considers COVID-19 pandemic or other pandemic outbreaks, the conflict of interests are Not mentioned, and the funding is Not mentioned.\nLocal reference:SR0001US23\nInitial reference:x034\nShort note:RAMESES publication standards\nThe original article can be accessed by the following URL:https://doi.org/10.1016/j.hlpt.2023.100824"
+    "text": "Short Summary\n“Artificial Intelligence for Patient Scheduling in the Real-World Health Care Setting: A Metanarrative Review” is published in 2023, and in the current study it represents both domain. Objectives of the published material are: not specified. The material was analysed and allocated to the 5 group. After grasping 90% of the work’s content, the reviewed work get B+ general grade and -99 certainty points. There is neutral outcomes of the work, the work considers COVID-19 pandemic or other pandemic outbreaks, the conflict of interests are not mentioned, and the funding is not mentioned.\nLocal reference:SR0001US23\nInitial reference:x034\nShort note:RAMESES publication standards\nThe original article can be accessed by the following URL:https://doi.org/10.1016/j.hlpt.2023.100824"
   },
   {
     "objectID": "summary/0001/index.html#authors",
     "href": "summary/0001/index.html#authors",
     "title": "Review #0001",
     "section": "Authors",
-    "text": "Authors\n****__"
+    "text": "Authors\nDacre R.T. KnightDivision of General Internal Medicine, Mayo Clinic, Jacksonville, FL, United States Christopher A. AakreDivision of General Internal Medicine, Mayo Clinic, Rochester, MN, United States Christopher V. AnstineDivision of General Internal Medicine, Mayo Clinic, Rochester, MN, United States Bala MunipalliDivision of General Internal Medicine, Mayo Clinic, Jacksonville, FL, United States Parisa BiazarGrand Strand Medical Center, Myrtle Beach, SC, United States Ghada MitriDivision of General Internal Medicine, Mayo Clinic, Jacksonville, FL, United States Jose Raul ValeryDivision of Community Internal Medicine, Mayo Clinic, Jacksonville, FL, United States Tara BrighamMayo Medical Library, United States Shehzad K. NiaziDivision of General Internal Medicine, Mayo Clinic, Jacksonville, FL, United States Adam I. PerlmanDivision of Psychiatry, Mayo Clinic, Jacksonville, FL, United States John D. HalamkaDivision of General Internal Medicine, Mayo Clinic, Jacksonville, FL, United States Abd Moain Abu DabrhMayo Clinic, Rochester, MN, United States"
   },
   {
     "objectID": "summary/0001/index.html#keywords",
     "href": "summary/0001/index.html#keywords",
     "title": "Review #0001",
     "section": "Keywords",
-    "text": "Keywords\nColours explained: Method, Objectives, Subject, Property, Tool"
+    "text": "Keywords\nAppointments and schedules Artificial intelligence Decision support systems – clinical Machine learning Patient care Resource allocationColours explained: Method, Objectives, Subject, Property, Tool"
   },
   {
     "objectID": "summary/0001/index.html#research-methods",
@@ -441,53 +63,32 @@
     "text": "Bias Assessment"
   },
   {
-    "objectID": "summary/0001/index.html#scan-review",
-    "href": "summary/0001/index.html#scan-review",
-    "title": "Review #0001",
-    "section": "Scan Review",
-    "text": "Scan Review"
-  },
-  {
     "objectID": "summary/0001/index.html#focus-review",
     "href": "summary/0001/index.html#focus-review",
     "title": "Review #0001",
     "section": "Focus Review",
-    "text": "Focus Review"
-  },
-  {
-    "objectID": "summary/0001/index.html#all-in-review",
-    "href": "summary/0001/index.html#all-in-review",
-    "title": "Review #0001",
-    "section": "All-In Review",
-    "text": "All-In Review"
-  },
-  {
-    "objectID": "summary/0001/index.html#master-review",
-    "href": "summary/0001/index.html#master-review",
-    "title": "Review #0001",
-    "section": "Master Review",
-    "text": "Master Review"
+    "text": "Focus Review\n\nSummary\nDacre Knight et al. [1] conducted a meta-narrative literature review for Artificial Intelligence and Machine Learning technologies implemented in healthcare. The researchers define three types of studies: pre-pilot, pilot and implemented. Major databases were searched on August 14, 2020, and only the publications of the third type were selected for deeper review. The review paper highlights the advantages and obstacles of using AI technologies in healthcare. The authors consider their work’s limitations and outline future research directions.\n\n\nObjectives\nThe artificial intelligence and machine learning approaches are uncharted territory in the optimal scheduling.\n\n\nMethods\nThe authors of systematic review of publications starting from August 2020. The reviews of literature were conducted by two independent specialists per each article.\n\n\nResults\nAreas of AI application are: double-booking, missed appointment risk, wait time, disease-type matching performance, scheduling efficiency, examination length prediction, and surgical operation time.\n\n\nConclusions\nProved the AI competence and found new revenues for development\n\n\nNotes\n\nStudies split into three stages: pre-pilot, pilot, implementation;\n11 implemented works;\ngeneral statements, low-on-insights reveiw;\n2 reviewers + consultant investigator\n\n\n\n\n\n[1] D. Knight et al., “Artificial intelligence for patient scheduling in the real-world health care setting: A metanarrative review,” Health Policy and Technology, p. 100824, 2023, doi: https://doi.org/10.1016/j.hlpt.2023.100824."
   },
   {
     "objectID": "summary/0002/index.html#short-summary",
     "href": "summary/0002/index.html#short-summary",
     "title": "Review #0002",
     "section": "Short Summary",
-    "text": "Short Summary\n“Current Trends in Operating Room Scheduling 2015 to 2020: a Literature Review” is published in 2022, and in the current study it represents scheduler domain. Objectives of the published material are: not specified. The material was analysed and allocated to the 5 group. After grasping 95% of the work’s content, the reviewed work get A general grade and -99 certainty points. There is neutral outcomes of the work, the work does not consider COVID-19 pandemic or other pandemic outbreaks, the conflict of interests are Not mentioned, and the funding is Not mentioned.\nLocal reference:SR0002US22\nInitial reference:x079\nShort note:Reviews cascade 2000-2020\nThe original article can be accessed by the following URL:https://doi.org/10.1007/s43069-022-00134-y"
+    "text": "Short Summary\n“Current Trends in Operating Room Scheduling 2015 to 2020: a Literature Review” is published in 2022, and in the current study it represents scheduler domain. Objectives of the published material are: not specified. The material was analysed and allocated to the 5 group. After grasping 95% of the work’s content, the reviewed work get A general grade and -99 certainty points. There is neutral outcomes of the work, the work does not consider COVID-19 pandemic or other pandemic outbreaks, the conflict of interests are not mentioned, and the funding is not mentioned.\nLocal reference:SR0002US22\nInitial reference:x079\nShort note:Reviews cascade 2000-2020\nThe original article can be accessed by the following URL:https://doi.org/10.1007/s43069-022-00134-y"
   },
   {
     "objectID": "summary/0002/index.html#authors",
     "href": "summary/0002/index.html#authors",
     "title": "Review #0002",
     "section": "Authors",
-    "text": "Authors\n****__"
+    "text": "Authors\nSean HarrisJake Jabs College of Business and Entrepreneurship, Montana State University, Bozeman, Montana, 59717, USA David ClaudioDepartment of Mechanical Engineering, University of Massachusetts Lowell, Lowell, MA, 01854, USA"
   },
   {
     "objectID": "summary/0002/index.html#keywords",
     "href": "summary/0002/index.html#keywords",
     "title": "Review #0002",
     "section": "Keywords",
-    "text": "Keywords\nColours explained: Method, Objectives, Subject, Property, Tool"
+    "text": "Keywords\nOperating room scheduling Literature review Health care management Surgery schedulingColours explained: Method, Objectives, Subject, Property, Tool"
   },
   {
     "objectID": "summary/0002/index.html#research-methods",
@@ -543,7 +144,7 @@
     "href": "summary/0002/index.html#focus-review",
     "title": "Review #0002",
     "section": "Focus Review",
-    "text": "Focus Review"
+    "text": "Focus Review\n\nSummary\nSean Harris and David Claudio [1] conducted literature on current operating room scheduling trends from 2015 to 2020. This literature review updates knowledge about new studies continuing the three previous reviews. The authors also introduced new categories and metrics for structuring and analysing the findings. The categories were evaluated individually by complexity criteria, and at the end, the collective average complexity of the research works was presented. The research focuses mainly on the Operating Room Scheduling problem and less on the proposed solutions. Sean Harris and David Claudio underline the most promising future scheduler development directions. The emphasis is placed on the geographic location for the generalisation research and on the need for more practical implementations of the scheduling models.\n\n\nConclusions:\nReview on 246 studies from 2015 to 2020 was conducted. Patient type is consistant and future works are in direction of non-elective cases (centralised vs. deventralised). The tendency of multiple performance measures should continue. All decision delineations (dynamic scheduling, rescheduling and online scheduling) are continuing to be desirable areas of research. The not traditional upstream capacities could be considered for future research. Incorporating more uncertainty in OR schedulers. Research methodology lies in development of heuristics and the suggestion areas are simulation-optimisation and goal programming. More research is needed in testing and application. Innovative diraction is to consider generalisation from one geographic location to another. For the papers in the research the complexity score increases closer to 2020. The collective work shows its benefits, but the field remains scarce meaning the challeges are not easy to concore.\n\n\nNotes\n\nCascade of literature reviews from 2000 to 2020;\nThe geographical location by hospital or the first affiliation;\nModels generalisation from one country to another (urban to rural);\nLeeftink and Hans (153) dataset;\nSystematic texting and validation (32, 19, 230)\nLook into the next studies: 1, 8, 12, 231, 262;\n(thoughts) statistics by researchers in the fiel;\n(thoughts) geographical locations by countries and/ or cities;\n\n\n\nSupplementaries\n\n\n\nNumber of articles per year [1]\n\n\n\n\n\nTesting and application from [1]\n\n\n\n\n\nGeographic Map of Article Locations and Frequency from [1]\n\n\n\n\n\nRatio of Actual/Expected Occurrence of PM by Country from [1]\n\n\n\n\n\n\n[1] S. Harris and D. Claudio, “Current trends in operating room scheduling 2015 to 2020: A literature review,” Operations Research Forum, vol. 3, Mar. 2022, doi: 10.1007/s43069-022-00134-y."
   },
   {
     "objectID": "summary/0002/index.html#all-in-review",
@@ -1110,7 +711,7 @@
     "href": "summary/0010/index.html#short-summary",
     "title": "Review #0010",
     "section": "Short Summary",
-    "text": "Short Summary\n“Integrated Planning in Hospitals: A Review” is published in 2023, and in the current study it represents both domain. Objectives of the published material are: Research the existing literature in scope of healthcare integrated planning.. The material was analysed and allocated to the 4 group. After grasping 96% of the work’s content, the reviewed work get A general grade and -99 certainty points. There is neutral outcomes of the work, the work considers COVID-19 pandemic or other pandemic outbreaks, the conflict of interests are Not mentioned, and the funding is Fully funded.\nLocal reference:SR0010NL23\nInitial reference:x338\nShort note:Health departments disconnection\nThe original article can be accessed by the following URL:https://doi.org/10.48550/arXiv.2307.05258"
+    "text": "Short Summary\n“Integrated Planning in Hospitals: A Review” is published in 2023, and in the current study it represents both domain. Objectives of the published material are: Research the existing literature in scope of healthcare integrated planning.. The material was analysed and allocated to the 4 group. After grasping 96% of the work’s content, the reviewed work get A general grade and -99 certainty points. There is neutral outcomes of the work, the work considers COVID-19 pandemic or other pandemic outbreaks, the conflict of interests are not mentioned, and the funding is fully funded.\nLocal reference:SR0010NL23\nInitial reference:x338\nShort note:Health departments disconnection\nThe original article can be accessed by the following URL:https://doi.org/10.48550/arXiv.2307.05258"
   },
   {
     "objectID": "summary/0010/index.html#authors",
@@ -2653,6 +2254,97 @@
     "text": "Master Review"
   },
   {
+    "objectID": "summary/0027/index.html#short-summary",
+    "href": "summary/0027/index.html#short-summary",
+    "title": "Review #0027",
+    "section": "Short Summary",
+    "text": "Short Summary\n“A state of the art review of intelligent scheduling” is published in 2020, and in the current study it represents scheduler domain. Objectives of the published material are: Survey intelligent scheduling systems. The material was read and allocated to the AR group. After grasping 80% of the work’s content, the reviewed work get A general grade and 3 certainty points. There is neutral outcomes of the work, the work does not consider COVID-19 pandemic or other pandemic outbreaks, the conflict of interests are not mentioned, and the funding is not mentioned.\nLocal reference:AR0027IR20\nInitial reference:032IRSchedulingReview2020\nShort note:Pros and cons of metaheuristics\nThe original article can be accessed by the following URL:https://doi.org/10.1007/s10462-018-9667-6"
+  },
+  {
+    "objectID": "summary/0027/index.html#authors",
+    "href": "summary/0027/index.html#authors",
+    "title": "Review #0027",
+    "section": "Authors",
+    "text": "Authors\nMohammad Hossein Fazel ZarandiDepartment of Industrial Engineering, Amirkabir University of Technology, Tehran, Iran Ali Akbar Sadat AslDepartment of Industrial Engineering, Amirkabir University of Technology, Tehran, Iran Shahabeddin SotudianDivision of Systems Engineering, Boston University, Boston, USA Oscar CastilloTijuana Institute of Technology, Tijuana, Mexico"
+  },
+  {
+    "objectID": "summary/0027/index.html#keywords",
+    "href": "summary/0027/index.html#keywords",
+    "title": "Review #0027",
+    "section": "Keywords",
+    "text": "Keywords\nIntelligent scheduling Fuzzy logic Expert system Machine learning Stochastic local search optimization algorithms Constraint programmingColours explained: Method, Objectives, Subject, Property, Tool"
+  },
+  {
+    "objectID": "summary/0027/index.html#research-methods",
+    "href": "summary/0027/index.html#research-methods",
+    "title": "Review #0027",
+    "section": "Research Methods",
+    "text": "Research Methods"
+  },
+  {
+    "objectID": "summary/0027/index.html#source-references",
+    "href": "summary/0027/index.html#source-references",
+    "title": "Review #0027",
+    "section": "Source References",
+    "text": "Source References"
+  },
+  {
+    "objectID": "summary/0027/index.html#databases",
+    "href": "summary/0027/index.html#databases",
+    "title": "Review #0027",
+    "section": "Databases",
+    "text": "Databases\n\nSearch Databases\n\n\nMedical Datasets"
+  },
+  {
+    "objectID": "summary/0027/index.html#classification",
+    "href": "summary/0027/index.html#classification",
+    "title": "Review #0027",
+    "section": "Classification",
+    "text": "Classification\n\nPatient Types\n\n\nDecision Levels\n\n\nLevel of Integration"
+  },
+  {
+    "objectID": "summary/0027/index.html#constraints",
+    "href": "summary/0027/index.html#constraints",
+    "title": "Review #0027",
+    "section": "Constraints",
+    "text": "Constraints"
+  },
+  {
+    "objectID": "summary/0027/index.html#bias-assessment",
+    "href": "summary/0027/index.html#bias-assessment",
+    "title": "Review #0027",
+    "section": "Bias Assessment",
+    "text": "Bias Assessment"
+  },
+  {
+    "objectID": "summary/0027/index.html#scan-review",
+    "href": "summary/0027/index.html#scan-review",
+    "title": "Review #0027",
+    "section": "Scan Review",
+    "text": "Scan Review"
+  },
+  {
+    "objectID": "summary/0027/index.html#focus-review",
+    "href": "summary/0027/index.html#focus-review",
+    "title": "Review #0027",
+    "section": "Focus Review",
+    "text": "Focus Review"
+  },
+  {
+    "objectID": "summary/0027/index.html#all-in-review",
+    "href": "summary/0027/index.html#all-in-review",
+    "title": "Review #0027",
+    "section": "All-In Review",
+    "text": "All-In Review"
+  },
+  {
+    "objectID": "summary/0027/index.html#master-review",
+    "href": "summary/0027/index.html#master-review",
+    "title": "Review #0027",
+    "section": "Master Review",
+    "text": "Master Review"
+  },
+  {
     "objectID": "summary/0029/index.html#short-summary",
     "href": "summary/0029/index.html#short-summary",
     "title": "Review #0029",
@@ -3470,5 +3162,47 @@
     "title": "Review #0038",
     "section": "Master Review",
     "text": "Master Review"
+  },
+  {
+    "objectID": "legend.html#subsection-material-groups",
+    "href": "legend.html#subsection-material-groups",
+    "title": "Legend",
+    "section": "Literature Material Groups",
+    "text": "Literature Material Groups\n\nSR - Specialised Review\nThis group of studies represent literature reviews in the scope of medical resource scheduling problem related to focusing to operating theatres and related to this subject areas.\n\n\nSO - Specialised Online Materials\nSpecialised Online posts, ads, commercial articles related to the medical resource scheduling problem, analytics of the healthcare for businesses, healthcare administrators, and technicians.\n\n\nSC - Specialised Case Study\nSpecialised Case and application of the previous theory on practice;\n\n\nSM - Specialised Idealised Model\nSpecialised Models developed specially for MRS problems;\n\n\nSF - Specialised Full Study\nSpecialised Full work of developing model and implementing it;\n\n\nST - Specialised Theoretical Work\nSpecialised Theory works;\n\n\nSS - Strategies for Healthcare Administrators\nSpecialised Administration related works;\n\n\nAR - Review on the Alternatice Approaches out of Healthcare\nAlternative Reviews of methods applicable to MRS;\n\n\nAO - Alternative Online Resources\nAlternative Online resources;\n\n\nAC - Alternative Case Studies\nAlternative Case which applied in a similar field or somehow related to MRS problems;\n\n\nAF - Alternative Full Studies\nAlternative Full work of developing model and implementing it;\n\n\nAM - Developments of Alternative Models\nAlternative Models for scheduling resources;\n\n\nAT - Alternative Theory Works\nAlternative Theory works;\n\n\nAS - Strategies for Other Resource Management\nThe scheduling approaches which are not related to the healthcare, but can be adapted from other fields of reseach. (This is very similar to AT so possibly redundant)\n\n\nHP - Healthcare Policies, Regulations, and Protocols\nHealthcare policies, regulations, protocols, and rules which can differ from country to country and in some cases even from hospital to hospital.\n\n\nOM - Other Materials\nOther materials like posters, databases, memes, videos, etc.\n\n\nNA - Undefined\nMaterials which are yet to be identified with one of the outlined above groups."
+  },
+  {
+    "objectID": "legend.html#subsection-grading",
+    "href": "legend.html#subsection-grading",
+    "title": "Legend",
+    "section": "Local Grading System",
+    "text": "Local Grading System\n\n(A+) -\n\n\n(A) -\n\n\n(B+) -\n\n\n(B) -\n\n\n(C) -\n\n\n(D) -\n\n\n(E) -\n\n\n(F) -\n\n\n(F-) -"
+  },
+  {
+    "objectID": "legend.html#subsection-certainty",
+    "href": "legend.html#subsection-certainty",
+    "title": "Legend",
+    "section": "Certainty of Evidence Grading",
+    "text": "Certainty of Evidence Grading\n\n1st point:\nThe resutls of the research are mentioned in the body of the report paper with explanation how the results were obtained.\n\n\n2nd point:\nThe process of reaching the findings of the study is clearly stated. The results are mention in body of the research and underlined in the conclusions of the work.\n\n\n3rd point:\nThe output of the research is highlighted in the short summaries of the paper (abstract, conclusions, or discussions). The authors of the work presented the data in structured digestible form.\n\n\n4th point:\nThe findings demonstrated with charts or tables, and there is a link to the manuscripts, research data, or additional supplimentary materials. However, the original data is not accessable, or in order to access the data, other researchers need to make a request, fully andertend the architecture of the storage platform, where the data was reserved.\n\n\n5th point:\nThe results are presented in a table and the collected data during the research is fully available and easally accessable for the replication of the results by other investigators. The data in the presented tables is consistant with the values presented in the text and the raw data of the research."
+  },
+  {
+    "objectID": "legend.html#glossary",
+    "href": "legend.html#glossary",
+    "title": "Legend",
+    "section": "Glossary",
+    "text": "Glossary\nSLR - Systematic Literature Review\nOT - Operating Theatre\nOR - Operating Room\nOR&M - Operations Research and Management\nLoS - Length of Stay\nICU - Intensive Care Unit\nPACU - Post Anaesthetic Care Unit\nCoI - Conflict of Interests"
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "[1] D.\nKnight et al., “Artificial intelligence for patient\nscheduling in the real-world health care setting: A metanarrative\nreview,” Health Policy and Technology, p. 100824, 2023,\ndoi: https://doi.org/10.1016/j.hlpt.2023.100824.\n\n\n[2] S.\nHarris and D. Claudio, “Current trends in operating room\nscheduling 2015 to 2020: A literature review,” Operations\nResearch Forum, vol. 3, Mar. 2022, doi: 10.1007/s43069-022-00134-y."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Summary Compilation: Advanced Computational Approaches for Medical Resource Scheduling",
+    "section": "",
+    "text": "Preface\nThis summary compilation is created to track the reviewed and analysed literature materials in scope of advanced computational approaches for medical resource scheduling."
   }
 ]

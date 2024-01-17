@@ -73,6 +73,31 @@
 
 ## Focus Review
 
-## All-In Review
+#### Summary
 
-## Master Review
+Sean Harris and David Claudio [@x079] conducted literature on current operating room scheduling trends from 2015 to 2020. This literature review updates knowledge about new studies continuing the three previous reviews. The authors also introduced new categories and metrics for structuring and analysing the findings. The categories were evaluated individually by complexity criteria, and at the end, the collective average complexity of the research works was presented. The research focuses mainly on the Operating Room Scheduling problem and less on the proposed solutions. Sean Harris and David Claudio underline the most promising future scheduler development directions. The emphasis is placed on the geographic location for the generalisation research and on the need for more practical implementations of the scheduling models.
+
+#### Conclusions:
+
+Review on 246 studies from 2015 to 2020 was conducted. **Patient type** is consistant and future works are in direction of non-elective cases (centralised vs. deventralised). The tendency of multiple **performance measures** should continue. All **decision delineations** (dynamic scheduling, rescheduling and online scheduling) are continuing to be desirable areas of research. The **not traditional upstream capacities** could be considered for future research. Incorporating more **uncertainty** in OR schedulers. **Research methodology** lies in development of heuristics and the suggestion areas are simulation-optimisation and goal programming. More research is needed in **testing and application**. Innovative diraction is to consider generalisation from one **geographic location** to another. For the papers in the research the complexity score increases closer to 2020. The collective work shows its benefits, but the field remains scarce meaning the challeges are not easy to concore.
+
+#### Notes
+
+-   Cascade of literature reviews from 2000 to 2020;
+-   The geographical location by hospital or the first affiliation;
+-   Models generalisation from one country to another (urban to rural);
+-   Leeftink and Hans (153) dataset;
+-   Systematic texting and validation (32, 19, 230)
+-   Look into the next studies: 1, 8, 12, 231, 262;
+-   (thoughts) statistics by researchers in the fiel;
+-   (thoughts) geographical locations by countries and/ or cities;
+
+#### Supplementaries
+
+![Number of articles per year [@x079]](figure/001.png "Number of articles per year by Sean Harris and David Claudio."){#0002-fig1 fig-alt="Number of articles per year by Sean Harris and David Claudio."}
+
+![Testing and application from [@x079]](figure/002.png "Testing and application by Sean Harris and David Claudio"){#0002-fig2 fig-alt="Testing and application by Sean Harris and David Claudio."}
+
+![Geographic Map of Article Locations and Frequency from [@x079]](figure/003.png "Geographic Map of Article Locations and Frequency by Sean Harris and David Claudio"){#0002-fig3 fig-alt="Geographic Map of Article Locations and Frequency by Sean Harris and David Claudio."}
+
+![Ratio of Actual/Expected Occurrence of PM by Country from [@x079]](figure/004.png "Ratio of Actual/Expected Occurrence of PM by Country by Sean Harris and David Claudio"){#0002-fig4 fig-alt="Ratio of Actual/Expected Occurrence of PM by Country by Sean Harris and David Claudio."}

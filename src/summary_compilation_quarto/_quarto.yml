@@ -3,6 +3,11 @@ project:
 
 book:
   title: "Summary Compilation: Advanced Computational Approaches for Medical Resource Scheduling"
+  downloads: [pdf]
+
+  search: 
+    location: sidebar
+    type: textbox
   
   author: 
     - name: "Oleksii Dovhaniuk"
@@ -18,6 +23,7 @@ book:
           
         - name: "The SFI Centre for Research Training in Al"
           city: "Cork"
+        
 
   date: last-modified
   chapters:
@@ -64,6 +70,8 @@ book:
     - references.qmd
 
 bibliography: references.bib
+csl: ieee.csl
+
 
 format:
   html:
@@ -73,8 +81,6 @@ format:
     toc-location: left
     comments:
       hypothesis: true
-    citations-hover: true
-    crossref-hover: true
     theme: 
       light: litera
       dark: darkly
@@ -86,6 +92,9 @@ format:
 
   pdf:
     documentclass: scrreprt
+    toc: true
+    number-sections: false
+    colorlinks: true
 
 toc: true
 editor: visual

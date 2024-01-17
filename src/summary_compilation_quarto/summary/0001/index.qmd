@@ -69,10 +69,31 @@
 
 ## Bias Assessment
 
-## Scan Review
-
 ## Focus Review
 
-## All-In Review
+#### Summary
 
-## Master Review
+Dacre Knight et al. [@x034] conducted a meta-narrative literature review for Artificial Intelligence and Machine Learning technologies implemented in healthcare. The researchers define three types of studies: pre-pilot, pilot and implemented. Major databases were searched on August 14, 2020, and only the publications of the third type were selected for deeper review. The review paper highlights the advantages and obstacles of using AI technologies in healthcare. The authors consider their work's limitations and outline future research directions.
+
+#### Objectives
+
+The artificial intelligence and machine learning approaches are uncharted territory in the optimal scheduling.
+
+#### Methods
+
+The authors of systematic review of publications starting from August 2020. The reviews of literature were conducted by two independent specialists per each article.
+
+#### Results
+
+Areas of AI application are: double-booking, missed appointment risk, wait time, disease-type matching performance, scheduling efficiency, examination length prediction, and surgical operation time.
+
+#### Conclusions
+
+Proved the AI competence and found new revenues for development
+
+#### Notes
+
+-   Studies split into three stages: pre-pilot, pilot, implementation;
+-   11 implemented works;
+-   general statements, low-on-insights reveiw;
+-   2 reviewers + consultant investigator

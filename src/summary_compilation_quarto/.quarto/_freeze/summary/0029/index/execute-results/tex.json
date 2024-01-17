@@ -1,0 +1,20 @@
+{
+  "hash": "a5f2a3bfcf2a099c76a5b40d26554b62",
+  "result": {
+    "markdown": "\n\n\n\n# Review #0029 {.unnumbered}\n\n## Short Summary\n\n\n\n_**\"The Application of Operations Research Information System Tools in Hospital Operations Management in Developing Nations: A Systematic Literature Review\"**_ is published in **2023**, and in the current study it represents **both** domain. Objectives of the published material are: *Analyse OR&M situation in developing nations of Africa*. The material was **analysed** and allocated to the **4** [group](#subsection-material-groups). After grasping **80%** of the work's content, the reviewed work get **B** [general grade](#subsection-grading) and **-99** [certainty points](#subsection-certainty). There is **neutral** outcomes of the work, the work **does not consider** COVID-19 pandemic or other pandemic outbreaks, the conflict of interests are **not mentioned**, and the funding is **not mentioned**.\n\n\nLocal reference:<br>**SR0029UG23**\n\nInitial reference:<br>**044UGOpResInDevNatReview2023** \n\nShort note:<br>_Comparison of OR&M in developing countries and developed nations_\n\nThe original **article** can be accessed by the following URL:<br>*[https://doi.org/10.4314/udslj.v18i1.9](https://doi.org/10.4314/udslj.v18i1.9)*\n\n\n\n## Authors\n\n\n\n****<br>__<br><br>\n\n\n\n## Keywords\n\n\n\n _<span style='color: teal;'></span>_<br><br>**Colours explained:** _<span style='color: #75A267;'>Method</span>, <span style='color: #B8B500;'>Objectives</span>, <span style='color: #3CB0CD;'>Subject</span>, <span style='color: #AD62F8;'>Property</span>, <span style='color: #CB527D;'>Tool</span>_\n\n\n\n## Research Methods\n\n\n\n\n\n\n\n## Source References\n\n## Databases\n\n#### Search Databases\n\n#### Medical Datasets\n\n## Classification\n\n#### Patient Types\n\n#### Decision Levels\n\n#### Level of Integration\n\n## Constraints\n\n## Bias Assessment\n\n## Scan Review\n\n## Focus Review\n\n## All-In Review\n\n## Master Review\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {
+      "knitr": [
+        "{\"type\":\"list\",\"attributes\":{},\"value\":[]}"
+      ]
+    },
+    "preserve": null,
+    "postProcess": false
+  }
+}
