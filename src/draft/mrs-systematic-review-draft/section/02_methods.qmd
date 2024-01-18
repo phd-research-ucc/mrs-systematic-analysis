@@ -252,50 +252,76 @@ Report any methods required to prepare the data collected from studies for prese
 
 ### Methods to Explore Heterogeneity
 
-<div style='color: teal;'>
+- For the estimation of heterogeneity the subgroup analysis and meta-regression were used.
 
-- If methods were used to explore possible causes of statistical heterogeneity, specify the method used (e.g. subgroup analysis, meta-regression).
+
+
+- No exotic methods were used to explore heterogeneity, since the data were amenable to meta-analysis of effect estimates.
+
+- All analyses used to explore heterogeneity were pre-specified befor conduction systematic literature review.
+
+<div style='color: teal;'>
 
 - If subgroup analysis or meta-regression was performed, specify for each:
     - which factors were explored, levels of those factors, and which direction of effect modification was expected and why (where possible).
     - whether analyses were conducted using study-level variables (i.e. where each study is included in one subgroup only), within-study contrasts (i.e. where data on subsets of participants within a study are available, allowing the study to be included in more than one subgroup), or some combination of the above.
     - how subgroup effects were compared (e.g. statistical test for interaction for subgroup analyses).
 
-- If other methods were used to explore heterogeneity because data were not amenable to meta-analysis of effect estimates (e.g. structuring tables to examine variation in results across studies based on subpopulation), describe the methods used, along with the factors and levels.
-
-- If any analyses used to explore heterogeneity were not pre-specified, identify them as such.
 </div>
+
 
 
 ### Sensitivity Analyses
 
-<div style='color: teal;'>
+- Varying Inclusion/Exclusion Criteria:
 
-- If sensitivity analyses were performed, provide details of each analysis (e.g. removal of studies at high risk of bias, use of an alternative meta-analysis model).
+Exclude studies with a high risk of bias.
+Include/exclude studies with different study designs.
+Alter inclusion/exclusion criteria based on different population characteristics, intervention types, or outcome measures.
 
-- If any sensitivity analyses were not pre-specified, identify them as such.
+- Quality Assessment:
 
-</div>
+Vary the threshold for considering studies as "high-quality" or "low-quality" based on the risk of bias assessment.
+Perform the analysis using only studies that are deemed to be of high quality.
+
+- Data Synthesis Methods:
+
+Use different statistical methods for meta-analysis (e.g., random-effects vs. fixed-effects models).
+Assess the impact of including/excluding studies with missing data.
+
+- Search Strategy:
+
+Modify the search strategy by including/excluding specific databases, adjusting search terms, or applying different date restrictions.
+
+- Language Bias:
+
+One of the possible sensitivity analysis would be changing the search language to other languages such as spenish and chiniese. However there is no investigator in the research team with language knowledge on the sufficient level to make a scientific survay.
+
+- All sensitivity analysese were pre-specified before the start of the SLR synthesis.
+
+
+
+
+
 
 
 ## Reporting Bias Assessment
 
-<div style='color: teal;'>
+- The risk of bias assessed using funnel plots (and possibly GRADE framework, but now sure).
 
-- Specify the methods (tool, graphical, statistical or other) used to assess the risk of bias due to missing results in a synthesis (arising from reporting biases).
+- Funnel plots are graphical representations that can help identify potential publication bias. These plots typically display the effect size or outcome measure against a measure of study size or precision. Asymmetry in the funnel plot may suggest the presence of publication bias or selective reporting of results. 
 
-- If risk of bias due to missing results was assessed using an existing tool, specify the methodological components/domains/items of the tool, and the process used to reach a judgement of overall risk of bias.
+- GRADE of Grading of Recommendations, Assessment, Development, and Evaluations is a subjective reproducible grading system to assess the certainty of evidence of the reviewed study results. It uses very low, low, moderate, and high levels of certainty which rate down: risk of bias, imprecision, inconsistency, indirectness, and publication bias of the reviewed material.
 
-- If any adaptations to an existing tool to assess risk of bias due to missing results were made, specify the adaptations.
+- There is no adaptations of the existing tools.
 
-- If a new tool to assess risk of bias due to missing results was developed for use in the review, describe the content of the tool and make it publicly accessible.
+- There is an additional approach used to access the surtanty of a study statements where we count the number of statements in favor and against the researched scheduling solution and then mark whether the statement was backed with some evidence in the reviewed research or in the cited materials of the research. The rate of the proved statements to the total statemes will show the certainty of the reserch statements. 
 
-- Report how many reviewers assessed risk of bias due to missing results in a synthesis, whether multiple reviewers worked independently, and any processes used to resolve disagreements between assessors.
+- There is one investigator who accessed risk of bias due to missing results in a SLR synthesis. The unclear points were discussed with two seniour investigators, one of which is specialised on computer schiences and the second on the medical aspect of the research.
 
-- Report any processes used to obtain or confirm relevant information from study investigators.
+- There were no need to obtain or confirm additional information from study investigators.
 
-- If an automation tool was used to assess risk of bias due to missing results, report how the automation tool was used, how the tool was trained, and details on the tool’s performance and internal validation.
-</div>
+- There were no automation tool used to assess risk of bias due to missing results. The manually stored synthesis results from individual studies were summarised using R script which can be openly accessed through following **LINK**.
 
 
 
@@ -304,25 +330,53 @@ Report any methods required to prepare the data collected from studies for prese
 
 ## Certainty Assessment
 
-<div style='color: teal;'>
+- For the certainty assessment the checklist based on the CASP systematic review checklist was used.
 
-- Specify the tool or system (and version) used to assess certainty (or confidence) in the body of evidence.
+- The factors considered when assessing certainty of the study:
+    - Did the study address a clear focused question?
+        - the population study;
+        - the intervention given;
+        - the outcome considered.
+    - Did the authors look or the right type of paper?
+        - address the question;
+        - proper study desing (usually RCTs for paper intervention evaluation)
+    - Were all the important, relevant studies included?
+        - bibliographic database used;
+        - reference list follow up;
+        - personal contacts with experts;
+        - unpublished and published studies;
+        - non-English published studies.
+    - Did the authors fully assessed the quality of the included studies?
+        - the authors should estimate disadvantages of the study.
+    - If results of the study were combined, was is reasonable?
+        - results are similar from study to study;
+        - results are clearly displayed;
+        - results in different studies are similar;
+        - variability in results is discussed.
+    - What are the results?
+        - the most importent results must be clearly indicared;
+        - actual results;
+        - how the results expected (NNT ratio).
+    - How precise are the results?
+        - look at the confidence intervals, if given.
+    - Will the results help locally?
+        - how different is the population in the study to owe population;
+        - settings may differ greatly.
+    - Were all crutial outcomes considered?
+        - there is other information you may have seen.
+    - Are the benefits worth the study effords?
+        - own thoughts on the matter.
 
-- Report the factors considered (e.g. precision of the effect estimate, consistency of findings across studies) and the criteria used to assess each factor when assessing certainty in the body of evidence.
+- Only if the answeres to the next two questions on each stage are 'Yes' the study can be proceeded to the next review stage.
 
-- Describe the decision rules used to arrive at an overall judgement of the level of certainty, together with the intended interpretation (or definition) of each level of certainty.
+- The questionier from CASP systematic review was modifies to accomodate the needs of the current systematic review.
 
-- If applicable, report any review-specific considerations for assessing certainty, such as thresholds used to assess imprecision and ranges of magnitude of effect that might be considered trivial, moderate or large, and the rationale for these thresholds and ranges (item #12).
+- There is only one reviewer of the study and two siniour envistigators for consulting on disputing points. One siniour investigator specialist in the area of Somputer Science and another is a consultant on the medical matter.
 
-- If any adaptations to an existing tool or system to assess certainty were made, specify the adaptations.
+- For the moment the all information that is used is from the publications themselves.
 
-- Report how many reviewers assessed certainty in the body of evidence for an outcome, whether multiple reviewers worked independently, and any processes used to resolve disagreements between assessors.
+- No automation tool was used to support the assessment of certainty. The summarisation of the reviewed studies was done with R script.
 
-- Report any processes used to obtain or confirm relevant information from investigators.
+- To summariese the certainty the quality criteria table and the summary table were presented.
 
-- If an automation tool was used to support the assessment of certainty, report how the automation tool was used, how the tool was trained, and details on the tool’s performance and internal validation.
-
-- Describe methods for reporting the results of assessments of certainty, such as the use of Summary of Findings tables.
-
-- If standard phrases that incorporate the certainty of evidence were used (e.g. “hip protectors probably reduce the risk of hip fracture slightly”), report the intended interpretation of each phrase and the reference for the source guidance.
-</div>
+- For the moment there are no standard phrases that incorporate the certainty of evidence were identified.
